@@ -1,0 +1,433 @@
+HighRadius
+Tekion Corp
+Deepen AI
+Rupeek
+Avaamo
+Mindtickle
+Electronic Arts
+smallcase
+noon
+ScanPay
+Mindbody
+Goldcast
+Inkle
+Emergent
+Bosch
+Mobile Premier League
+Cashfree Payments
+Quickads
+StepOut
+Powerplay
+Tripadvisor
+Fynd
+Teradata
+Delhivery
+Zapier
+LeadSquared
+StockX
+TrueFoundry
+District
+GoodScore
+CommerceIQ
+Observe.AI
+DAZN India
+Unisys
+Fanatics
+Delta Air Lines
+Octave
+Zelis
+ShopDeck
+Nanonets
+Country Delight
+Wissen Technology
+Kulu
+ixigo
+PW
+OLX India
+Kenyt.AI
+Cleartrip
+Alteryx
+GE Digital
+Parspec
+Ciena
+Indeed
+Oracle NetSuite
+JobTwine
+Bright Money
+Venmo
+Turvo
+Birla Pivot
+Phronetic AI
+Omnissa
+GeekyAnts
+Kotak811
+DreamStreet
+Finmo
+Zact
+Habuild
+Gupshup
+Narvar
+Kissht
+GoTo Group
+Cloudera
+Traya
+Warner Bros Discovery
+Notion
+Teachmint
+Viacom18 Media
+Sapiens
+Altimetrik
+Druva
+Okta
+Fluxon
+Wint Wealth
+NTT Data
+Pixis
+JazzX AI
+Porter
+HashiCorp
+Locus
+Trimble
+Snabbit
+Hitachi Vantara
+GreyOrange
+ShyftLabs
+Zenduty
+ModMed India
+Hitachi Solutions India
+Flipkart
+Sprinklr
+Recykal
+Signzy
+Invesco
+NxtWave
+Sureify
+Blue Yonder
+Zuddl
+Obvitree
+Tide
+Wise
+Moodys
+Uniphore
+HashedIn by Deloitte
+Codebasics
+Innovaccer
+Synopsys
+ShipBob
+Draup
+Pragmatyc
+ZoomInfo
+Ericsson
+InMobi Advertising
+Saviynt
+Liberis
+RECRIVIO
+PriceLabs
+udaan
+ClairLabs
+Progress
+Gameberry Labs
+Delta Exchange
+Sumo Logic
+Rapido
+Pearson
+Sutherland
+Clario
+Shell
+Impact Analytics
+Pixxel
+Clazar
+Pincode
+DigiCert
+Abacus.AI
+Mitti Labs
+Springworks
+Graviton Research Capital
+Groupon
+PhonePe
+Crunchyroll
+apna
+LSEG
+Prosperr.io
+Komodo Health
+Beacon.li
+GlobalLogic
+Pine Labs
+Licious
+IndiQube
+Treebo Hospitality Ventures
+Tanla Platforms
+HiLabs
+NEWME
+Arkahub
+Hotstar
+MeltPlan
+The Walt Disney Company
+T-Mobile
+Barclays
+UKG
+DoorDash
+Algoquant
+ConverzAI
+FinBox
+Toast
+Adyen
+Runo
+Riva Money
+GoKwik
+Quadeye
+Planview
+McKinsey
+Lloyds Technology Centre India
+NPCI
+Curefit
+Moneyview
+Mamaearth
+Samsara
+VIRGIO
+Circles
+Splunk
+Hakimo
+Compass
+Arista Networks
+Weave
+Sense
+HighLevel
+Sauce Labs
+Whatfix
+Matillion
+Flexmoney Technologies
+Storable India
+LightMetrics
+Hitachi Digital Services
+Broadridge India
+Coschool
+Accordion India
+FedEx
+Schindler India
+Zemoso Technologies
+Palo Alto Networks
+Texas Instruments
+Coursera
+Amdocs
+Ford Motor Company
+Chargebee
+Loop
+Emiza
+Ather Energy
+IndiGo
+NoBroker
+Mastercard
+American Express
+PubMatic
+O.C. Tanner
+F5
+NetApp
+Zaggle
+Publicis Sapient
+Airbnb
+IDFC FIRST Bank
+Mojro
+interface.ai
+MAQ Software
+UBS
+Ivanti
+Thomson Reuters
+Stable Money
+Scapia
+Chubb
+NVIDIA
+TEKsystems
+Workday
+PowerSchool
+Nykaa
+Commvault
+Rippling
+Toddle
+Bristol Myers Squibb
+Lenskart
+bigbasket
+MakeMyTrip
+Highspot
+Verizon
+Infor
+Cornerstone
+DigitalOcean
+Netcracker Technology
+Amadeus
+Providence India
+Intel
+Rakuten
+Target
+Nielsen
+ALLEN Digital
+Arctic Wolf
+Sprinto
+Pocket FM
+The D. E. Shaw Group
+Tesco
+Zscaler
+Wishlink
+slice
+Vegapay
+eBay
+UiPath
+Coforge
+Ninjacart
+Livspace
+Procore Technologies
+Samsung R&D Institute India
+Centific
+MSD
+AMD
+Databricks
+Groww
+Zebra Technologies
+SAP
+NatWest Group
+Eightfold
+Zuora
+Blinkit
+Grab
+Headout
+Greenlight
+Redpin
+Capillary Technologies
+Nutanix
+Skillz
+Cohesity
+Morgan Stanley
+Honeywell
+Red Hat
+super.money
+Harness
+TransUnion
+Genpact
+Accolite
+Roku
+Candescent
+Kore.ai
+Experian
+Rubrik
+LTIMindtree
+Keka HR
+Twilio
+TechMojo Solutions
+State Street
+Persistent Systems
+Angel One
+ThoughtSpot
+S&P Global
+HDFC securities
+Myntra
+New Relic
+Evernorth Health Services
+ADP
+Cisco
+Navi
+AVEVA
+Media.net
+Acko
+Docusign
+Coupang
+Apollo.io
+American Airlines
+PwC India
+Atomicwork
+Dezerv
+Quince
+DBS Bank
+Cubic Corporation
+Info Edge India
+Postman
+Zoho
+RealPage
+MathWorks
+Darwinbox
+Deliveroo
+Bank of America
+Wells Fargo
+Zomato
+Siemens EDA
+DP World
+Capital One
+Mygate
+GE Vernova
+Stripe
+J.P. Morgan
+FactSet
+Alter Domus
+Kotak Mahindra Bank
+HCLTech
+Booking.com
+CRED
+Xebia
+Planon
+BrowserStack
+Elsevier
+Meta
+PayPal
+OpenText
+Razorpay
+Wayfair
+Gap Inc
+D. E. Shaw India
+Amazon Web Services
+CoinDCX
+Nike
+EPAM Systems
+Zepto
+JPMorgan Chase
+Apple
+ValueLabs
+EY
+NCR Voyix
+Visa
+Dream11
+CoinSwitch
+Capgemini
+Optum
+Fractal
+Expedia Group
+Agoda
+Upstox
+Micron Technology
+Confluent
+Adobe
+Namma Yatri
+Autodesk
+Infosys
+Meesho
+Paytm
+Tata Consultancy Services
+Swiggy
+Freshworks
+LinkedIn
+Walmart Global Tech India
+Coinbase
+Cognizant
+Goldman Sachs
+Deloitte
+Epiq
+Qualcomm
+JioHotstar
+JUSPAY
+Intuit
+Arcesium
+Flipkart
+Hewlett Packard Enterprise
+Times Internet
+Oracle
+Uber
+Salesforce
+IBM
+ServiceNow
+Google
+Atlassian
+Zeta
+Amazon
+Microsoft
+Glance
+ShareChat
+MoEngage
+CleverTap

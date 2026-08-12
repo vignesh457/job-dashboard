@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Board — Departures</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #10131A;
+    --panel: #171B24;
+    --panel-hover: #1D2230;
+    --line: #262C3A;
+    --text: #E7E6E2;
+    --text-dim: #8A8F9E;
+    --amber: #F0A93A;
+    --teal: #4FD1B8;
+    --red: #E8635A;
+    --mono: 'IBM Plex Mono', ui-monospace, monospace;
+    --sans: 'Inter', system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    padding: 28px 20px 20px;
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    background: rgba(16, 19, 26, 0.92);
+    backdrop-filter: blur(8px);
+    z-index: 10;
+  }
+  .header-inner {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    color: var(--amber);
+    text-transform: uppercase;
+    margin: 0 0 6px;
+  }
+  h1 {
+    font-size: 26px;
+    font-weight: 700;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+  }
+  .updated {
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--text-dim);
+    margin: 0;
+  }
+  .controls {
+    max-width: 980px;
+    margin: 18px auto 0;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  input[type="search"], select {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--text);
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-family: var(--sans);
+    font-size: 14px;
+  }
+  input[type="search"] { flex: 1 1 240px; }
+  input[type="search"]:focus, select:focus {
+    outline: none;
+    border-color: var(--amber);
+  }
+  .stats {
+    max-width: 980px;
+    margin: 14px auto 0;
+    display: flex;
+    gap: 18px;
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--text-dim);
+  }
+  .stats b { color: var(--text); }
+  main {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 20px 20px 80px;
+  }
+  .empty {
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--text-dim);
+  }
+  .empty .big { font-size: 40px; margin-bottom: 12px; }
+  .board {
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .row {
+    display: grid;
+    grid-template-columns: 22px 160px 1fr 140px 96px;
+    gap: 14px;
+    align-items: center;
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--line);
+    transition: background 0.12s ease;
+  }
+  .row:last-child { border-bottom: none; }
+  .row:hover { background: var(--panel-hover); }
+  .row.applied { opacity: 0.42; }
+  .row.applied .title { text-decoration: line-through; }
+  .check {
+    width: 18px;
+    height: 18px;
+    border-radius: 4px;
+    border: 1.5px solid var(--line);
+    background: transparent;
+    cursor: pointer;
+    color: var(--teal);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    padding: 0;
+  }
+  .check[data-checked="true"] { border-color: var(--teal); background: rgba(79,209,184,0.12); }
+  .company {
+    font-family: var(--mono);
+    font-size: 13px;
+    color: var(--text-dim);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .title-loc { min-width: 0; }
+  .title {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--text);
+    text-decoration: none;
+    display: block;
+  }
+  .title:hover { color: var(--amber); }
+  .loc {
+    font-size: 12.5px;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+  .date {
+    font-family: var(--mono);
+    font-size: 12.5px;
+    color: var(--text-dim);
+    text-align: right;
+    white-space: nowrap;
+  }
+  .badge {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    padding: 3px 7px;
+    border-radius: 4px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .badge.new { background: rgba(240,169,58,0.15); color: var(--amber); }
+  .badge.none { visibility: hidden; }
+
+  @media (max-width: 680px) {
+    .row {
+      grid-template-columns: 20px 1fr 92px;
+      grid-template-areas:
+        "check title badge"
+        "check company date";
+      row-gap: 4px;
+    }
+    .date { font-size: 11px; }
+    .check { grid-area: check; }
+    .title-loc { grid-area: title; }
+    .company { grid-area: company; }
+    .date { grid-area: date; }
+    .badge { grid-area: badge; justify-self: end; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <p class="eyebrow">Job Application Board</p>
+    <h1>Departures</h1>
+    <p class="updated" id="updated">Loading…</p>
+  </div>
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search company or role…">
+    <select id="companyFilter"><option value="">All companies</option></select>
+    <select id="sort">
+      <option value="date-desc">Newest first</option>
+      <option value="date-asc">Oldest first</option>
+      <option value="company">Company A–Z</option>
+    </select>
+  </div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<main>
+  <div id="board" class="board"></div>
+  <div id="empty" class="empty" style="display:none;">
+    <div class="big">🛬</div>
+    <div>No roles match your filters right now.</div>
+  </div>
+</main>
+
+<script>
+const STORAGE_KEY = 'jobboard_applied_local';
+
+function getLocalApplied() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+  catch { return {}; }
+}
+function setLocalApplied(map) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
+}
+
+let ALL_JOBS = [];
+
+function fmtDate(d) {
+  if (!d) return '—';
+  return d;
+}
+
+function daysAgo(d) {
+  if (!d) return Infinity;
+  const posted = new Date(d + 'T00:00:00Z');
+  const now = new Date();
+  return Math.floor((now - posted) / 86400000);
+}
+
+function render() {
+  const q = document.getElementById('search').value.trim().toLowerCase();
+  const companyFilter = document.getElementById('companyFilter').value;
+  const sortMode = document.getElementById('sort').value;
+  const localApplied = getLocalApplied();
+
+  let jobs = ALL_JOBS.filter(j => {
+    if (companyFilter && j.company !== companyFilter) return false;
+    if (q) {
+      const hay = (j.company + ' ' + j.title + ' ' + (j.location||'')).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  jobs.sort((a, b) => {
+    if (sortMode === 'company') return a.company.localeCompare(b.company);
+    const da = a.posted_date || '0000-00-00';
+    const db = b.posted_date || '0000-00-00';
+    return sortMode === 'date-asc' ? da.localeCompare(db) : db.localeCompare(da);
+  });
+
+  const boardEl = document.getElementById('board');
+  const emptyEl = document.getElementById('empty');
+  boardEl.innerHTML = '';
+
+  if (jobs.length === 0) {
+    boardEl.style.display = 'none';
+    emptyEl.style.display = 'block';
+    return;
+  }
+  boardEl.style.display = 'block';
+  emptyEl.style.display = 'none';
+
+  for (const j of jobs) {
+    const row = document.createElement('div');
+    const isAppliedRepo = !!j.applied;
+    const isAppliedLocal = !!localApplied[j.id];
+    const applied = isAppliedRepo || isAppliedLocal;
+    row.className = 'row' + (applied ? ' applied' : '');
+
+    const isNew = daysAgo(j.posted_date) <= 2 || j.is_new;
+
+    row.innerHTML = `
+      <button class="check" data-checked="${applied}" title="${isAppliedRepo ? 'Marked applied in board.md' : 'Mark applied (saved on this device only)'}" ${isAppliedRepo ? 'disabled' : ''}>${applied ? '✓' : ''}</button>
+      <div class="company">${escapeHtml(j.company)}</div>
+      <div class="title-loc">
+        <a class="title" href="${j.url}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a>
+        <div class="loc">${escapeHtml(j.location || 'Location n/a')}</div>
+      </div>
+      <div class="date">${fmtDate(j.posted_date)}</div>
+      <div class="badge ${isNew ? 'new' : 'none'}">New</div>
+    `;
+
+    if (!isAppliedRepo) {
+      const btn = row.querySelector('.check');
+      btn.addEventListener('click', () => {
+        const map = getLocalApplied();
+        if (map[j.id]) delete map[j.id]; else map[j.id] = true;
+        setLocalApplied(map);
+        render();
+      });
+    }
+
+    boardEl.appendChild(row);
+  }
+}
+
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function populateCompanyFilter() {
+  const sel = document.getElementById('companyFilter');
+  const companies = [...new Set(ALL_JOBS.map(j => j.company))].sort();
+  for (const c of companies) {
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = c;
+    sel.appendChild(opt);
+  }
+}
+
+async function init() {
+  try {
+    const res = await fetch('data.json', { cache: 'no-store' });
+    const data = await res.json();
+    ALL_JOBS = data.jobs || [];
+    document.getElementById('updated').textContent =
+      `Last updated ${data.generated_at || 'unknown'} · ${ALL_JOBS.length} open matching roles`;
+    document.getElementById('stats').innerHTML =
+      `<span><b>${ALL_JOBS.length}</b> total</span>` +
+      `<span><b>${ALL_JOBS.filter(j => daysAgo(j.posted_date) <= 2).length}</b> posted in last 2 days</span>` +
+      `<span><b>${new Set(ALL_JOBS.map(j => j.company)).size}</b> companies hiring</span>`;
+    populateCompanyFilter();
+    render();
+  } catch (e) {
+    document.getElementById('updated').textContent = 'Could not load data.json — has the tracker run yet?';
+  }
+}
+
+document.getElementById('search').addEventListener('input', render);
+document.getElementById('companyFilter').addEventListener('change', render);
+document.getElementById('sort').addEventListener('change', render);
+
+init();
+</script>
+
+</body>
+</html>
