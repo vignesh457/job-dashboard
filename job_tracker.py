@@ -72,7 +72,7 @@ _LOCATION_PATTERNS = [re.compile(r"\b" + re.escape(k) + r"\b") for k in LOCATION
 
 def load_json(path, default):
     if os.path.exists(path):
-        with open(path) as f:
+        with open(path, encoding="utf-8", errors="replace") as f:
             return json.load(f)
     return default
 
@@ -81,7 +81,7 @@ def save_json(path, data):
     d = os.path.dirname(path)
     if d:
         os.makedirs(d, exist_ok=True)
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
 
@@ -123,11 +123,18 @@ _BOARD_LINE_RE = re.compile(r"^- \[(x| )\] .*<!-- id:(\S+) -->\s*$")
 
 def read_checked_ids(path: str) -> set:
     """Parse a previously-generated board.md and return the set of job ids
-    that were checked off, so regenerating the board doesn't lose progress."""
+    that were checked off, so regenerating the board doesn't lose progress.
+
+    Tolerant of encoding issues: if the file was ever saved with something
+    other than clean UTF-8 (e.g. an em-dash saved as Windows-1252, which
+    happens easily when pasting through certain editors or web UIs), we
+    replace unreadable bytes rather than crashing — the id markers we
+    actually need are plain ASCII and unaffected either way.
+    """
     checked = set()
     if not os.path.exists(path):
         return checked
-    with open(path) as f:
+    with open(path, encoding="utf-8", errors="replace") as f:
         for line in f:
             m = _BOARD_LINE_RE.match(line.rstrip("\n"))
             if m and m.group(1) == "x":
@@ -148,7 +155,7 @@ def write_board(path: str, jobs: list):
     jobs_sorted = sorted(jobs, key=sort_key, reverse=True)
 
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write("# Job Application Board\n\n")
         f.write(f"_Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} "
                 f"— {len(jobs_sorted)} open matching roles_\n\n")
@@ -187,7 +194,7 @@ def write_dashboard_data(path: str, jobs: list, new_ids: set, applied_ids: set):
         ],
     }
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w") as f:
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, indent=2)
 
 
@@ -348,7 +355,7 @@ def main():
 
     if new_jobs:
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-        with open(OUTPUT_FILE, "a") as f:
+        with open(OUTPUT_FILE, "a", encoding="utf-8") as f:
             f.write(f"\n## {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} — {len(new_jobs)} new matching roles\n\n")
             for j in new_jobs:
                 loc = f" ({j['location']})" if j["location"] else ""

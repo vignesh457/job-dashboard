@@ -175,7 +175,7 @@ def probe_company(name: str):
 
 
 def main():
-    with open(INPUT_FILE) as f:
+    with open(INPUT_FILE, encoding="utf-8", errors="replace") as f:
         companies = [line.strip() for line in f if line.strip()]
 
     matched = []
@@ -201,9 +201,9 @@ def main():
     matched.sort(key=lambda x: x["name"].lower())
     unmatched.sort(key=str.lower)
 
-    with open(MATCHED_FILE, "w") as f:
+    with open(MATCHED_FILE, "w", encoding="utf-8") as f:
         json.dump(matched, f, indent=2)
-    with open(UNMATCHED_FILE, "w") as f:
+    with open(UNMATCHED_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(unmatched) + "\n")
 
     print(f"\nDone. Matched {len(matched)}/{len(companies)} companies.")
