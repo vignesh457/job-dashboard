@@ -1,6 +1,6 @@
 # Job Application Board
 
-_Last updated: 2026-08-13 06:47 UTC — 119 open matching roles_
+_Last updated: 2026-08-13 06:55 UTC — 119 open matching roles_
 
 Tick a box after you apply — your progress is preserved across daily runs.
 
@@ -92,8 +92,8 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Okta** — [Senior Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7770733 -->
 - [ ] **Okta** — [Senior Engineer, FGA Developer Tooling](https://www.okta.com/company/careers/opportunity/7780942?gh_jid=7780942) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7780942 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-8021050 -->
-- [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7599312 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-8053679 -->
+- [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7599312 -->
 - [ ] **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7894398 -->
 - [ ] **Okta** — [Senior Software Engineer - Salesforce](https://www.okta.com/company/careers/opportunity/7995191?gh_jid=7995191) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7995191 -->
 - [ ] **Okta** — [Software Engineer-Full Stack](https://www.okta.com/company/careers/opportunity/7984479?gh_jid=7984479) · Bengaluru, India · posted 2026-07-31 <!-- id:greenhouse-okta-7984479 -->

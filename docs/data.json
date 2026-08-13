@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 06:47 UTC",
+  "generated_at": "2026-08-13 06:55 UTC",
   "jobs": [
     {
       "id": "greenhouse-glance-7988515",
@@ -8,7 +8,7 @@
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/glance/jobs/7988515",
       "posted_date": "2026-08-13",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -18,7 +18,7 @@
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/phonepe/jobs/7852357003",
       "posted_date": "2026-08-13",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -28,7 +28,7 @@
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000143091750",
       "posted_date": "2026-08-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -38,7 +38,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000143085970",
       "posted_date": "2026-08-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -58,7 +58,7 @@
       "location": "Gurugram",
       "url": "https://jobs.smartrecruiters.com/ixigo/744000143066399",
       "posted_date": "2026-08-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -108,7 +108,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7808514?gh_jid=7808514",
       "posted_date": "2026-08-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -288,7 +288,7 @@
       "location": "Gurgaon, India",
       "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8125664",
       "posted_date": "2026-08-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -902,21 +902,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-7599312",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
-      "posted_date": "2026-07-31",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-8053679",
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
+      "posted_date": "2026-07-31",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7599312",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
       "posted_date": "2026-07-31",
       "is_new": false,
       "applied": false
