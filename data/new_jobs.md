@@ -122,3 +122,13 @@
 - **Zscaler** � [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5020701007) (Bangalore, IND) � posted 2026-08-07
 - **Zuora** � [Senior Software Engineer](https://boards.greenhouse.io/zuora/jobs/7392887?gh_jid=7392887) (Chennai, Tamil Nadu, India) � posted 2026-07-20
 - **Zuora** � [Software Engineer III](https://boards.greenhouse.io/zuora/jobs/8040763?gh_jid=8040763) (Remote - IND (Bangalore)) � posted 2026-08-05
+
+## 2026-08-13 06:47 UTC — 7 new matching roles
+
+- **Arista Networks** — [Diagnostics Software Engineer](https://jobs.smartrecruiters.com/aristanetworks/744000143091750) (Bengaluru) — posted 2026-08-12
+- **Experian** — [Senior Software Engineer - (Backend,AI)](https://jobs.smartrecruiters.com/experian/744000143085970) (Hyderabad) — posted 2026-08-12
+- **Glance** — [SDE II - Android](https://job-boards.greenhouse.io/glance/jobs/7988515) (Bangalore) — posted 2026-08-13
+- **ixigo** — [Senior Software Engineer - Web](https://jobs.smartrecruiters.com/ixigo/744000143066399) (Gurugram) — posted 2026-08-12
+- **PhonePe** — [Software Engineer, Backend (3-5 Years)](https://job-boards.greenhouse.io/phonepe/jobs/7852357003) (Bangalore) — posted 2026-08-13
+- **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) (Bengaluru, India) — posted 2026-08-12
+- **Sauce Labs** — [Full-stack Software Engineer (python/go)](https://job-boards.greenhouse.io/saucelabs/jobs/8125664) (Gurgaon, India) — posted 2026-08-12
