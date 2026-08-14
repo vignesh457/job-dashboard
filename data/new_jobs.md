@@ -132,3 +132,13 @@
 - **PhonePe** — [Software Engineer, Backend (3-5 Years)](https://job-boards.greenhouse.io/phonepe/jobs/7852357003) (Bangalore) — posted 2026-08-13
 - **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) (Bengaluru, India) — posted 2026-08-12
 - **Sauce Labs** — [Full-stack Software Engineer (python/go)](https://job-boards.greenhouse.io/saucelabs/jobs/8125664) (Gurgaon, India) — posted 2026-08-12
+
+## 2026-08-14 06:52 UTC — 7 new matching roles
+
+- **Adyen** — [Senior Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-08-13
+- **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-08-13
+- **Postman** — [Software Engineer (Fullstack), Collections](https://job-boards.greenhouse.io/postman/jobs/7858498003) (Bengaluru, Karnataka, India) — posted 2026-08-14
+- **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7979561?gh_jid=7979561) (Bengaluru, India) — posted 2026-08-14
+- **Roku** — [Senior Software Engineer - Kubernetes & ServiceMesh](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) (Bengaluru, India) — posted 2026-08-14
+- **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) (Bengaluru, India) — posted 2026-08-14
+- **ZoomInfo** — [Software Engineer – ServiceNow](https://www.zoominfo.com/careers?gh_jid=8698680002) (Bengaluru, Karnataka, India) — posted 2026-08-13
