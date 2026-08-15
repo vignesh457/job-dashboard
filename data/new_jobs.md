@@ -142,3 +142,11 @@
 - **Roku** — [Senior Software Engineer - Kubernetes & ServiceMesh](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) (Bengaluru, India) — posted 2026-08-14
 - **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) (Bengaluru, India) — posted 2026-08-14
 - **ZoomInfo** — [Software Engineer – ServiceNow](https://www.zoominfo.com/careers?gh_jid=8698680002) (Bengaluru, Karnataka, India) — posted 2026-08-13
+
+## 2026-08-15 05:49 UTC — 5 new matching roles
+
+- **Databricks** — [Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002) (Bengaluru, India) — posted 2026-08-15
+- **Okta** — [Software Engineer](https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336) (Bengaluru, India) — posted 2026-08-14
+- **PhonePe** — [Software Engineer, Backend (5-7 years)](https://job-boards.greenhouse.io/phonepe/jobs/7869947003) (Bangalore) — posted 2026-08-14
+- **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8010331?gh_jid=8010331) (Bengaluru, India) — posted 2026-08-15
+- **Roku** — [Senior Software Engineer - Devops](https://www.weareroku.com/jobs/7523564?gh_jid=7523564) (Bengaluru, India) — posted 2026-08-15
