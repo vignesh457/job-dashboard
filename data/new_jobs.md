@@ -150,3 +150,7 @@
 - **PhonePe** — [Software Engineer, Backend (5-7 years)](https://job-boards.greenhouse.io/phonepe/jobs/7869947003) (Bangalore) — posted 2026-08-14
 - **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8010331?gh_jid=8010331) (Bengaluru, India) — posted 2026-08-15
 - **Roku** — [Senior Software Engineer - Devops](https://www.weareroku.com/jobs/7523564?gh_jid=7523564) (Bengaluru, India) — posted 2026-08-15
+
+## 2026-08-16 05:52 UTC — 1 new matching roles
+
+- **Databricks** — [Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) (Bengaluru, India) — posted 2026-08-15
