@@ -154,3 +154,9 @@
 ## 2026-08-16 05:52 UTC — 1 new matching roles
 
 - **Databricks** — [Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) (Bengaluru, India) — posted 2026-08-15
+
+## 2026-08-17 05:58 UTC — 3 new matching roles
+
+- **Databricks** — [Senior Software Engineer - Data + AI Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002) (Bengaluru, India) — posted 2026-08-16
+- **ixigo** — [ Software Engineer - 2 Backend](https://jobs.smartrecruiters.com/ixigo/744000143738909) (Gurugram) — posted 2026-08-17
+- **Roku** — [Senior Software Engineer, Test](https://www.weareroku.com/jobs/7919754?gh_jid=7919754) (Bengaluru, India) — posted 2026-08-17
