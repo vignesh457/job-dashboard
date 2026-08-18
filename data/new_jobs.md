@@ -160,3 +160,15 @@
 - **Databricks** — [Senior Software Engineer - Data + AI Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002) (Bengaluru, India) — posted 2026-08-16
 - **ixigo** — [ Software Engineer - 2 Backend](https://jobs.smartrecruiters.com/ixigo/744000143738909) (Gurugram) — posted 2026-08-17
 - **Roku** — [Senior Software Engineer, Test](https://www.weareroku.com/jobs/7919754?gh_jid=7919754) (Bengaluru, India) — posted 2026-08-17
+
+## 2026-08-18 05:53 UTC — 9 new matching roles
+
+- **Databricks** — [Senior Software Engineer- Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002) (Bengaluru, India) — posted 2026-08-17
+- **Databricks** — [Senior Software Engineer - Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002) (Bengaluru, India) — posted 2026-08-17
+- **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000143978459) (Bangalore) — posted 2026-08-18
+- **New Relic** — [Senior Software Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5237171008) (Hyderabad, India) — posted 2026-08-18
+- **New Relic** — [Senior Software Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5320804008) (Hyderabad, India) — posted 2026-08-18
+- **Roku** — [Senior Systems Engineer - NetSuite Developer](https://www.weareroku.com/jobs/7571093?gh_jid=7571093) (Bengaluru, India) — posted 2026-08-18
+- **Rubrik** — [Software Engineer - Jarvis](https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060) (Bengaluru, India) — posted 2026-08-18
+- **Sumo Logic** — [Senior Backend Engineer — Distributed Systems & Agentic AI](https://job-boards.greenhouse.io/sumologic/jobs/7882141) (Noida, Uttar Pradesh, India) — posted 2026-08-17
+- **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000143784010) (Chennai) — posted 2026-08-17
