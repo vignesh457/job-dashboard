@@ -172,3 +172,17 @@
 - **Rubrik** — [Software Engineer - Jarvis](https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060) (Bengaluru, India) — posted 2026-08-18
 - **Sumo Logic** — [Senior Backend Engineer — Distributed Systems & Agentic AI](https://job-boards.greenhouse.io/sumologic/jobs/7882141) (Noida, Uttar Pradesh, India) — posted 2026-08-17
 - **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000143784010) (Chennai) — posted 2026-08-17
+
+## 2026-08-19 05:54 UTC — 11 new matching roles
+
+- **Airbnb** — [Senior Software Engineer(AI/ML), Trust](https://careers.airbnb.com/positions/8138500?gh_jid=8138500) (Bangalore, India) — posted 2026-08-19
+- **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000144121154) (Bangalore) — posted 2026-08-18
+- **New Relic** — [Senior Salesforce Developer, Service Cloud](https://job-boards.greenhouse.io/newrelic/jobs/5378856008) (Bangalore, India) — posted 2026-08-18
+- **Okta** — [Senior Software Engineer (Node.js & React.js)](https://www.okta.com/company/careers/opportunity/8119091?gh_jid=8119091) (Bengaluru, India) — posted 2026-08-18
+- **Okta** — [Senior Software Engineer – Tooling & Platform (Terraform)](https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038) (Bengaluru, India) — posted 2026-08-18
+- **Okta** — [Software Engineer](https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336) (Bengaluru, India) — posted 2026-08-19
+- **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) (Bengaluru, India) — posted 2026-08-19
+- **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8010331?gh_jid=8010331) (Bengaluru, India) — posted 2026-08-19
+- **Roku** — [Senior Software Engineer - Backend and Data](https://www.weareroku.com/jobs/8092397?gh_jid=8092397) (Bengaluru, India) — posted 2026-08-19
+- **Roku** — [Senior Software Engineer, Cloud Services](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) (Bengaluru, India) — posted 2026-08-19
+- **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000144021580) (Chennai) — posted 2026-08-18
