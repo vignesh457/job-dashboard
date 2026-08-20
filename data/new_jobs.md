@@ -186,3 +186,11 @@
 - **Roku** — [Senior Software Engineer - Backend and Data](https://www.weareroku.com/jobs/8092397?gh_jid=8092397) (Bengaluru, India) — posted 2026-08-19
 - **Roku** — [Senior Software Engineer, Cloud Services](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) (Bengaluru, India) — posted 2026-08-19
 - **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000144021580) (Chennai) — posted 2026-08-18
+
+## 2026-08-20 05:55 UTC — 5 new matching roles
+
+- **Freshworks** — [Senior Software Engineer - Full Stack](https://jobs.smartrecruiters.com/freshworks/744000144458309) (Hyderabad) — posted 2026-08-20
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144386220) (Hyderabad) — posted 2026-08-19
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144386100) (Hyderabad) — posted 2026-08-19
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144238749) (Hyderabad) — posted 2026-08-19
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144237667) (Hyderabad) — posted 2026-08-19
