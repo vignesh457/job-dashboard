@@ -194,3 +194,11 @@
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144386100) (Hyderabad) — posted 2026-08-19
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144238749) (Hyderabad) — posted 2026-08-19
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144237667) (Hyderabad) — posted 2026-08-19
+
+## 2026-08-21 05:56 UTC — 5 new matching roles
+
+- **Coursera** — [Senior Software Engineer, Applied AI and Customer Solutions](https://job-boards.greenhouse.io/coursera/jobs/6145774004) (India) — posted 2026-08-20
+- **ixigo** — [Senior UI Developer (ReactJS)](https://jobs.smartrecruiters.com/ixigo/744000144491010) (Gurugram) — posted 2026-08-20
+- **Okta** — [Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) (Bengaluru, India) — posted 2026-08-21
+- **Okta** — [Software Engineer](https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336) (Bengaluru, India) — posted 2026-08-20
+- **Rubrik** — [Software Engineer - Cloud Native Protection](https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053) (Bangalore ) — posted 2026-08-20
