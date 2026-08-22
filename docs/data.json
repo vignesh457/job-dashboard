@@ -1,13 +1,63 @@
 {
-  "generated_at": "2026-08-21 05:56 UTC",
+  "generated_at": "2026-08-22 05:52 UTC",
   "jobs": [
     {
-      "id": "greenhouse-okta-7770733",
-      "company": "Okta",
-      "title": "Developer Support Engineer",
+      "id": "greenhouse-databricks-8294304002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (App-Framework)",
       "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
-      "posted_date": "2026-08-21",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "posted_date": "2026-08-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7897431002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_date": "2026-08-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7647369002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_date": "2026-08-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7619810002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_date": "2026-08-22",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7619811002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Observability",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
+      "posted_date": "2026-08-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7841782002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Search",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002",
+      "posted_date": "2026-08-22",
       "is_new": true,
       "applied": false
     },
@@ -17,7 +67,7 @@
       "title": "Senior Software Engineer, AD Serving",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8010116?gh_jid=8010116",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -27,7 +77,7 @@
       "title": "Senior Software Engineer - Backend",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7979561?gh_jid=7979561",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -37,7 +87,7 @@
       "title": "Senior Software Engineer - Backend",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7808514?gh_jid=7808514",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -47,7 +97,7 @@
       "title": "Senior Software Engineer- Backend",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8022897?gh_jid=8022897",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -57,7 +107,7 @@
       "title": "Senior Software Engineer, Backend",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8010331?gh_jid=8010331",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -67,7 +117,7 @@
       "title": "Senior Software Engineer - Backend and Data",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8092397?gh_jid=8092397",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -77,8 +127,18 @@
       "title": "Senior Software Engineer, Backend & Data Platform",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8050577?gh_jid=8050577",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-roku-7461370",
+      "company": "Roku",
+      "title": "Senior Software Engineer - Data Platform",
+      "location": "Bengaluru, India",
+      "url": "https://www.weareroku.com/jobs/7461370?gh_jid=7461370",
+      "posted_date": "2026-08-22",
+      "is_new": true,
       "applied": false
     },
     {
@@ -87,7 +147,7 @@
       "title": "Senior Software Engineer - Devops",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7523564?gh_jid=7523564",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -97,7 +157,7 @@
       "title": "Senior Software Engineer (Java - Backend, Ads Engineering)",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8009980?gh_jid=8009980",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -107,7 +167,7 @@
       "title": "Senior Software Engineer - Kubernetes & ServiceMesh",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/6351228?gh_jid=6351228",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -117,7 +177,7 @@
       "title": "Senior  Software Engineer, Machine Learning ",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8027794?gh_jid=8027794",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -127,7 +187,7 @@
       "title": "Senior Software Engineer, Machine Learning",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7978642?gh_jid=7978642",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -137,7 +197,7 @@
       "title": "Senior Software Engineer, Machine Learning",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7546375?gh_jid=7546375",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -147,7 +207,7 @@
       "title": "Senior Software Engineer, MLOps/SRE",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7981779?gh_jid=7981779",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -157,7 +217,7 @@
       "title": "Senior Software Engineer, Observability ",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7358641?gh_jid=7358641",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -167,7 +227,7 @@
       "title": "Senior Software Engineer - Service mesh",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7361860?gh_jid=7361860",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -177,7 +237,7 @@
       "title": "Senior Software Engineer, Video Platform",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7912009?gh_jid=7912009",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -187,7 +247,7 @@
       "title": "Senior Software Engineer,\u00a0 SRE",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7609611?gh_jid=7609611",
-      "posted_date": "2026-08-21",
+      "posted_date": "2026-08-22",
       "is_new": false,
       "applied": false
     },
@@ -197,6 +257,96 @@
       "title": "Senior Systems Engineer - NetSuite Developer",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7571093?gh_jid=7571093",
+      "posted_date": "2026-08-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7770733",
+      "company": "Okta",
+      "title": "Developer Support Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
+      "posted_date": "2026-08-21",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7783585",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000144803914",
+      "company": "ServiceNow",
+      "title": "Senior Software Engineer- Core Platform, Moveworks",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000144803914",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-shyftlabs-4547a228-9cd7-4af6-9588-5cd4c8ae1612",
+      "company": "ShyftLabs",
+      "title": "Software Developer",
+      "location": "Noida, Uttar Pradesh",
+      "url": "https://jobs.lever.co/shyftlabs/4547a228-9cd7-4af6-9588-5cd4c8ae1612",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-stripe-8031833",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+      "posted_date": "2026-08-21",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-7815729003",
+      "company": "Tide",
+      "title": "Senior Software Engineer, Flutter",
+      "location": "India, Delhi NCR",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7815729003",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-7766790003",
+      "company": "Tide",
+      "title": "Senior Software Engineer, Flutter",
+      "location": "India, Hyderabad",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-7815727003",
+      "company": "Tide",
+      "title": "Senior Software Engineer, Flutter",
+      "location": "India, Bengaluru",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7815727003",
+      "posted_date": "2026-08-21",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8226018002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
       "posted_date": "2026-08-21",
       "is_new": false,
       "applied": false
@@ -208,7 +358,7 @@
       "location": "India",
       "url": "https://job-boards.greenhouse.io/coursera/jobs/6145774004",
       "posted_date": "2026-08-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -228,7 +378,7 @@
       "location": "Gurugram",
       "url": "https://jobs.smartrecruiters.com/ixigo/744000144491010",
       "posted_date": "2026-08-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -238,7 +388,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336",
       "posted_date": "2026-08-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -248,7 +398,7 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053",
       "posted_date": "2026-08-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -258,16 +408,6 @@
       "location": "Gurgaon, India",
       "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8125664",
       "posted_date": "2026-08-20",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-airbnb-8138500",
-      "company": "Airbnb",
-      "title": "Senior Software Engineer(AI/ML), Trust",
-      "location": "Bangalore, India",
-      "url": "https://careers.airbnb.com/positions/8138500?gh_jid=8138500",
-      "posted_date": "2026-08-19",
       "is_new": false,
       "applied": false
     },
@@ -342,16 +482,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8294304002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8210383002",
       "company": "Databricks",
       "title": "Senior Software Engineer (App-Framework)",
@@ -367,26 +497,6 @@
       "title": "Senior Software Engineer (Backend)",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7897431002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7647369002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Data Platform)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
       "posted_date": "2026-08-18",
       "is_new": false,
       "applied": false
@@ -432,31 +542,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7619811002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Observability",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8679980002",
       "company": "Databricks",
       "title": "Sr SAP Developer",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-grab-744000144121154",
-      "company": "Grab",
-      "title": "Senior Software Engineer, Mobile (iOS)",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000144121154",
       "posted_date": "2026-08-18",
       "is_new": false,
       "applied": false
@@ -497,16 +587,6 @@
       "title": "Senior Software Engineer - FullStack",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/7546745?gh_jid=7546745",
-      "posted_date": "2026-08-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-stripe-8031833",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern",
-      "location": "Bengaluru",
-      "url": "https://stripe.com/jobs/search?gh_jid=8031833",
       "posted_date": "2026-08-18",
       "is_new": false,
       "applied": false
@@ -582,16 +662,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8226018002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
-      "posted_date": "2026-08-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8698680002",
       "company": "ZoomInfo",
       "title": "Software Engineer \u2013 ServiceNow",
@@ -617,16 +687,6 @@
       "title": "Diagnostics Software Engineer",
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000143091750",
-      "posted_date": "2026-08-12",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-experian-744000143085970",
-      "company": "Experian",
-      "title": "Senior Software Engineer - (Backend,AI)",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/experian/744000143085970",
       "posted_date": "2026-08-12",
       "is_new": false,
       "applied": false
@@ -832,16 +892,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-toast-8022865",
-      "company": "Toast",
-      "title": "Senior Software  Engineer \u2013 (Java Full Stack)",
-      "location": "Chennai",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8022865",
-      "posted_date": "2026-08-05",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-aristanetworks-744000141477410",
       "company": "Arista Networks",
       "title": "Software Engineer, Network Systems",
@@ -902,11 +952,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8053679",
+      "id": "greenhouse-okta-8021050",
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
+      "url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
       "posted_date": "2026-07-31",
       "is_new": false,
       "applied": false
@@ -922,11 +972,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8021050",
+      "id": "greenhouse-okta-8053679",
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8021050?gh_jid=8021050",
+      "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679",
       "posted_date": "2026-07-31",
       "is_new": false,
       "applied": false

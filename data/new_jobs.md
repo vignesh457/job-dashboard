@@ -202,3 +202,15 @@
 - **Okta** — [Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) (Bengaluru, India) — posted 2026-08-21
 - **Okta** — [Software Engineer](https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336) (Bengaluru, India) — posted 2026-08-20
 - **Rubrik** — [Software Engineer - Cloud Native Protection](https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053) (Bangalore ) — posted 2026-08-20
+
+## 2026-08-22 05:52 UTC — 9 new matching roles
+
+- **Databricks** — [Senior Software Engineer (Infra)](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002) (Bengaluru, India) — posted 2026-08-22
+- **Databricks** — [Senior Software Engineer - Search](https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002) (Bengaluru, India) — posted 2026-08-22
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585) (Bengaluru, India) — posted 2026-08-21
+- **Roku** — [Senior Software Engineer - Data Platform](https://www.weareroku.com/jobs/7461370?gh_jid=7461370) (Bengaluru, India) — posted 2026-08-22
+- **ServiceNow** — [Senior Software Engineer- Core Platform, Moveworks](https://jobs.smartrecruiters.com/servicenow/744000144803914) (Bangalore) — posted 2026-08-21
+- **ShyftLabs** — [Software Developer](https://jobs.lever.co/shyftlabs/4547a228-9cd7-4af6-9588-5cd4c8ae1612) (Noida, Uttar Pradesh) — posted 2026-08-21
+- **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815729003) (India, Delhi NCR) — posted 2026-08-21
+- **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7766790003) (India, Hyderabad) — posted 2026-08-21
+- **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815727003) (India, Bengaluru) — posted 2026-08-21
