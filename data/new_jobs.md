@@ -214,3 +214,7 @@
 - **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815729003) (India, Delhi NCR) — posted 2026-08-21
 - **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7766790003) (India, Hyderabad) — posted 2026-08-21
 - **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815727003) (India, Bengaluru) — posted 2026-08-21
+
+## 2026-08-23 05:53 UTC — 1 new matching roles
+
+- **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) (Bengaluru, India) — posted 2026-08-22
