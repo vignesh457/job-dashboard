@@ -218,3 +218,12 @@
 ## 2026-08-23 05:53 UTC — 1 new matching roles
 
 - **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) (Bengaluru, India) — posted 2026-08-22
+
+## 2026-08-24 06:02 UTC — 6 new matching roles
+
+- **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000145029449) (Bangalore) — posted 2026-08-23
+- **Grab** — [Software Engineer, iOS](https://jobs.smartrecruiters.com/grab/744000145029439) (Bangalore) — posted 2026-08-23
+- **Okta** — [Senior Software Engineer, Identity Administration](https://www.okta.com/company/careers/opportunity/8146810?gh_jid=8146810) (Bengaluru, India) — posted 2026-08-23
+- **Okta** — [Senior Software Engineer, Identity Administration](https://www.okta.com/company/careers/opportunity/8146815?gh_jid=8146815) (Bengaluru, India) — posted 2026-08-23
+- **PhonePe** — [Software Engineer(3-5 years) Backend](https://job-boards.greenhouse.io/phonepe/jobs/7821471003) (Bangalore) — posted 2026-08-24
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144237667) (Hyderabad) — posted 2026-08-19
