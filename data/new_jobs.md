@@ -227,3 +227,8 @@
 - **Okta** — [Senior Software Engineer, Identity Administration](https://www.okta.com/company/careers/opportunity/8146815?gh_jid=8146815) (Bengaluru, India) — posted 2026-08-23
 - **PhonePe** — [Software Engineer(3-5 years) Backend](https://job-boards.greenhouse.io/phonepe/jobs/7821471003) (Bangalore) — posted 2026-08-24
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000144237667) (Hyderabad) — posted 2026-08-19
+
+## 2026-08-25 05:56 UTC — 2 new matching roles
+
+- **Okta** — [Software Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) (Bengaluru, India) — posted 2026-08-24
+- **Roku** — [Senior Software Engineer, Demand Bidder, Ad Serving Platform](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) (Bengaluru, India) — posted 2026-08-25
