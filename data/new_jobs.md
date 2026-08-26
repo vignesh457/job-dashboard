@@ -232,3 +232,16 @@
 
 - **Okta** — [Software Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) (Bengaluru, India) — posted 2026-08-24
 - **Roku** — [Senior Software Engineer, Demand Bidder, Ad Serving Platform](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) (Bengaluru, India) — posted 2026-08-25
+
+## 2026-08-26 05:47 UTC — 10 new matching roles
+
+- **Airbnb** — [Senior Software Engineer(AI/ML), Trust](https://careers.airbnb.com/positions/8154477?gh_jid=8154477) (Bangalore, India) — posted 2026-08-25
+- **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8637208002) (Bangalore) — posted 2026-08-26
+- **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8632459002) (Bangalore) — posted 2026-08-25
+- **Grab** — [Senior Software Engineer, Backend](https://jobs.smartrecruiters.com/grab/744000145437580) (Bangalore) — posted 2026-08-25
+- **Roku** — [Senior Software Development Engineer In Test](https://www.weareroku.com/jobs/7919754?gh_jid=7919754) (Bengaluru, India) — posted 2026-08-26
+- **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) (Bengaluru, India) — posted 2026-08-26
+- **StockX** — [Software Engineer - iOS](https://job-boards.greenhouse.io/stockx/jobs/8742590002) (Bangalore, India) — posted 2026-08-25
+- **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000145448951) (Chennai) — posted 2026-08-25
+- **Swiggy** — [Software Development Engineer III - Backend](https://jobs.smartrecruiters.com/swiggy/6000000001349356) (Bengaluru) — posted 2026-08-25
+- **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-08-25
