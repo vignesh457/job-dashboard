@@ -245,3 +245,14 @@
 - **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000145448951) (Chennai) — posted 2026-08-25
 - **Swiggy** — [Software Development Engineer III - Backend](https://jobs.smartrecruiters.com/swiggy/6000000001349356) (Bengaluru) — posted 2026-08-25
 - **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-08-25
+
+## 2026-08-27 16:38 UTC — 8 new matching roles
+
+- **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) (Bengaluru, India) — posted 2026-08-27
+- **Experian** — [Senior Salesforce Developer](https://jobs.smartrecruiters.com/experian/744000145795279) (Hyderabad) — posted 2026-08-26
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000145756959) (Hyderabad) — posted 2026-08-26
+- **Grab** — [Senior Software Engineer, Mobile (iOS) - Payments](https://jobs.smartrecruiters.com/grab/744000145659649) (Bangalore) — posted 2026-08-26
+- **PubMatic** — [Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)](https://pubmatic.com/job/?gh_jid=5404529008) (Pune, IN) — posted 2026-08-27
+- **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) (Bengaluru, India) — posted 2026-08-27
+- **Sutherland** — [Airflow Python Developer](https://jobs.smartrecruiters.com/sutherland/744000145952419) (Hyderabad) — posted 2026-08-27
+- **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-08-27
