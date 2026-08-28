@@ -256,3 +256,16 @@
 - **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) (Bengaluru, India) — posted 2026-08-27
 - **Sutherland** — [Airflow Python Developer](https://jobs.smartrecruiters.com/sutherland/744000145952419) (Hyderabad) — posted 2026-08-27
 - **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-08-27
+
+## 2026-08-28 17:33 UTC — 10 new matching roles
+
+- **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-08-28
+- **Databricks** — [Senior Software Engineer - Partner Ecosystem](https://databricks.com/company/careers/open-positions/job?gh_jid=7938410002) (Bengaluru, India) — posted 2026-08-28
+- **Databricks** — [Sr Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002) (Bengaluru, India) — posted 2026-08-28
+- **DigiCert** — [Senior Data Engineer - Full Stack](https://www.digicert.com/careers/?gh_jid=8735073002) (India Remote) — posted 2026-08-26
+- **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8628763002) (Bangalore) — posted 2026-08-26
+- **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8637208002) (Bangalore) — posted 2026-08-26
+- **DigiCert** — [Senior Software Engineer](https://www.digicert.com/careers/?gh_jid=8605349002) (Bangalore, India) — posted 2026-08-25
+- **DigiCert** — [Senior Software Engineer - Golang](https://www.digicert.com/careers/?gh_jid=8633498002) (Bangalore) — posted 2026-08-03
+- **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8628318002) (Bangalore) — posted 2026-08-07
+- **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8632459002) (Bangalore) — posted 2026-08-25
