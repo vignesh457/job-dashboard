@@ -269,3 +269,7 @@
 - **DigiCert** — [Senior Software Engineer - Golang](https://www.digicert.com/careers/?gh_jid=8633498002) (Bangalore) — posted 2026-08-03
 - **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8628318002) (Bangalore) — posted 2026-08-07
 - **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8632459002) (Bangalore) — posted 2026-08-25
+
+## 2026-08-29 11:44 UTC — 1 new matching roles
+
+- **Coinbase** — [Software Engineer, Security Platform](https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441) (Remote - India) — posted 2026-08-28
