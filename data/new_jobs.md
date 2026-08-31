@@ -273,3 +273,12 @@
 ## 2026-08-29 11:44 UTC — 1 new matching roles
 
 - **Coinbase** — [Software Engineer, Security Platform](https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441) (Remote - India) — posted 2026-08-28
+
+## 2026-08-31 11:43 UTC — 6 new matching roles
+
+- **Adyen** — [Senior Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-08-31
+- **Adyen** — [Software Engineer (Kotlin)](https://job-boards.greenhouse.io/adyen/jobs/8075150) (Bengaluru) — posted 2026-08-31
+- **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) (Bengaluru, India) — posted 2026-08-31
+- **Groupon** — [Software Development Engineer III — 3PIP Integrations & Inventory Systems](https://job-boards.eu.greenhouse.io/groupon/jobs/4963940101) (Bangalore (Gopalan Axis SEZ)) — posted 2026-08-31
+- **Rubrik** — [Software Engineer - IAM](https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918) (Pune) — posted 2026-08-31
+- **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8755354002) (Bangalore, India) — posted 2026-08-31
