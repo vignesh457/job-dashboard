@@ -282,3 +282,15 @@
 - **Groupon** — [Software Development Engineer III — 3PIP Integrations & Inventory Systems](https://job-boards.eu.greenhouse.io/groupon/jobs/4963940101) (Bangalore (Gopalan Axis SEZ)) — posted 2026-08-31
 - **Rubrik** — [Software Engineer - IAM](https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918) (Pune) — posted 2026-08-31
 - **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8755354002) (Bangalore, India) — posted 2026-08-31
+
+## 2026-09-01 10:17 UTC — 9 new matching roles
+
+- **Grab** — [Software Engineer, Backend](https://jobs.smartrecruiters.com/grab/744000146643669) (Bangalore) — posted 2026-09-01
+- **Graviton Research Capital** — [Software Engineer (2027 Graduate)](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002?gh_jid=8764240002) (Gurugram, Haryana, India) — posted 2026-09-01
+- **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8081750?gh_jid=8081750) (Bengaluru, India) — posted 2026-09-01
+- **Roku** — [Senior Software Engineer - Java](https://www.weareroku.com/jobs/8074225?gh_jid=8074225) (Bengaluru, India) — posted 2026-09-01
+- **Rubrik** — [Senior Software Engineer - CPD (IAM)](https://www.rubrik.com/company/careers/departments/job.7956920?gh_jid=7956920) (Bengaluru) — posted 2026-09-01
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000146482829) (Hyderabad) — posted 2026-08-31
+- **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-09-01
+- **ZoomInfo** — [Software Engineer I - Salesforce](https://www.zoominfo.com/careers?gh_jid=8759686002) (Bengaluru, Karnataka, India) — posted 2026-08-31
+- **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-09-01
