@@ -294,3 +294,11 @@
 - **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-09-01
 - **ZoomInfo** — [Software Engineer I - Salesforce](https://www.zoominfo.com/careers?gh_jid=8759686002) (Bengaluru, Karnataka, India) — posted 2026-08-31
 - **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-09-01
+
+## 2026-09-02 09:47 UTC — 5 new matching roles
+
+- **Arista Networks** — [Software Engineer -  Engineering Productivity](https://jobs.smartrecruiters.com/aristanetworks/744000146931488) (Bengaluru) — posted 2026-09-02
+- **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8605361002) (Bangalore, India) — posted 2026-09-02
+- **Experian** — [Senior CPQ Developer](https://jobs.smartrecruiters.com/experian/744000146899599) (Hyderabad) — posted 2026-09-02
+- **Freshworks** — [Senior Software Engineer - Full Stack](https://jobs.smartrecruiters.com/freshworks/744000146933519) (Chennai) — posted 2026-09-02
+- **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000146899699) (Chennai) — posted 2026-09-02
