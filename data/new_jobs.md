@@ -302,3 +302,12 @@
 - **Experian** — [Senior CPQ Developer](https://jobs.smartrecruiters.com/experian/744000146899599) (Hyderabad) — posted 2026-09-02
 - **Freshworks** — [Senior Software Engineer - Full Stack](https://jobs.smartrecruiters.com/freshworks/744000146933519) (Chennai) — posted 2026-09-02
 - **Sutherland** — [Agentic AI Developer](https://jobs.smartrecruiters.com/sutherland/744000146899699) (Chennai) — posted 2026-09-02
+
+## 2026-09-03 09:59 UTC — 6 new matching roles
+
+- **Adyen** — [Senior Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-09-03
+- **Airbnb** — [Senior Software Engineer(AI/ML), Trust](https://careers.airbnb.com/positions/8154477?gh_jid=8154477) (Bangalore, India) — posted 2026-09-03
+- **Experian** — [Senior Salesforce Developer](https://jobs.smartrecruiters.com/experian/744000147175275) (Hyderabad) — posted 2026-09-03
+- **JobTwine** — [Hitesh 3 - SDE 2 3rd September job](https://jobs.lever.co/jobtwine/52545d3e-1e22-411e-95ec-e18eb19c3652) (Hyderabad) — posted 2026-09-03
+- **JobTwine** — [hitesh- sde  3rd september](https://jobs.lever.co/jobtwine/3f6c9e56-aeff-4e3e-a056-205e6acd1cf9) (Hyderabad) — posted 2026-09-03
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000146969989) (Hyderabad) — posted 2026-09-02
