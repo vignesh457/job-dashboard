@@ -311,3 +311,9 @@
 - **JobTwine** — [Hitesh 3 - SDE 2 3rd September job](https://jobs.lever.co/jobtwine/52545d3e-1e22-411e-95ec-e18eb19c3652) (Hyderabad) — posted 2026-09-03
 - **JobTwine** — [hitesh- sde  3rd september](https://jobs.lever.co/jobtwine/3f6c9e56-aeff-4e3e-a056-205e6acd1cf9) (Hyderabad) — posted 2026-09-03
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000146969989) (Hyderabad) — posted 2026-09-02
+
+## 2026-09-04 09:48 UTC — 3 new matching roles
+
+- **ixigo** — [Senior Software Engineer - Android](https://jobs.smartrecruiters.com/ixigo/744000147427269) (Gurugram) — posted 2026-09-04
+- **ServiceNow** — [Sr Software Engineer - Cloud Platform—Kubernetes Development](https://jobs.smartrecruiters.com/servicenow/744000147443879) (Hyderabad) — posted 2026-09-04
+- **ServiceNow** — [Sr Software Engineer Fullstack - Kubernetes](https://jobs.smartrecruiters.com/servicenow/744000147322540) (Hyderabad) — posted 2026-09-03
