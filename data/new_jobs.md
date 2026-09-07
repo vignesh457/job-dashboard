@@ -317,3 +317,23 @@
 - **ixigo** — [Senior Software Engineer - Android](https://jobs.smartrecruiters.com/ixigo/744000147427269) (Gurugram) — posted 2026-09-04
 - **ServiceNow** — [Sr Software Engineer - Cloud Platform—Kubernetes Development](https://jobs.smartrecruiters.com/servicenow/744000147443879) (Hyderabad) — posted 2026-09-04
 - **ServiceNow** — [Sr Software Engineer Fullstack - Kubernetes](https://jobs.smartrecruiters.com/servicenow/744000147322540) (Hyderabad) — posted 2026-09-03
+
+## 2026-09-07 10:34 UTC — 17 new matching roles
+
+- **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8610038002) (Bangalore, India) — posted 2026-09-07
+- **ixigo** — [Senior Software Engineer - iOS](https://jobs.smartrecruiters.com/ixigo/744000147851339) (Gurugram) — posted 2026-09-07
+- **Okta** — [Senior Software Engineer - (Java & DSA)](https://www.okta.com/company/careers/opportunity/8102359?gh_jid=8102359) (Bengaluru, India) — posted 2026-09-07
+- **PubMatic** — [Senior/Software Engineer (AI-Powered Advertising Agents)](https://pubmatic.com/job/?gh_jid=5250558008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [Senior Software Engineer - C/C++, Linux/ Unix, Cloud](https://pubmatic.com/job/?gh_jid=5148540008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [Senior/Software Engineer - Data Analytics ](https://pubmatic.com/job/?gh_jid=5146913008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)](https://pubmatic.com/job/?gh_jid=5404529008) (Pune, IN) — posted 2026-08-28
+- **PubMatic** — [Senior Software Engineer - Java API developer](https://pubmatic.com/job/?gh_jid=5368771008) (Pune, IN) — posted 2026-08-24
+- **PubMatic** — [Senior/Software Engineer - Java (Core Platform/Convert)](https://pubmatic.com/job/?gh_jid=5173030008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [Senior/Software Engineer - Mobile Monetization (Data Analytics)](https://pubmatic.com/job/?gh_jid=5372535008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [Senior / Software Engineer (Performance/Bidder)](https://pubmatic.com/job/?gh_jid=5378839008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [ Senior Software Engineer - UI](https://pubmatic.com/job/?gh_jid=5147001008) (Pune, IN) — posted 2026-08-11
+- **PubMatic** — [ Software Engineer - UI (On Contract)](https://pubmatic.com/job/?gh_jid=5147028008) (Pune, IN) — posted 2026-08-11
+- **Rubrik** — [Software Engineer (CPD) - Winter Intern (Pune)](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) (Pune) — posted 2026-09-06
+- **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) (Bangalore) — posted 2026-09-06
+- **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5020701007) (Bangalore, IND) — posted 2026-09-07
+- **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-09-07
