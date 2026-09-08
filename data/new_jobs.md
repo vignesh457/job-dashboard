@@ -337,3 +337,16 @@
 - **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) (Bangalore) — posted 2026-09-06
 - **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5020701007) (Bangalore, IND) — posted 2026-09-07
 - **Zscaler** — [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5219488007) (Bangalore, IND) — posted 2026-09-07
+
+## 2026-09-08 09:54 UTC — 10 new matching roles
+
+- **HighRadius** — [Senior Web Developer](https://www.highradius.com/about/careers-list/?gh_jid=7980101003) (Hyderabad, Telangana, India) — posted 2026-09-07
+- **JobTwine** — [7th september hitesh Sde](https://jobs.lever.co/jobtwine/989ab428-e32b-4f76-bc85-9ad30ff99e46) (Bangalore) — posted 2026-09-07
+- **JobTwine** — [Sept 7 kombo-lever Kiran SDE](https://jobs.lever.co/jobtwine/17d2bbb4-8dd9-4f32-a04e-32790937e909) (Bangalore) — posted 2026-09-07
+- **JobTwine** — [test job Kiran Backend Engineer](https://jobs.lever.co/jobtwine/443d689b-2e25-4a9c-b81f-c8fda5c3ac67) (Hyderabad) — posted 2026-09-07
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679) (Bengaluru, India) — posted 2026-09-08
+- **Postman** — [Senior Software Engineer, Client Platform](https://job-boards.greenhouse.io/postman/jobs/7766958003) (Bengaluru, Karnataka, India) — posted 2026-09-08
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000147906711) (Hyderabad) — posted 2026-09-07
+- **Sutherland** — [C# Developer](https://jobs.smartrecruiters.com/sutherland/744000148072630) (Bengaluru) — posted 2026-09-08
+- **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/7996779) (Remote - India) — posted 2026-09-07
+- **Wise** — [Senior Software Engineer (Backend)](https://jobs.smartrecruiters.com/wise/744000147911819) (Hyderabad) — posted 2026-09-07
