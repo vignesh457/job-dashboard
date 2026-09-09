@@ -350,3 +350,9 @@
 - **Sutherland** — [C# Developer](https://jobs.smartrecruiters.com/sutherland/744000148072630) (Bengaluru) — posted 2026-09-08
 - **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/7996779) (Remote - India) — posted 2026-09-07
 - **Wise** — [Senior Software Engineer (Backend)](https://jobs.smartrecruiters.com/wise/744000147911819) (Hyderabad) — posted 2026-09-07
+
+## 2026-09-09 09:58 UTC — 3 new matching roles
+
+- **Sauce Labs** — [Software Engineer ](https://job-boards.greenhouse.io/saucelabs/jobs/8185664) (Gurgaon, India) — posted 2026-09-08
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000148409258) (Hyderabad) — posted 2026-09-09
+- **ZoomInfo** — [Software Engineer I - Salesforce Support](https://www.zoominfo.com/careers?gh_jid=8759684002) (Bengaluru, Karnataka, India) — posted 2026-09-08
