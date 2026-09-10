@@ -356,3 +356,13 @@
 - **Sauce Labs** — [Software Engineer ](https://job-boards.greenhouse.io/saucelabs/jobs/8185664) (Gurgaon, India) — posted 2026-09-08
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000148409258) (Hyderabad) — posted 2026-09-09
 - **ZoomInfo** — [Software Engineer I - Salesforce Support](https://www.zoominfo.com/careers?gh_jid=8759684002) (Bengaluru, Karnataka, India) — posted 2026-09-08
+
+## 2026-09-10 09:55 UTC — 7 new matching roles
+
+- **JobTwine** — [9th september lever test Kiran SDE-2](https://jobs.lever.co/jobtwine/43983938-cd4c-41bb-8e08-c00f32ac662b) (Bangalore) — posted 2026-09-09
+- **Mindtickle** — [Software Engineer, Business Systems](https://jobs.lever.co/mindtickle/b6e024c2-42c2-463c-8bc8-ca0aa0826845) (Pune, Maharashtra) — posted 2026-09-09
+- **Okta** — [Software Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) (Bengaluru, India) — posted 2026-09-10
+- **Samsara** — [Senior Saleforce Developer](https://www.samsara.com/company/careers/roles/8185740?gh_jid=8185740) (Bengaluru - BLR1) — posted 2026-09-09
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000148490508) (Hyderabad) — posted 2026-09-09
+- **Swiggy** — [Software Development Engineer III — Backend, Trust & Safety](https://jobs.smartrecruiters.com/swiggy/6000000001394755) (Bengaluru) — posted 2026-09-10
+- **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8780071002) (Bengaluru, Karnataka, India) — posted 2026-09-09
