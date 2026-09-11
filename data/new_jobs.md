@@ -366,3 +366,12 @@
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000148490508) (Hyderabad) — posted 2026-09-09
 - **Swiggy** — [Software Development Engineer III — Backend, Trust & Safety](https://jobs.smartrecruiters.com/swiggy/6000000001394755) (Bengaluru) — posted 2026-09-10
 - **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8780071002) (Bengaluru, Karnataka, India) — posted 2026-09-09
+
+## 2026-09-11 09:53 UTC — 6 new matching roles
+
+- **Apollo.io** — [Senior Backend Engineer II](https://job-boards.greenhouse.io/apolloio/jobs/6130765004) (Hybrid, Bangalore) — posted 2026-09-10
+- **Okta** — [Senior Fullstack Engineer (Java + React.js)](https://www.okta.com/company/careers/opportunity/8185311?gh_jid=8185311) (Bengaluru, India) — posted 2026-09-10
+- **Okta** — [ Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555) (Bengaluru, India) — posted 2026-09-11
+- **Quince** — [Software Development Engineer -3 (Mobile)](https://job-boards.greenhouse.io/quince/jobs/5417828008) (Bengaluru, Karnataka, India) — posted 2026-09-10
+- **Quince** — [Software Development Engineer II (Data Engineering)](https://job-boards.greenhouse.io/quince/jobs/5417829008) (Bengaluru, Karnataka, India) — posted 2026-09-10
+- **Roku** — [Senior Software Engineer - Video Platform](https://www.weareroku.com/jobs/7334715?gh_jid=7334715) (Bengaluru, India) — posted 2026-09-11
