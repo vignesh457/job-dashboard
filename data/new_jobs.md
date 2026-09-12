@@ -375,3 +375,8 @@
 - **Quince** — [Software Development Engineer -3 (Mobile)](https://job-boards.greenhouse.io/quince/jobs/5417828008) (Bengaluru, Karnataka, India) — posted 2026-09-10
 - **Quince** — [Software Development Engineer II (Data Engineering)](https://job-boards.greenhouse.io/quince/jobs/5417829008) (Bengaluru, Karnataka, India) — posted 2026-09-10
 - **Roku** — [Senior Software Engineer - Video Platform](https://www.weareroku.com/jobs/7334715?gh_jid=7334715) (Bengaluru, India) — posted 2026-09-11
+
+## 2026-09-12 09:29 UTC — 2 new matching roles
+
+- **Okta** — [Workday Extend Developer ](https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169) (Bengaluru, India) — posted 2026-09-11
+- **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) (Bengaluru, India) — posted 2026-09-12
