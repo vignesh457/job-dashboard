@@ -380,3 +380,7 @@
 
 - **Okta** — [Workday Extend Developer ](https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169) (Bengaluru, India) — posted 2026-09-11
 - **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) (Bengaluru, India) — posted 2026-09-12
+
+## 2026-09-13 10:25 UTC — 1 new matching roles
+
+- **Databricks** — [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002) (Bengaluru, India) — posted 2026-09-13
