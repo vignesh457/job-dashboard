@@ -384,3 +384,8 @@
 ## 2026-09-13 10:25 UTC — 1 new matching roles
 
 - **Databricks** — [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002) (Bengaluru, India) — posted 2026-09-13
+
+## 2026-09-14 10:51 UTC — 2 new matching roles
+
+- **Okta** — [Senior Software Engineer - (Java & DSA)](https://www.okta.com/company/careers/opportunity/8102363?gh_jid=8102363) (Bengaluru, India) — posted 2026-09-14
+- **Paytm** — [Frontend  Lead](https://jobs.lever.co/paytm/0ff90fbd-29a5-4436-b312-8d5ead429dca) (Noida, Uttar Pradesh) — posted 2026-09-14
