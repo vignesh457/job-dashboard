@@ -389,3 +389,8 @@
 
 - **Okta** — [Senior Software Engineer - (Java & DSA)](https://www.okta.com/company/careers/opportunity/8102363?gh_jid=8102363) (Bengaluru, India) — posted 2026-09-14
 - **Paytm** — [Frontend  Lead](https://jobs.lever.co/paytm/0ff90fbd-29a5-4436-b312-8d5ead429dca) (Noida, Uttar Pradesh) — posted 2026-09-14
+
+## 2026-09-15 10:15 UTC — 2 new matching roles
+
+- **Coupang** — [Senior Frontend Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8203746) (Bengaluru) — posted 2026-09-15
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000149515165) (Hyderabad) — posted 2026-09-15
