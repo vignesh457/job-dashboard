@@ -394,3 +394,16 @@
 
 - **Coupang** — [Senior Frontend Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8203746) (Bengaluru) — posted 2026-09-15
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000149515165) (Hyderabad) — posted 2026-09-15
+
+## 2026-09-16 10:08 UTC — 10 new matching roles
+
+- **Adyen** — [Software Engineer (Kotlin)](https://job-boards.greenhouse.io/adyen/jobs/8075150) (Bengaluru) — posted 2026-09-16
+- **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8655891002) (Bangalore) — posted 2026-09-16
+- **DigiCert** — [Software Engineer ](https://www.digicert.com/careers/?gh_jid=8617061002) (Bangalore) — posted 2026-09-16
+- **Glance** — [SDE III - Machine Learning](https://job-boards.greenhouse.io/glance/jobs/8207128) (Bangalore) — posted 2026-09-16
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000149777338) (Hyderabad) — posted 2026-09-16
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000149776848) (Hyderabad) — posted 2026-09-16
+- **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790339002) (Bangalore, India) — posted 2026-09-15
+- **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790338002) (Bangalore, India) — posted 2026-09-15
+- **Sutherland** — [Agentic & Generative AI Developer](https://jobs.smartrecruiters.com/sutherland/744000149591759) (Chennai) — posted 2026-09-15
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-15
