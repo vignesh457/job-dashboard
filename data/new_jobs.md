@@ -407,3 +407,34 @@
 - **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790338002) (Bangalore, India) — posted 2026-09-15
 - **Sutherland** — [Agentic & Generative AI Developer](https://jobs.smartrecruiters.com/sutherland/744000149591759) (Chennai) — posted 2026-09-15
 - **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-15
+
+## 2026-09-17 10:12 UTC — 28 new matching roles
+
+- **Arista Networks** — [Software Engineer-Kernel/Driver](https://jobs.smartrecruiters.com/aristanetworks/744000150058443) (Bengaluru) — posted 2026-09-17
+- **Coursera** — [Senior Software Engineer, Applied AI and Customer Solutions](https://job-boards.greenhouse.io/coursera/...?gh_jid=6145774004) (India) — posted 2026-09-16
+- **Grab** — [Senior Software Engineer in Test](https://jobs.smartrecruiters.com/grab/744000149839324) (Bangalore) — posted 2026-09-16
+- **New Relic** — [Senior Salesforce Developer, Service Cloud](https://job-boards.greenhouse.io/newrelic/jobs/5378856008) (Bangalore, India) — posted 2026-09-15
+- **New Relic** — [Senior Software Engineer - Kubernetes Orchestration - (R0000335) Bangalore](https://job-boards.greenhouse.io/newrelic/jobs/5116768008) (Bangalore, India) — posted 2026-09-15
+- **Okta** — [Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Fullstack Engineer [ Node.js Heavy + React ]](https://www.okta.com/company/careers/opportunity/8119089?gh_jid=8119089) (Bengaluru, India) — posted 2026-09-16
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) (Bengaluru, India) — posted 2026-09-15
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer (Android)](https://www.okta.com/company/careers/opportunity/8108376?gh_jid=8108376) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer, Customer Dev Tools (Auth0)](https://www.okta.com/company/careers/opportunity/8113501?gh_jid=8113501) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer - Fullstack](https://www.okta.com/company/careers/opportunity/8203481?gh_jid=8203481) (Bengaluru, India) — posted 2026-09-15
+- **Okta** — [Senior Software Engineer - Fullstack ](https://www.okta.com/company/careers/opportunity/8128435?gh_jid=8128435) (Bengaluru, India) — posted 2026-09-15
+- **Okta** — [Senior Software Engineer in Test — macOS](https://www.okta.com/company/careers/opportunity/7588357?gh_jid=7588357) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer – Tooling & Platform (Terraform)](https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Senior Software Engineer, Workflows (Fullstack Javascript Engineer)](https://www.okta.com/company/careers/opportunity/5772061?gh_jid=5772061) (Bengaluru, India) — posted 2026-09-16
+- **Okta** — [ServiceNow Developer SAM](https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Software Engineer (iOS)](https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Software Engineer, Professional Services R&D](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) (Bengaluru, India) — posted 2026-09-11
+- **Okta** — [Workday Extend Developer ](https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169) (Bengaluru, India) — posted 2026-09-11
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150016164) (Hyderabad) — posted 2026-09-17
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150015430) (Hyderabad) — posted 2026-09-17
+- **ServiceNow** — [Sr Software Engineer - Kubernetes](https://jobs.smartrecruiters.com/servicenow/744000149918201) (Hyderabad) — posted 2026-09-16
+- **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8184671) (Bengaluru, Karnataka, India) — posted 2026-09-17
+- **Twilio** — [Software Engineer Intern (January 12th start, 23 weeks) ](https://job-boards.greenhouse.io/twilio/jobs/8190889) (Remote - India) — posted 2026-09-16
