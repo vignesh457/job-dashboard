@@ -1,39 +1,58 @@
 # Job Application Board
 
-_Last updated: 2026-09-17 10:12 UTC — 150 open matching roles_
+_Last updated: 2026-09-18 09:57 UTC — 154 open matching roles_
 
 Tick a box after you apply — your progress is preserved across daily runs.
 
-- [ ] **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8184671) · Bengaluru, Karnataka, India · posted 2026-09-17 <!-- id:greenhouse-toast-8184671 -->
-- [ ] **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150016164) · Hyderabad · posted 2026-09-17 <!-- id:smartrecruiters-servicenow-744000150016164 -->
-- [ ] **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150015430) · Hyderabad · posted 2026-09-17 <!-- id:smartrecruiters-servicenow-744000150015430 -->
-- [ ] **Roku** — [Senior Software Engineer, AD Serving](https://www.weareroku.com/jobs/8010116?gh_jid=8010116) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8010116 -->
-- [ ] **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7979561?gh_jid=7979561) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7979561 -->
-- [ ] **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7808514 -->
-- [ ] **Roku** — [Senior Software Engineer - Backend ](https://www.weareroku.com/jobs/8074225?gh_jid=8074225) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8074225 -->
-- [ ] **Roku** — [Senior Software Engineer- Backend](https://www.weareroku.com/jobs/8022897?gh_jid=8022897) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8022897 -->
-- [ ] **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8081750?gh_jid=8081750) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8081750 -->
-- [ ] **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8027813 -->
-- [ ] **Roku** — [Senior Software Engineer - Backend and Data](https://www.weareroku.com/jobs/8092397?gh_jid=8092397) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8092397 -->
-- [ ] **Roku** — [Senior Software Engineer, Backend & Data Platform](https://www.weareroku.com/jobs/8050577?gh_jid=8050577) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8050577 -->
-- [ ] **Roku** — [Senior Software Engineer, Cloud Content Platform](https://www.weareroku.com/jobs/8064457?gh_jid=8064457) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8064457 -->
-- [ ] **Roku** — [Senior Software Engineer - Data Platform](https://www.weareroku.com/jobs/7461370?gh_jid=7461370) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7461370 -->
-- [ ] **Roku** — [Senior Software Engineer, Demand Bidder, Ad Serving Platform](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8002598 -->
-- [ ] **Roku** — [Senior Software Engineer - Devops](https://www.weareroku.com/jobs/7523564?gh_jid=7523564) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7523564 -->
-- [ ] **Roku** — [Senior Software Engineer (Java - Backend, Ads Engineering)](https://www.weareroku.com/jobs/8009980?gh_jid=8009980) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8009980 -->
-- [ ] **Roku** — [Senior Software Engineer - Kubernetes & ServiceMesh](https://www.weareroku.com/jobs/6351228?gh_jid=6351228) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-6351228 -->
-- [ ] **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8048097 -->
-- [ ] **Roku** — [Senior  Software Engineer, Machine Learning ](https://www.weareroku.com/jobs/8027794?gh_jid=8027794) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8027794 -->
-- [ ] **Roku** — [Senior Software Engineer, Machine Learning](https://www.weareroku.com/jobs/7546375?gh_jid=7546375) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7546375 -->
-- [ ] **Roku** — [Senior Software Engineer, Observability ](https://www.weareroku.com/jobs/7358641?gh_jid=7358641) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7358641 -->
-- [ ] **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-8095705 -->
-- [ ] **Roku** — [Senior Software Engineer - Service mesh](https://www.weareroku.com/jobs/7361860?gh_jid=7361860) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7361860 -->
-- [ ] **Roku** — [Senior Software Engineer - Video Platform](https://www.weareroku.com/jobs/7334715?gh_jid=7334715) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7334715 -->
-- [ ] **Roku** — [Senior Software Engineer,  SRE](https://www.weareroku.com/jobs/7609611?gh_jid=7609611) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7609611 -->
-- [ ] **Roku** — [Senior Systems Engineer - NetSuite Developer](https://www.weareroku.com/jobs/7571093?gh_jid=7571093) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-roku-7571093 -->
+- [ ] **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150324259) · Hyderabad · posted 2026-09-18 <!-- id:smartrecruiters-servicenow-744000150324259 -->
+- [ ] **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150274479) · Hyderabad · posted 2026-09-18 <!-- id:smartrecruiters-servicenow-744000150274479 -->
+- [ ] **Roku** — [Senior Software Engineer, AD Serving](https://www.weareroku.com/jobs/8010116?gh_jid=8010116) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8010116 -->
+- [ ] **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7979561?gh_jid=7979561) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7979561 -->
+- [ ] **Roku** — [Senior Software Engineer - Backend](https://www.weareroku.com/jobs/7808514?gh_jid=7808514) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7808514 -->
+- [ ] **Roku** — [Senior Software Engineer - Backend ](https://www.weareroku.com/jobs/8074225?gh_jid=8074225) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8074225 -->
+- [ ] **Roku** — [Senior Software Engineer- Backend](https://www.weareroku.com/jobs/8022897?gh_jid=8022897) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8022897 -->
+- [ ] **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8081750?gh_jid=8081750) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8081750 -->
+- [ ] **Roku** — [Senior Software Engineer, Backend](https://www.weareroku.com/jobs/8027813?gh_jid=8027813) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8027813 -->
+- [ ] **Roku** — [Senior Software Engineer - Backend and Data](https://www.weareroku.com/jobs/8092397?gh_jid=8092397) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8092397 -->
+- [ ] **Roku** — [Senior Software Engineer, Backend & Data Platform](https://www.weareroku.com/jobs/8050577?gh_jid=8050577) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8050577 -->
+- [ ] **Roku** — [Senior Software Engineer, Cloud Content Platform](https://www.weareroku.com/jobs/8064457?gh_jid=8064457) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8064457 -->
+- [ ] **Roku** — [Senior Software Engineer - Data Platform](https://www.weareroku.com/jobs/7461370?gh_jid=7461370) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7461370 -->
+- [ ] **Roku** — [Senior Software Engineer, Demand Bidder, Ad Serving Platform](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8002598 -->
+- [ ] **Roku** — [Senior Software Engineer - Devops](https://www.weareroku.com/jobs/7523564?gh_jid=7523564) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7523564 -->
+- [ ] **Roku** — [Senior Software Engineer (Java - Backend, Ads Engineering)](https://www.weareroku.com/jobs/8009980?gh_jid=8009980) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8009980 -->
+- [ ] **Roku** — [Senior Software Engineer - Kubernetes & ServiceMesh](https://www.weareroku.com/jobs/6351228?gh_jid=6351228) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-6351228 -->
+- [ ] **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8048097 -->
+- [ ] **Roku** — [Senior  Software Engineer, Machine Learning ](https://www.weareroku.com/jobs/8027794?gh_jid=8027794) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8027794 -->
+- [ ] **Roku** — [Senior Software Engineer, Machine Learning](https://www.weareroku.com/jobs/7546375?gh_jid=7546375) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7546375 -->
+- [ ] **Roku** — [Senior Software Engineer, Observability ](https://www.weareroku.com/jobs/7358641?gh_jid=7358641) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7358641 -->
+- [ ] **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-8095705 -->
+- [ ] **Roku** — [Senior Software Engineer - Service mesh](https://www.weareroku.com/jobs/7361860?gh_jid=7361860) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7361860 -->
+- [ ] **Roku** — [Senior Software Engineer - Video Platform](https://www.weareroku.com/jobs/7334715?gh_jid=7334715) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7334715 -->
+- [ ] **Roku** — [Senior Software Engineer,  SRE](https://www.weareroku.com/jobs/7609611?gh_jid=7609611) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7609611 -->
+- [ ] **Roku** — [Senior Systems Engineer - NetSuite Developer](https://www.weareroku.com/jobs/7571093?gh_jid=7571093) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-roku-7571093 -->
+- [ ] **Okta** — [Senior Software Engineer - Fullstack ](https://www.okta.com/company/careers/opportunity/8128435?gh_jid=8128435) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-okta-8128435 -->
+- [ ] **JobTwine** — [18th September Kiran SDE-1](https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c) · Bangalore · posted 2026-09-18 <!-- id:lever-jobtwine-48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c -->
+- [ ] **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-databricks-8632126002 -->
+- [ ] **Databricks** — [Senior SAP Developer](https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-databricks-8679980002 -->
+- [ ] **Databricks** — [Sr Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002) · Bengaluru, India · posted 2026-09-18 <!-- id:greenhouse-databricks-8679982002 -->
+- [ ] **Crunchyroll** — [Senior Software Engineer -Backend/Full Stack](https://boards.greenhouse.io/crunchyroll/jobs/6696809?gh_jid=6696809) · Hyderabad, Telangana, India · posted 2026-09-18 <!-- id:greenhouse-crunchyroll-6696809 -->
+- [ ] **Arista Networks** — [Software Developer(SRE) - CloudVision as a Service (CVaaS)](https://jobs.smartrecruiters.com/aristanetworks/744000150304670) · Bengaluru · posted 2026-09-18 <!-- id:smartrecruiters-aristanetworks-744000150304670 -->
+- [ ] **Airbnb** — [Senior Software Engineer(AI/ML), Trust](https://careers.airbnb.com/positions/8154477?gh_jid=8154477) · Bangalore, India · posted 2026-09-18 <!-- id:greenhouse-airbnb-8154477 -->
+- [ ] **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5020701007) · Bangalore, IND · posted 2026-09-17 <!-- id:greenhouse-zscaler-5020701007 -->
+- [ ] **Twilio** — [Software Engineer Intern (January 12th start, 23 weeks) ](https://job-boards.greenhouse.io/twilio/jobs/8190889) · Remote - India · posted 2026-09-17 <!-- id:greenhouse-twilio-8190889 -->
+- [ ] **PubMatic** — [Senior/Software Engineer (AI-Powered Advertising Agents)](https://pubmatic.com/job/?gh_jid=5250558008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5250558008 -->
+- [ ] **PubMatic** — [Senior Software Engineer - C/C++, Linux/ Unix, Cloud](https://pubmatic.com/job/?gh_jid=5148540008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5148540008 -->
+- [ ] **PubMatic** — [Senior/Software Engineer - Data Analytics ](https://pubmatic.com/job/?gh_jid=5146913008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5146913008 -->
+- [ ] **PubMatic** — [Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)](https://pubmatic.com/job/?gh_jid=5404529008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5404529008 -->
+- [ ] **PubMatic** — [Senior Software Engineer - Java API developer](https://pubmatic.com/job/?gh_jid=5368771008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5368771008 -->
+- [ ] **PubMatic** — [Senior/Software Engineer - Java (Core Platform/Convert)](https://pubmatic.com/job/?gh_jid=5173030008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5173030008 -->
+- [ ] **PubMatic** — [Senior/Software Engineer - Mobile Monetization (Data Analytics)](https://pubmatic.com/job/?gh_jid=5372535008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5372535008 -->
+- [ ] **PubMatic** — [Senior / Software Engineer (Performance/Bidder)](https://pubmatic.com/job/?gh_jid=5378839008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5378839008 -->
+- [ ] **PubMatic** — [ Senior Software Engineer - UI](https://pubmatic.com/job/?gh_jid=5147001008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5147001008 -->
+- [ ] **PubMatic** — [ Software Engineer - UI (On Contract)](https://pubmatic.com/job/?gh_jid=5147028008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5147028008 -->
+- [ ] **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8210918?gh_jid=8210918) · Bengaluru, India · posted 2026-09-17 <!-- id:greenhouse-okta-8210918 -->
+- [ ] **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000150076309) · Bangalore · posted 2026-09-17 <!-- id:smartrecruiters-grab-744000150076309 -->
 - [ ] **Arista Networks** — [Software Engineer-Kernel/Driver](https://jobs.smartrecruiters.com/aristanetworks/744000150058443) · Bengaluru · posted 2026-09-17 <!-- id:smartrecruiters-aristanetworks-744000150058443 -->
-- [ ] **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5020701007) · Bangalore, IND · posted 2026-09-16 <!-- id:greenhouse-zscaler-5020701007 -->
-- [ ] **Twilio** — [Software Engineer Intern (January 12th start, 23 weeks) ](https://job-boards.greenhouse.io/twilio/jobs/8190889) · Remote - India · posted 2026-09-16 <!-- id:greenhouse-twilio-8190889 -->
 - [ ] **ServiceNow** — [Sr Software Engineer - Kubernetes](https://jobs.smartrecruiters.com/servicenow/744000149918201) · Hyderabad · posted 2026-09-16 <!-- id:smartrecruiters-servicenow-744000149918201 -->
 - [ ] **Samsara** — [Senior Saleforce Developer](https://www.samsara.com/company/careers/roles/8185740?gh_jid=8185740) · Bengaluru - BLR1 · posted 2026-09-16 <!-- id:greenhouse-samsara-8185740 -->
 - [ ] **Okta** — [Senior Fullstack Engineer [ Node.js Heavy + React ]](https://www.okta.com/company/careers/opportunity/8119089?gh_jid=8119089) · Bengaluru, India · posted 2026-09-16 <!-- id:greenhouse-okta-8119089 -->
@@ -45,12 +64,10 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Coursera** — [Senior Software Engineer, Applied AI and Customer Solutions](https://job-boards.greenhouse.io/coursera/...?gh_jid=6145774004) · India · posted 2026-09-16 <!-- id:greenhouse-coursera-6145774004 -->
 - [ ] **Adyen** — [Software Engineer (Kotlin)](https://job-boards.greenhouse.io/adyen/jobs/8075150) · Bengaluru · posted 2026-09-16 <!-- id:greenhouse-adyen-8075150 -->
 - [ ] **ZoomInfo** — [Software Engineer I - Salesforce](https://www.zoominfo.com/careers?gh_jid=8759686002) · Bengaluru, Karnataka, India · posted 2026-09-15 <!-- id:greenhouse-zoominfo-8759686002 -->
-- [ ] **Sutherland** — [Agentic & Generative AI Developer](https://jobs.smartrecruiters.com/sutherland/744000149591759) · Chennai · posted 2026-09-15 <!-- id:smartrecruiters-sutherland-744000149591759 -->
-- [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790339002) · Bangalore, India · posted 2026-09-15 <!-- id:greenhouse-stockx-8790339002 -->
 - [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790338002) · Bangalore, India · posted 2026-09-15 <!-- id:greenhouse-stockx-8790338002 -->
+- [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8790339002) · Bangalore, India · posted 2026-09-15 <!-- id:greenhouse-stockx-8790339002 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) · Bengaluru, India · posted 2026-09-15 <!-- id:greenhouse-okta-7599312 -->
 - [ ] **Okta** — [Senior Software Engineer - Fullstack](https://www.okta.com/company/careers/opportunity/8203481?gh_jid=8203481) · Bengaluru, India · posted 2026-09-15 <!-- id:greenhouse-okta-8203481 -->
-- [ ] **Okta** — [Senior Software Engineer - Fullstack ](https://www.okta.com/company/careers/opportunity/8128435?gh_jid=8128435) · Bengaluru, India · posted 2026-09-15 <!-- id:greenhouse-okta-8128435 -->
 - [ ] **New Relic** — [Senior Salesforce Developer, Service Cloud](https://job-boards.greenhouse.io/newrelic/jobs/5378856008) · Bangalore, India · posted 2026-09-15 <!-- id:greenhouse-newrelic-5378856008 -->
 - [ ] **New Relic** — [Senior Software Engineer - Kubernetes Orchestration - (R0000335) Bangalore](https://job-boards.greenhouse.io/newrelic/jobs/5116768008) · Bangalore, India · posted 2026-09-15 <!-- id:greenhouse-newrelic-5116768008 -->
 - [ ] **Databricks** — [Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002) · Bengaluru, India · posted 2026-09-15 <!-- id:greenhouse-databricks-8210383002 -->
@@ -59,37 +76,32 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Coupang** — [Senior Frontend Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8203746) · Bengaluru · posted 2026-09-15 <!-- id:greenhouse-coupang-8203746 -->
 - [ ] **Apollo.io** — [Senior Software Engineer](https://job-boards.greenhouse.io/apolloio/jobs/6116404004) · Hybrid, Bangalore · posted 2026-09-15 <!-- id:greenhouse-apolloio-6116404004 -->
 - [ ] **Apollo.io** — [Senior Software Engineer II](https://job-boards.greenhouse.io/apolloio/jobs/6130765004) · Hybrid, Bangalore · posted 2026-09-15 <!-- id:greenhouse-apolloio-6130765004 -->
-- [ ] **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7766790003) · India, Hyderabad · posted 2026-09-14 <!-- id:greenhouse-tide-7766790003 -->
-- [ ] **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815729003) · India, Delhi NCR · posted 2026-09-14 <!-- id:greenhouse-tide-7815729003 -->
 - [ ] **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815727003) · India, Bengaluru · posted 2026-09-14 <!-- id:greenhouse-tide-7815727003 -->
+- [ ] **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7815729003) · India, Delhi NCR · posted 2026-09-14 <!-- id:greenhouse-tide-7815729003 -->
+- [ ] **Tide** — [Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/tide/jobs/7766790003) · India, Hyderabad · posted 2026-09-14 <!-- id:greenhouse-tide-7766790003 -->
 - [ ] **Paytm** — [Frontend  Lead](https://jobs.lever.co/paytm/0ff90fbd-29a5-4436-b312-8d5ead429dca) · Noida, Uttar Pradesh · posted 2026-09-14 <!-- id:lever-paytm-0ff90fbd-29a5-4436-b312-8d5ead429dca -->
-- [ ] **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8628763002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8628763002 -->
 - [ ] **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8637208002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8637208002 -->
+- [ ] **DigiCert** — [Senior Fullstack Engineer](https://www.digicert.com/careers/?gh_jid=8628763002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8628763002 -->
 - [ ] **DigiCert** — [Senior Software Engineer](https://www.digicert.com/careers/?gh_jid=8605349002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8605349002 -->
-- [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8551980002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8551980002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8610038002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8610038002 -->
+- [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8551980002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8551980002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Golang](https://www.digicert.com/careers/?gh_jid=8633498002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8633498002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Java + Rust](https://www.digicert.com/careers/?gh_jid=8554504002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8554504002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Security and Networking](https://www.digicert.com/careers/?gh_jid=8570602002) · Bangalore,India · posted 2026-09-14 <!-- id:greenhouse-digicert-8570602002 -->
 - [ ] **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8605361002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8605361002 -->
-- [ ] **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8628318002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8628318002 -->
 - [ ] **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8632459002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8632459002 -->
-- [ ] **Databricks** — [Senior SAP Developer](https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-8679980002 -->
+- [ ] **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8628318002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8628318002 -->
 - [ ] **Databricks** — [Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-8294304002 -->
 - [ ] **Databricks** — [Senior Software Engineer (Data Platform)](https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-7647369002 -->
 - [ ] **Databricks** — [Senior Software Engineer (Infra)](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-7619810002 -->
 - [ ] **Databricks** — [Senior Software Engineer - Ingestion](https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-7934782002 -->
 - [ ] **Databricks** — [Senior Software Engineer - Multi Cloud Efficiency](https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-8602402002 -->
 - [ ] **Databricks** — [Senior Software Engineer - Search](https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-7841782002 -->
-- [ ] **Databricks** — [Sr Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002) · Bengaluru, India · posted 2026-09-14 <!-- id:greenhouse-databricks-8679982002 -->
-- [ ] **Coinbase** — [Software Engineer, EAA Integrations](https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051) · Remote - India · posted 2026-09-14 <!-- id:greenhouse-coinbase-7558051 -->
 - [ ] **Databricks** — [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002) · Bengaluru, India · posted 2026-09-13 <!-- id:greenhouse-databricks-8320183002 -->
 - [ ] **Databricks** — [Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) · Bengaluru, India · posted 2026-09-13 <!-- id:greenhouse-databricks-6709301002 -->
-- [ ] **Quince** — [Software Development Engineer - 3 (Backend)](https://job-boards.greenhouse.io/quince/jobs/5183986008) · Bengaluru, Karnataka, India · posted 2026-09-11 <!-- id:greenhouse-quince-5183986008 -->
 - [ ] **Quince** — [Software Development Engineer -3 (Mobile)](https://job-boards.greenhouse.io/quince/jobs/5417828008) · Bengaluru, Karnataka, India · posted 2026-09-11 <!-- id:greenhouse-quince-5417828008 -->
 - [ ] **Quince** — [Software Development Engineer II (Data Engineering)](https://job-boards.greenhouse.io/quince/jobs/5417829008) · Bengaluru, Karnataka, India · posted 2026-09-11 <!-- id:greenhouse-quince-5417829008 -->
 - [ ] **Okta** — [Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) · Bengaluru, India · posted 2026-09-11 <!-- id:greenhouse-okta-7770733 -->
-- [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085) · Bengaluru, India · posted 2026-09-11 <!-- id:greenhouse-okta-8039085 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585) · Bengaluru, India · posted 2026-09-11 <!-- id:greenhouse-okta-7783585 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679) · Bengaluru, India · posted 2026-09-11 <!-- id:greenhouse-okta-8053679 -->
 - [ ] **Okta** — [Senior Software Engineer (Android)](https://www.okta.com/company/careers/opportunity/8108376?gh_jid=8108376) · Bengaluru, India · posted 2026-09-11 <!-- id:greenhouse-okta-8108376 -->
@@ -119,7 +131,6 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **ZoomInfo** — [Software Engineer I - Salesforce Support](https://www.zoominfo.com/careers?gh_jid=8759684002) · Bengaluru, Karnataka, India · posted 2026-09-08 <!-- id:greenhouse-zoominfo-8759684002 -->
 - [ ] **Sauce Labs** — [Software Engineer ](https://job-boards.greenhouse.io/saucelabs/jobs/8185664) · Gurgaon, India · posted 2026-09-08 <!-- id:greenhouse-saucelabs-8185664 -->
 - [ ] **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) · Bangalore · posted 2026-09-08 <!-- id:greenhouse-rubrik-8166523 -->
-- [ ] **Wise** — [Senior Software Engineer (Backend)](https://jobs.smartrecruiters.com/wise/744000147911819) · Hyderabad · posted 2026-09-07 <!-- id:smartrecruiters-wise-744000147911819 -->
 - [ ] **JobTwine** — [7th september hitesh Sde](https://jobs.lever.co/jobtwine/989ab428-e32b-4f76-bc85-9ad30ff99e46) · Bangalore · posted 2026-09-07 <!-- id:lever-jobtwine-989ab428-e32b-4f76-bc85-9ad30ff99e46 -->
 - [ ] **JobTwine** — [Sept 7 kombo-lever Kiran SDE](https://jobs.lever.co/jobtwine/17d2bbb4-8dd9-4f32-a04e-32790937e909) · Bangalore · posted 2026-09-07 <!-- id:lever-jobtwine-17d2bbb4-8dd9-4f32-a04e-32790937e909 -->
 - [ ] **JobTwine** — [test job Kiran Backend Engineer](https://jobs.lever.co/jobtwine/443d689b-2e25-4a9c-b81f-c8fda5c3ac67) · Hyderabad · posted 2026-09-07 <!-- id:lever-jobtwine-443d689b-2e25-4a9c-b81f-c8fda5c3ac67 -->
@@ -130,27 +141,20 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Rubrik** — [Software Engineer - IAM](https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918) · Pune · posted 2026-09-03 <!-- id:greenhouse-rubrik-7956918 -->
 - [ ] **JobTwine** — [Hitesh 3 - SDE 2 3rd September job](https://jobs.lever.co/jobtwine/52545d3e-1e22-411e-95ec-e18eb19c3652) · Hyderabad · posted 2026-09-03 <!-- id:lever-jobtwine-52545d3e-1e22-411e-95ec-e18eb19c3652 -->
 - [ ] **JobTwine** — [hitesh- sde  3rd september](https://jobs.lever.co/jobtwine/3f6c9e56-aeff-4e3e-a056-205e6acd1cf9) · Hyderabad · posted 2026-09-03 <!-- id:lever-jobtwine-3f6c9e56-aeff-4e3e-a056-205e6acd1cf9 -->
-- [ ] **Airbnb** — [Senior Software Engineer(AI/ML), Trust](https://careers.airbnb.com/positions/8154477?gh_jid=8154477) · Bangalore, India · posted 2026-09-03 <!-- id:greenhouse-airbnb-8154477 -->
-- [ ] **Databricks** — [Full Stack Developer (AI Agents)](https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002) · Bengaluru, India · posted 2026-09-02 <!-- id:greenhouse-databricks-8632126002 -->
 - [ ] **Graviton Research Capital** — [Software Engineer (2027 Graduate)](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002?gh_jid=8764240002) · Gurugram, Haryana, India · posted 2026-09-01 <!-- id:greenhouse-gravitonresearchcapital-8764240002 -->
 - [ ] **Commvault** — [Backend - Senior Engineer](https://job-boards.greenhouse.io/commvault/jobs/5376612008) · Bangalore, India · posted 2026-09-01 <!-- id:greenhouse-commvault-5376612008 -->
 - [ ] **Commvault** — [Frontend - Senior Engineer](https://job-boards.greenhouse.io/commvault/jobs/5349263008) · Bangalore, India · posted 2026-09-01 <!-- id:greenhouse-commvault-5349263008 -->
 - [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8755354002) · Bangalore, India · posted 2026-08-31 <!-- id:greenhouse-stockx-8755354002 -->
 - [ ] **Groupon** — [Software Development Engineer III — 3PIP Integrations & Inventory Systems](https://job-boards.eu.greenhouse.io/groupon/jobs/4963940101) · Bangalore (Gopalan Axis SEZ) · posted 2026-08-31 <!-- id:greenhouse-groupon-4963940101 -->
-- [ ] **PubMatic** — [Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)](https://pubmatic.com/job/?gh_jid=5404529008) · Pune, IN · posted 2026-08-28 <!-- id:greenhouse-pubmatic-5404529008 -->
 - [ ] **Databricks** — [Senior Software Engineer- Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002) · Bengaluru, India · posted 2026-08-28 <!-- id:greenhouse-databricks-7647353002 -->
 - [ ] **Databricks** — [Senior Software Engineer - Partner Ecosystem](https://databricks.com/company/careers/open-positions/job?gh_jid=7938410002) · Bengaluru, India · posted 2026-08-28 <!-- id:greenhouse-databricks-7938410002 -->
 - [ ] **Databricks** — [Sr Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002) · Bengaluru, India · posted 2026-08-28 <!-- id:greenhouse-databricks-7955601002 -->
 - [ ] **Coinbase** — [Software Engineer, Security Platform](https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441) · Remote - India · posted 2026-08-28 <!-- id:greenhouse-coinbase-8165441 -->
 - [ ] **Swiggy** — [Software Development Engineer III - Backend](https://jobs.smartrecruiters.com/swiggy/6000000001349356) · Bengaluru · posted 2026-08-25 <!-- id:smartrecruiters-swiggy-6000000001349356 -->
-- [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8603944002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8603944002 -->
 - [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8602119002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8602119002 -->
+- [ ] **StockX** — [Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8603944002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8603944002 -->
 - [ ] **StockX** — [Software Development Engineer in Test - Buyer Experience](https://job-boards.greenhouse.io/stockx/jobs/8603920002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8603920002 -->
 - [ ] **StockX** — [Software Engineer - Android](https://job-boards.greenhouse.io/stockx/jobs/8603905002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8603905002 -->
 - [ ] **StockX** — [Software Engineer - iOS](https://job-boards.greenhouse.io/stockx/jobs/8742590002) · Bangalore, India · posted 2026-08-25 <!-- id:greenhouse-stockx-8742590002 -->
-- [ ] **Sauce Labs** — [Full-stack Software Engineer (python/go)](https://job-boards.greenhouse.io/saucelabs/jobs/8125664) · Gurgaon, India · posted 2026-08-25 <!-- id:greenhouse-saucelabs-8125664 -->
-- [ ] **PubMatic** — [Senior Software Engineer - Java API developer](https://pubmatic.com/job/?gh_jid=5368771008) · Pune, IN · posted 2026-08-24 <!-- id:greenhouse-pubmatic-5368771008 -->
 - [ ] **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8226018002) · Bengaluru, Karnataka, India · posted 2026-08-21 <!-- id:greenhouse-zoominfo-8226018002 -->
 - [ ] **ShyftLabs** — [Software Developer](https://jobs.lever.co/shyftlabs/4547a228-9cd7-4af6-9588-5cd4c8ae1612) · Noida, Uttar Pradesh · posted 2026-08-21 <!-- id:lever-shyftlabs-4547a228-9cd7-4af6-9588-5cd4c8ae1612 -->
-- [ ] **Crunchyroll** — [Senior Software Engineer - Android, Partner Engineering](https://boards.greenhouse.io/crunchyroll/jobs/8026531?gh_jid=8026531) · Hyderabad, Telangana, India · posted 2026-08-18 <!-- id:greenhouse-crunchyroll-8026531 -->
-- [ ] **Crunchyroll** — [Software Engineer](https://boards.greenhouse.io/crunchyroll/jobs/6696781?gh_jid=6696781) · Hyderabad, Telangana, India · posted 2026-08-18 <!-- id:greenhouse-crunchyroll-6696781 -->

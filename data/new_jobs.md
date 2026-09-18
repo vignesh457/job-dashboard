@@ -438,3 +438,13 @@
 - **ServiceNow** — [Sr Software Engineer - Kubernetes](https://jobs.smartrecruiters.com/servicenow/744000149918201) (Hyderabad) — posted 2026-09-16
 - **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8184671) (Bengaluru, Karnataka, India) — posted 2026-09-17
 - **Twilio** — [Software Engineer Intern (January 12th start, 23 weeks) ](https://job-boards.greenhouse.io/twilio/jobs/8190889) (Remote - India) — posted 2026-09-16
+
+## 2026-09-18 09:57 UTC — 7 new matching roles
+
+- **Arista Networks** — [Software Developer(SRE) - CloudVision as a Service (CVaaS)](https://jobs.smartrecruiters.com/aristanetworks/744000150304670) (Bengaluru) — posted 2026-09-18
+- **Crunchyroll** — [Senior Software Engineer -Backend/Full Stack](https://boards.greenhouse.io/crunchyroll/jobs/6696809?gh_jid=6696809) (Hyderabad, Telangana, India) — posted 2026-09-18
+- **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000150076309) (Bangalore) — posted 2026-09-17
+- **JobTwine** — [18th September Kiran SDE-1](https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c) (Bangalore) — posted 2026-09-18
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8210918?gh_jid=8210918) (Bengaluru, India) — posted 2026-09-17
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150324259) (Hyderabad) — posted 2026-09-18
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150274479) (Hyderabad) — posted 2026-09-18
