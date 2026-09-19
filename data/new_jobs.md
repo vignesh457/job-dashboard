@@ -448,3 +448,9 @@
 - **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8210918?gh_jid=8210918) (Bengaluru, India) — posted 2026-09-17
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150324259) (Hyderabad) — posted 2026-09-18
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150274479) (Hyderabad) — posted 2026-09-18
+
+## 2026-09-19 09:39 UTC — 3 new matching roles
+
+- **ServiceNow** — [Sr Software Engineer - Cloud Platform—Kubernetes Development](https://jobs.smartrecruiters.com/servicenow/744000150360307) (Hyderabad) — posted 2026-09-18
+- **Sutherland** — [Agentic & Generative AI developer](https://jobs.smartrecruiters.com/sutherland/744000150338020) (Chennai) — posted 2026-09-18
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-18
