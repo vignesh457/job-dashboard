@@ -454,3 +454,15 @@
 - **ServiceNow** — [Sr Software Engineer - Cloud Platform—Kubernetes Development](https://jobs.smartrecruiters.com/servicenow/744000150360307) (Hyderabad) — posted 2026-09-18
 - **Sutherland** — [Agentic & Generative AI developer](https://jobs.smartrecruiters.com/sutherland/744000150338020) (Chennai) — posted 2026-09-18
 - **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-18
+
+## 2026-09-21 10:56 UTC — 9 new matching roles
+
+- **Adyen** — [Software Engineer (Java) - Authentication & Tokenization](https://job-boards.greenhouse.io/adyen/jobs/8111699) (Bengaluru) — posted 2026-09-21
+- **Databricks** — [Senior Software Engineer - Data Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7601580002) (Bengaluru, India) — posted 2026-09-21
+- **Databricks** — [Senior Software Engineer - Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002) (Bengaluru, India) — posted 2026-09-21
+- **Glance** — [SDE II - ML](https://job-boards.greenhouse.io/glance/jobs/8220002) (Bangalore) — posted 2026-09-21
+- **Grab** — [Senior Software Engineer in Test](https://jobs.smartrecruiters.com/grab/744000150597009) (Bangalore) — posted 2026-09-21
+- **ixigo** — [Senior Software Engineer - Web](https://jobs.smartrecruiters.com/ixigo/744000150592889) (Gurugram) — posted 2026-09-21
+- **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/7957320?gh_jid=7957320) (Bengaluru, India) — posted 2026-09-21
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150620709) (Hyderabad) — posted 2026-09-21
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150597519) (Hyderabad) — posted 2026-09-21
