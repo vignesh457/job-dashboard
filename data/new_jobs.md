@@ -466,3 +466,10 @@
 - **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/7957320?gh_jid=7957320) (Bengaluru, India) — posted 2026-09-21
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150620709) (Hyderabad) — posted 2026-09-21
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000150597519) (Hyderabad) — posted 2026-09-21
+
+## 2026-09-22 10:09 UTC — 4 new matching roles
+
+- **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8629070002) (Bangalore) — posted 2026-09-22
+- **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-09-21
+- **Stripe** — [Software Engineer, Stripe Data Pipeline](https://stripe.com/jobs/search?gh_jid=8209970) (Bangalore) — posted 2026-09-21
+- **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-09-09
