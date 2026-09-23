@@ -473,3 +473,10 @@
 - **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-09-21
 - **Stripe** — [Software Engineer, Stripe Data Pipeline](https://stripe.com/jobs/search?gh_jid=8209970) (Bangalore) — posted 2026-09-21
 - **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-09-09
+
+## 2026-09-23 10:11 UTC — 4 new matching roles
+
+- **ixigo** — [Senior Software Developer - Backend](https://jobs.smartrecruiters.com/ixigo/744000151332869) (Gurugram) — posted 2026-09-23
+- **Okta** — [Senior Software Engineer, Lifecycle Management](https://www.okta.com/company/careers/opportunity/8222464?gh_jid=8222464) (Bengaluru, India) — posted 2026-09-22
+- **Quince** — [Software Development Engineer -2 (Mobile)](https://job-boards.greenhouse.io/quince/jobs/5426781008) (Bengaluru, Karnataka, India) — posted 2026-09-22
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151287595) (Hyderabad) — posted 2026-09-23
