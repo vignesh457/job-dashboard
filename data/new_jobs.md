@@ -480,3 +480,8 @@
 - **Okta** — [Senior Software Engineer, Lifecycle Management](https://www.okta.com/company/careers/opportunity/8222464?gh_jid=8222464) (Bengaluru, India) — posted 2026-09-22
 - **Quince** — [Software Development Engineer -2 (Mobile)](https://job-boards.greenhouse.io/quince/jobs/5426781008) (Bengaluru, Karnataka, India) — posted 2026-09-22
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151287595) (Hyderabad) — posted 2026-09-23
+
+## 2026-09-24 10:18 UTC — 2 new matching roles
+
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151541179) (Hyderabad) — posted 2026-09-24
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-24
