@@ -485,3 +485,8 @@
 
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151541179) (Hyderabad) — posted 2026-09-24
 - **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-09-24
+
+## 2026-09-25 10:21 UTC — 2 new matching roles
+
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151797409) (Hyderabad) — posted 2026-09-25
+- **ServiceNow** — [Senior Workday Integration Developer](https://jobs.smartrecruiters.com/servicenow/744000151601954) (Hyderabad) — posted 2026-09-24
