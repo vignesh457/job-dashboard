@@ -490,3 +490,8 @@
 
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000151797409) (Hyderabad) — posted 2026-09-25
 - **ServiceNow** — [Senior Workday Integration Developer](https://jobs.smartrecruiters.com/servicenow/744000151601954) (Hyderabad) — posted 2026-09-24
+
+## 2026-09-26 10:02 UTC — 2 new matching roles
+
+- **Okta** — [Senior Software Engineer Salesforce](https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817) (Bengaluru, India) — posted 2026-09-25
+- **Sutherland** — [MIS and Power BI Developer](https://jobs.smartrecruiters.com/sutherland/744000151903130) (Chennai) — posted 2026-09-25
