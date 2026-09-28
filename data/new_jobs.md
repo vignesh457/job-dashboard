@@ -495,3 +495,7 @@
 
 - **Okta** — [Senior Software Engineer Salesforce](https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817) (Bengaluru, India) — posted 2026-09-25
 - **Sutherland** — [MIS and Power BI Developer](https://jobs.smartrecruiters.com/sutherland/744000151903130) (Chennai) — posted 2026-09-25
+
+## 2026-09-28 11:51 UTC — 1 new matching roles
+
+- **Coursera** — [Senior Software Engineer, Backend & Infrastructure](https://job-boards.greenhouse.io/coursera/jobs/6126490004) (India) — posted 2026-09-28
