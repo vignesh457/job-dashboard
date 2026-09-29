@@ -499,3 +499,13 @@
 ## 2026-09-28 11:51 UTC — 1 new matching roles
 
 - **Coursera** — [Senior Software Engineer, Backend & Infrastructure](https://job-boards.greenhouse.io/coursera/jobs/6126490004) (India) — posted 2026-09-28
+
+## 2026-09-29 11:28 UTC — 7 new matching roles
+
+- **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-09-28
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000152383999) (Hyderabad) — posted 2026-09-29
+- **ixigo** — [Backend Engineer (Java / .NET)](https://jobs.smartrecruiters.com/ixigo/744000152347660) (Bangalore) — posted 2026-09-29
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8239048?gh_jid=8239048) (Bengaluru, India) — posted 2026-09-29
+- **Okta** — [Senior Software Engineer in Test (SET) — Access Essentials](https://www.okta.com/company/careers/opportunity/8236753?gh_jid=8236753) (Bengaluru, India) — posted 2026-09-28
+- **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) (Bangalore) — posted 2026-09-29
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000152325889) (Hyderabad) — posted 2026-09-29
