@@ -509,3 +509,19 @@
 - **Okta** — [Senior Software Engineer in Test (SET) — Access Essentials](https://www.okta.com/company/careers/opportunity/8236753?gh_jid=8236753) (Bengaluru, India) — posted 2026-09-28
 - **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) (Bangalore) — posted 2026-09-29
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000152325889) (Hyderabad) — posted 2026-09-29
+
+## 2026-09-30 11:16 UTC — 13 new matching roles
+
+- **Atomicwork** — [Backend Engineer](https://job-boards.greenhouse.io/atomicwork/jobs/4143684008) (Bengaluru, India) — posted 2026-09-30
+- **Atomicwork** — [Backend Engineer - Search](https://job-boards.greenhouse.io/atomicwork/jobs/4645648008) (Bengaluru, Karnataka) — posted 2026-09-30
+- **Atomicwork** — [Frontend Developer](https://job-boards.greenhouse.io/atomicwork/jobs/4249636008) (Bengaluru, Karnataka) — posted 2026-09-30
+- **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-09-30
+- **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000152647339) (Bangalore) — posted 2026-09-30
+- **Grab** — [Senior Software Engineer, Backend](https://jobs.smartrecruiters.com/grab/744000152589644) (Bangalore) — posted 2026-09-30
+- **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000152590029) (Bangalore) — posted 2026-09-30
+- **Matillion** — [Senior Software Engineer - Full Stack](https://jobs.lever.co/matillion/5bd28bbf-4c5f-464e-8949-0d8a775ddf57) (Hyderabad) — posted 2026-09-25
+- **Okta** — [Senior Fullstack Engineer (Java + React.js)](https://www.okta.com/company/careers/opportunity/8185311?gh_jid=8185311) (Bengaluru, India) — posted 2026-09-29
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8239278?gh_jid=8239278) (Bengaluru, India) — posted 2026-09-30
+- **ServiceNow** — [Senior Software Engineer- Full Stack](https://jobs.smartrecruiters.com/servicenow/744000152516859) (Hyderabad) — posted 2026-09-29
+- **ServiceNow** — [Senior Software Engineer, DevOps - Moveworks (DevSecOps)](https://jobs.smartrecruiters.com/servicenow/744000152399499) (Bangalore) — posted 2026-09-29
+- **Sutherland** — [Power Platform Developer](https://jobs.smartrecruiters.com/sutherland/744000152464832) (Hyderabad) — posted 2026-09-29
