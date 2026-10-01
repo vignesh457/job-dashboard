@@ -525,3 +525,14 @@
 - **ServiceNow** — [Senior Software Engineer- Full Stack](https://jobs.smartrecruiters.com/servicenow/744000152516859) (Hyderabad) — posted 2026-09-29
 - **ServiceNow** — [Senior Software Engineer, DevOps - Moveworks (DevSecOps)](https://jobs.smartrecruiters.com/servicenow/744000152399499) (Bangalore) — posted 2026-09-29
 - **Sutherland** — [Power Platform Developer](https://jobs.smartrecruiters.com/sutherland/744000152464832) (Hyderabad) — posted 2026-09-29
+
+## 2026-10-01 11:44 UTC — 8 new matching roles
+
+- **Experian** — [Senior Software Developer Engineer in Test](https://jobs.smartrecruiters.com/experian/744000152731005) (Hyderabad) — posted 2026-09-30
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085) (Bengaluru, India) — posted 2026-10-01
+- **ServiceNow** — [Sr Software Engineer - Cybersecurity Integrations (Armis)](https://jobs.smartrecruiters.com/servicenow/744000152833329) (Bangalore) — posted 2026-10-01
+- **ServiceNow** — [Software Engineer (Cybersecurity Integrations) - Armis](https://jobs.smartrecruiters.com/servicenow/744000152830943) (Bangalore) — posted 2026-10-01
+- **ServiceNow** — [Software Engineer (Cybersecurity Integrations) - Armis ](https://jobs.smartrecruiters.com/servicenow/744000152831074) (Bangalore) — posted 2026-10-01
+- **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8230767) (Bengaluru, Karnataka, India) — posted 2026-10-01
+- **Toast** — [Software Engineer II](https://careers.toasttab.com/jobs?gh_jid=8232478) (Bengaluru, Karnataka, India) — posted 2026-10-01
+- **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8822475002) (Bengaluru, Karnataka, India) — posted 2026-09-30
