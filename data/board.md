@@ -1,6 +1,6 @@
 # Job Application Board
 
-_Last updated: 2026-10-01 11:44 UTC — 145 open matching roles_
+_Last updated: 2026-10-02 11:13 UTC — 144 open matching roles_
 
 Tick a box after you apply — your progress is preserved across daily runs.
 
@@ -16,13 +16,14 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Roku** — [Senior Software Engineer, Cloud Content Platform](https://www.weareroku.com/jobs/8064457?gh_jid=8064457) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-8064457 -->
 - [ ] **Roku** — [Senior Software Engineer, Demand Bidder, Ad Serving Platform](https://www.weareroku.com/jobs/8002598?gh_jid=8002598) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-8002598 -->
 - [ ] **Roku** — [Senior Software Engineer - Devops](https://www.weareroku.com/jobs/7523564?gh_jid=7523564) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7523564 -->
-- [ ] **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/7957320?gh_jid=7957320) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7957320 -->
 - [ ] **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/8048097?gh_jid=8048097) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-8048097 -->
+- [ ] **Roku** — [Senior Software Engineer - Kubernetes & Service Mesh](https://www.weareroku.com/jobs/7957320?gh_jid=7957320) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7957320 -->
 - [ ] **Roku** — [Senior Software Engineer, Observability ](https://www.weareroku.com/jobs/7358641?gh_jid=7358641) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7358641 -->
 - [ ] **Roku** — [Senior Software Engineer, Platform Engineering](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-8095705 -->
 - [ ] **Roku** — [Senior Software Engineer - Service mesh](https://www.weareroku.com/jobs/7361860?gh_jid=7361860) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7361860 -->
 - [ ] **Roku** — [Senior Software Engineer - Video Platform](https://www.weareroku.com/jobs/7334715?gh_jid=7334715) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-roku-7334715 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-okta-8039085 -->
+- [ ] **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) · Bengaluru, India · posted 2026-10-01 <!-- id:greenhouse-databricks-8829029002 -->
 - [ ] **Commvault** — [Backend - Senior Engineer](https://job-boards.greenhouse.io/commvault/jobs/5376612008) · Bangalore, India · posted 2026-10-01 <!-- id:greenhouse-commvault-5376612008 -->
 - [ ] **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8822475002) · Bengaluru, Karnataka, India · posted 2026-09-30 <!-- id:greenhouse-zoominfo-8822475002 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8239278?gh_jid=8239278) · Bengaluru, India · posted 2026-09-30 <!-- id:greenhouse-okta-8239278 -->
@@ -35,7 +36,6 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Atomicwork** — [Backend Engineer](https://job-boards.greenhouse.io/atomicwork/jobs/4143684008) · Bengaluru, India · posted 2026-09-30 <!-- id:greenhouse-atomicwork-4143684008 -->
 - [ ] **Atomicwork** — [Backend Engineer - Search](https://job-boards.greenhouse.io/atomicwork/jobs/4645648008) · Bengaluru, Karnataka · posted 2026-09-30 <!-- id:greenhouse-atomicwork-4645648008 -->
 - [ ] **Atomicwork** — [Frontend Developer](https://job-boards.greenhouse.io/atomicwork/jobs/4249636008) · Bengaluru, Karnataka · posted 2026-09-30 <!-- id:greenhouse-atomicwork-4249636008 -->
-- [ ] **ZoomInfo** — [Software Engineer I](https://www.zoominfo.com/careers?gh_jid=8759684002) · Bengaluru, Karnataka, India · posted 2026-09-29 <!-- id:greenhouse-zoominfo-8759684002 -->
 - [ ] **Sutherland** — [Power Platform Developer](https://jobs.smartrecruiters.com/sutherland/744000152464832) · Hyderabad · posted 2026-09-29 <!-- id:smartrecruiters-sutherland-744000152464832 -->
 - [ ] **ServiceNow** — [Senior Software Engineer- Full Stack](https://jobs.smartrecruiters.com/servicenow/744000152516859) · Hyderabad · posted 2026-09-29 <!-- id:smartrecruiters-servicenow-744000152516859 -->
 - [ ] **ServiceNow** — [Senior Software Engineer, DevOps - Moveworks (DevSecOps)](https://jobs.smartrecruiters.com/servicenow/744000152399499) · Bangalore · posted 2026-09-29 <!-- id:smartrecruiters-servicenow-744000152399499 -->
@@ -76,8 +76,8 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **DigiCert** — [Senior Software Engineer - Java](https://www.digicert.com/careers/?gh_jid=8554504002) · Bangalore · posted 2026-09-22 <!-- id:greenhouse-digicert-8554504002 -->
 - [ ] **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8629070002) · Bangalore · posted 2026-09-22 <!-- id:greenhouse-digicert-8629070002 -->
 - [ ] **Okta** — [Senior Fullstack Engineer [ Node.js Heavy + React ]](https://www.okta.com/company/careers/opportunity/8119089?gh_jid=8119089) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-8119089 -->
-- [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-7783585 -->
 - [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-7599312 -->
+- [ ] **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/7783585?gh_jid=7783585) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-7783585 -->
 - [ ] **Okta** — [Senior Software Engineer (Android)](https://www.okta.com/company/careers/opportunity/8108376?gh_jid=8108376) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-8108376 -->
 - [ ] **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/7894398?gh_jid=7894398) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-7894398 -->
 - [ ] **Okta** — [Senior Software Engineer, Customer Dev Tools (Auth0)](https://www.okta.com/company/careers/opportunity/8113501?gh_jid=8113501) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-okta-8113501 -->
@@ -131,9 +131,8 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Apollo.io** — [Senior Software Engineer](https://job-boards.greenhouse.io/apolloio/jobs/6116404004) · Hybrid, Bangalore · posted 2026-09-15 <!-- id:greenhouse-apolloio-6116404004 -->
 - [ ] **Apollo.io** — [Senior Software Engineer II](https://job-boards.greenhouse.io/apolloio/jobs/6130765004) · Hybrid, Bangalore · posted 2026-09-15 <!-- id:greenhouse-apolloio-6130765004 -->
 - [ ] **DigiCert** — [Senior Software Engineer](https://www.digicert.com/careers/?gh_jid=8605349002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8605349002 -->
-- [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8610038002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8610038002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8551980002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8551980002 -->
-- [ ] **DigiCert** — [Senior Software Engineer - Golang](https://www.digicert.com/careers/?gh_jid=8633498002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8633498002 -->
+- [ ] **DigiCert** — [Senior Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8610038002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8610038002 -->
 - [ ] **DigiCert** — [Senior Software Engineer - Security and Networking](https://www.digicert.com/careers/?gh_jid=8570602002) · Bangalore,India · posted 2026-09-14 <!-- id:greenhouse-digicert-8570602002 -->
 - [ ] **DigiCert** — [Software Engineer](https://www.digicert.com/careers/?gh_jid=8605361002) · Bangalore, India · posted 2026-09-14 <!-- id:greenhouse-digicert-8605361002 -->
 - [ ] **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8632459002) · Bangalore · posted 2026-09-14 <!-- id:greenhouse-digicert-8632459002 -->

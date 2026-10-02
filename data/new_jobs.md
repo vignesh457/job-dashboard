@@ -536,3 +536,7 @@
 - **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8230767) (Bengaluru, Karnataka, India) — posted 2026-10-01
 - **Toast** — [Software Engineer II](https://careers.toasttab.com/jobs?gh_jid=8232478) (Bengaluru, Karnataka, India) — posted 2026-10-01
 - **ZoomInfo** — [Senior Software Engineer](https://www.zoominfo.com/careers?gh_jid=8822475002) (Bengaluru, Karnataka, India) — posted 2026-09-30
+
+## 2026-10-02 11:13 UTC — 1 new matching roles
+
+- **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-01
