@@ -540,3 +540,7 @@
 ## 2026-10-02 11:13 UTC — 1 new matching roles
 
 - **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-01
+
+## 2026-10-04 11:12 UTC — 1 new matching roles
+
+- **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-04
