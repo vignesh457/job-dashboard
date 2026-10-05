@@ -544,3 +544,10 @@
 ## 2026-10-04 11:12 UTC — 1 new matching roles
 
 - **Databricks** — [IT Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-04
+
+## 2026-10-05 12:27 UTC — 4 new matching roles
+
+- **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-10-05
+- **Commvault** — [Software Engineer (AI with Gen AI)](https://job-boards.greenhouse.io/commvault/jobs/5425593008) (Bangalore, India; Hyderbad, India; Pune, India) — posted 2026-10-05
+- **Okta** — [Senior Software engineer - Advanced Threat Protection](https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557) (Bengaluru, India) — posted 2026-10-04
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000153446319) (Hyderabad) — posted 2026-10-05
