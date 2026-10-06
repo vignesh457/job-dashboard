@@ -551,3 +551,16 @@
 - **Commvault** — [Software Engineer (AI with Gen AI)](https://job-boards.greenhouse.io/commvault/jobs/5425593008) (Bangalore, India; Hyderbad, India; Pune, India) — posted 2026-10-05
 - **Okta** — [Senior Software engineer - Advanced Threat Protection](https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557) (Bengaluru, India) — posted 2026-10-04
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000153446319) (Hyderabad) — posted 2026-10-05
+
+## 2026-10-06 12:08 UTC — 10 new matching roles
+
+- **Airbnb** — [Software Engineer, Guest & Host](https://careers.airbnb.com/positions/8245428?gh_jid=8245428) (India ) — posted 2026-10-06
+- **Crunchyroll** — [Software Engineer III](https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735) (Hyderabad, Telangana, India) — posted 2026-10-06
+- **JobTwine** — [Frontend Engineer Ravi](https://jobs.lever.co/jobtwine/8d02da75-7eda-4928-9c9d-29bd6dad01d9) (Hyderabad) — posted 2026-10-06
+- **JobTwine** — [Kiran Kombo SDE-III Oct 06](https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e) (Hyderabad) — posted 2026-10-06
+- **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) (Bangalore ) — posted 2026-10-06
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000153671505) (Hyderabad) — posted 2026-10-06
+- **ServiceNow** — [Senior Infrastructure Developer](https://jobs.smartrecruiters.com/servicenow/744000153568980) (Hyderabad) — posted 2026-10-05
+- **Swiggy** — [Software Development Engineer in Test](https://jobs.smartrecruiters.com/swiggy/6000000001465549) (Bengaluru) — posted 2026-10-06
+- **Twilio** — [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8247112) (Remote - India) — posted 2026-10-06
+- **Twilio** — [Software Engineer L3](https://job-boards.greenhouse.io/twilio/jobs/8079801) (Remote - India) — posted 2026-10-06
