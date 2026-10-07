@@ -564,3 +564,13 @@
 - **Swiggy** — [Software Development Engineer in Test](https://jobs.smartrecruiters.com/swiggy/6000000001465549) (Bengaluru) — posted 2026-10-06
 - **Twilio** — [Software Engineer (L2)](https://job-boards.greenhouse.io/twilio/jobs/8247112) (Remote - India) — posted 2026-10-06
 - **Twilio** — [Software Engineer L3](https://job-boards.greenhouse.io/twilio/jobs/8079801) (Remote - India) — posted 2026-10-06
+
+## 2026-10-07 11:54 UTC — 7 new matching roles
+
+- **Arista Networks** — [Software Engineer — Test Automation ](https://jobs.smartrecruiters.com/aristanetworks/744000154008074) (Bengaluru) — posted 2026-10-07
+- **Coupang** — [Senior Software Engineer [L5]](https://www.coupang.jobs/en/jobs/?gh_jid=8255590) (Bengaluru) — posted 2026-10-07
+- **Glance** — [SDE II - Gen AI](https://job-boards.greenhouse.io/glance/jobs/7846609) (Bangalore) — posted 2026-10-07
+- **New Relic** — [Senior Software Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5433820008) (Hyderabad, India) — posted 2026-10-07
+- **Okta** — [Senior  Software Engineer](https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817) (Bengaluru, India) — posted 2026-10-06
+- **Rubrik** — [Software Engineer - Cloud: Azure](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200) (Bangalore ) — posted 2026-10-07
+- **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-10-06
