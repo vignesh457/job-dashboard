@@ -574,3 +574,15 @@
 - **Okta** — [Senior  Software Engineer](https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817) (Bengaluru, India) — posted 2026-10-06
 - **Rubrik** — [Software Engineer - Cloud: Azure](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200) (Bangalore ) — posted 2026-10-07
 - **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-10-06
+
+## 2026-10-08 12:09 UTC — 9 new matching roles
+
+- **Databricks** — [Software Engineer (Backend - SDE 2)](https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002) (Bengaluru, India) — posted 2026-10-07
+- **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-07
+- **Databricks** — [Sr Software Engineer - Agentic Applications (Full Stack)](https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002) (Bengaluru, India) — posted 2026-10-07
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000154082251) (Hyderabad) — posted 2026-10-07
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000154081210) (Hyderabad) — posted 2026-10-07
+- **JobTwine** — [SDE -3 Frontend K](https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c) (Hyderabad) — posted 2026-10-08
+- **Quince** — [Software Engineer III, Frontend](https://job-boards.greenhouse.io/quince/jobs/5433055008) (Bengaluru, Karnataka, India) — posted 2026-10-07
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000154350139) (Hyderabad) — posted 2026-10-08
+- **ZoomInfo** — [Software Engineer II - Full Stack](https://www.zoominfo.com/careers?gh_jid=8833505002) (Bengaluru, Karnataka, India) — posted 2026-10-08
