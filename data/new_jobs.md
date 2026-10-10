@@ -593,3 +593,8 @@
 - **Experian** — [Senior Software Engineer ](https://jobs.smartrecruiters.com/experian/744000154456369) (Hyderabad) — posted 2026-10-08
 - **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566) (Bengaluru, India) — posted 2026-10-09
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000154609748) (Hyderabad) — posted 2026-10-09
+
+## 2026-10-10 11:17 UTC — 2 new matching roles
+
+- **Okta** — [Senior Java Engineer (Design & DSA)](https://www.okta.com/company/careers/opportunity/8159014?gh_jid=8159014) (Bengaluru, India) — posted 2026-10-10
+- **ServiceNow** — [Sr Software Engineer (Kubernetes Operators & Controllers, Go)](https://jobs.smartrecruiters.com/servicenow/744000154733159) (Hyderabad) — posted 2026-10-09
