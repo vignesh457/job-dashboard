@@ -598,3 +598,16 @@
 
 - **Okta** — [Senior Java Engineer (Design & DSA)](https://www.okta.com/company/careers/opportunity/8159014?gh_jid=8159014) (Bengaluru, India) — posted 2026-10-10
 - **ServiceNow** — [Sr Software Engineer (Kubernetes Operators & Controllers, Go)](https://jobs.smartrecruiters.com/servicenow/744000154733159) (Hyderabad) — posted 2026-10-09
+
+## 2026-10-12 13:22 UTC — 10 new matching roles
+
+- **Databricks** — [Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002) (Bengaluru, India) — posted 2026-10-11
+- **Databricks** — [Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) (Bengaluru, India) — posted 2026-10-11
+- **Databricks** — [Senior Software Engineer - Data + AI Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002) (Bengaluru, India) — posted 2026-10-11
+- **Databricks** — [Senior Software Engineer (Infra)](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002) (Bengaluru, India) — posted 2026-10-11
+- **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/7894436?gh_jid=7894436) (Bengaluru, India) — posted 2026-10-12
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417) (Bengaluru, India) — posted 2026-10-12
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8239048?gh_jid=8239048) (Bengaluru, India) — posted 2026-10-12
+- **Okta** — [Senior Software Engineer (NetSuite Developer)](https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916) (Bengaluru, India) — posted 2026-10-12
+- **ServiceNow** — [UI/UX Designer](https://jobs.smartrecruiters.com/servicenow/744000154931529) (Hyderabad) — posted 2026-10-12
+- **Swiggy** — [Associate Software Development Engineer](https://jobs.smartrecruiters.com/swiggy/6000000001479809) (Bangalore) — posted 2026-10-12
