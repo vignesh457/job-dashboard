@@ -611,3 +611,14 @@
 - **Okta** — [Senior Software Engineer (NetSuite Developer)](https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916) (Bengaluru, India) — posted 2026-10-12
 - **ServiceNow** — [UI/UX Designer](https://jobs.smartrecruiters.com/servicenow/744000154931529) (Hyderabad) — posted 2026-10-12
 - **Swiggy** — [Associate Software Development Engineer](https://jobs.smartrecruiters.com/swiggy/6000000001479809) (Bangalore) — posted 2026-10-12
+
+## 2026-10-13 12:50 UTC — 8 new matching roles
+
+- **Coupang** — [Senior Software Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8275808) (Bengaluru) — posted 2026-10-13
+- **Crunchyroll** — [Senior Software Engineer](https://boards.greenhouse.io/crunchyroll/jobs/8168540?gh_jid=8168540) (Hyderabad, Telangana, India) — posted 2026-10-13
+- **Experian** — [Senior Software Developer Engineer in Test](https://jobs.smartrecruiters.com/experian/744000152731005) (Hyderabad) — posted 2026-09-30
+- **Okta** — [Developer Support Engineer](https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733) (Bengaluru, India) — posted 2026-10-13
+- **Okta** — [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918) (Bengaluru, India) — posted 2026-10-13
+- **Okta** — [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916) (Bengaluru, India) — posted 2026-10-13
+- **Rubrik** — [Senior Software Engineer - Enterprise AI](https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699) (Bangalore) — posted 2026-10-13
+- **Swiggy** — [Software Development Engineer II](https://jobs.smartrecruiters.com/swiggy/6000000001484326) (Bengaluru) — posted 2026-10-13

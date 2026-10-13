@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-10-12 13:22 UTC",
+  "generated_at": "2026-10-13 12:50 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-coupang-8275808",
+      "company": "Coupang",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275808",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-crunchyroll-8168540",
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8168540?gh_jid=8168540",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7770733",
+      "company": "Okta",
+      "title": "Developer Support Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8263918",
+      "company": "Okta",
+      "title": "Senior Software Engineer - SRE",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8263916",
+      "company": "Okta",
+      "title": "Senior Software Engineer - SRE",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8273699",
+      "company": "Rubrik",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "location": "Bangalore",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-swiggy-6000000001484326",
+      "company": "Swiggy",
+      "title": "Software Development Engineer II",
+      "location": "Bengaluru",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001484326",
+      "posted_date": "2026-10-13",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-okta-7894436",
       "company": "Okta",
@@ -8,17 +78,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7894436?gh_jid=7894436",
       "posted_date": "2026-10-12",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7840417",
-      "company": "Okta",
-      "title": "Senior Software Engineer in Test",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417",
-      "posted_date": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -28,7 +88,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8239048?gh_jid=8239048",
       "posted_date": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -38,7 +98,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916",
       "posted_date": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,17 +108,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000154931529",
       "posted_date": "2026-10-12",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-swiggy-6000000001479809",
-      "company": "Swiggy",
-      "title": "Associate Software Development Engineer",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001479809",
-      "posted_date": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -68,7 +118,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
       "posted_date": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -78,7 +128,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
       "posted_date": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -88,7 +138,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
       "posted_date": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -98,7 +148,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
       "posted_date": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -152,16 +202,6 @@
       "applied": false
     },
     {
-      "id": "lever-jobtwine-dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
-      "company": "JobTwine",
-      "title": "SDE -3 Frontend K",
-      "location": "Hyderabad",
-      "url": "https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-quince-5417828008",
       "company": "Quince",
       "title": "Software Development Engineer III (Mobile)",
@@ -182,36 +222,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-roku-8010116",
-      "company": "Roku",
-      "title": "Senior Software Engineer, AD Serving",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/8010116?gh_jid=8010116",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-roku-8022897",
-      "company": "Roku",
-      "title": "Senior Software Engineer- Backend",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/8022897?gh_jid=8022897",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-roku-7957320",
-      "company": "Roku",
-      "title": "Senior Software Engineer - Kubernetes & Service Mesh",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/7957320?gh_jid=7957320",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-roku-8048097",
       "company": "Roku",
       "title": "Senior Software Engineer - Kubernetes & Service Mesh",
@@ -222,31 +232,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-roku-7358641",
-      "company": "Roku",
-      "title": "Senior Software Engineer, Observability ",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/7358641?gh_jid=7358641",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-roku-8095705",
       "company": "Roku",
       "title": "Senior Software Engineer, Platform Engineering",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8095705?gh_jid=8095705",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-roku-7361860",
-      "company": "Roku",
-      "title": "Senior Software Engineer - Service mesh",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/7361860?gh_jid=7361860",
       "posted_date": "2026-10-08",
       "is_new": false,
       "applied": false
@@ -392,21 +382,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8822475002",
+      "id": "greenhouse-zoominfo-8226018002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
-      "posted_date": "2026-10-07",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-zoominfo-8213981002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
@@ -422,11 +402,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8226018002",
+      "id": "greenhouse-zoominfo-8213981002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
+      "posted_date": "2026-10-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8822475002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
@@ -447,26 +437,6 @@
       "title": "Senior SAP Developer",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002",
-      "posted_date": "2026-10-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-jobtwine-8d02da75-7eda-4928-9c9d-29bd6dad01d9",
-      "company": "JobTwine",
-      "title": "Frontend Engineer Ravi",
-      "location": "Hyderabad",
-      "url": "https://jobs.lever.co/jobtwine/8d02da75-7eda-4928-9c9d-29bd6dad01d9",
-      "posted_date": "2026-10-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-jobtwine-338036c5-3cff-4579-af15-da8395ff791e",
-      "company": "JobTwine",
-      "title": "Kiran Kombo SDE-III Oct 06",
-      "location": "Hyderabad",
-      "url": "https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e",
       "posted_date": "2026-10-06",
       "is_new": false,
       "applied": false
@@ -582,6 +552,16 @@
       "applied": false
     },
     {
+      "id": "smartrecruiters-experian-744000152731005",
+      "company": "Experian",
+      "title": "Senior Software Developer Engineer in Test",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/experian/744000152731005",
+      "posted_date": "2026-09-30",
+      "is_new": true,
+      "applied": false
+    },
+    {
       "id": "greenhouse-okta-8239278",
       "company": "Okta",
       "title": "Senior Software Engineer",
@@ -682,21 +662,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-glance-8054888",
-      "company": "Glance",
-      "title": "SDE III - Data Engineering",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8054888",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-glance-8054886",
       "company": "Glance",
       "title": "SDE III - Data Engineering",
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/glance/jobs/8054886",
+      "posted_date": "2026-09-24",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-glance-8054888",
+      "company": "Glance",
+      "title": "SDE III - Data Engineering",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/8054888",
       "posted_date": "2026-09-24",
       "is_new": false,
       "applied": false
@@ -1077,16 +1057,6 @@
       "title": "Software Developer(SRE) - CloudVision as a Service (CVaaS)",
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000150304670",
-      "posted_date": "2026-09-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-jobtwine-48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c",
-      "company": "JobTwine",
-      "title": "18th September Kiran SDE-1",
-      "location": "Bangalore",
-      "url": "https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c",
       "posted_date": "2026-09-18",
       "is_new": false,
       "applied": false
