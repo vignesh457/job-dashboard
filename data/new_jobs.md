@@ -622,3 +622,15 @@
 - **Okta** — [Senior Software Engineer - SRE](https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916) (Bengaluru, India) — posted 2026-10-13
 - **Rubrik** — [Senior Software Engineer - Enterprise AI](https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699) (Bangalore) — posted 2026-10-13
 - **Swiggy** — [Software Development Engineer II](https://jobs.smartrecruiters.com/swiggy/6000000001484326) (Bengaluru) — posted 2026-10-13
+
+## 2026-10-14 10:24 UTC — 9 new matching roles
+
+- **Experian** — [Senior Software Engineer ](https://jobs.smartrecruiters.com/experian/744000155439444) (Hyderabad) — posted 2026-10-14
+- **Experian** — [Senior Software Development Engineer in Test](https://jobs.smartrecruiters.com/experian/744000155238169) (Hyderabad) — posted 2026-10-13
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000155233259) (Hyderabad) — posted 2026-10-13
+- **JobTwine** — [18th September Kiran SDE-1](https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c) (Bangalore) — posted 2026-09-18
+- **JobTwine** — [Frontend Engineer Ravi](https://jobs.lever.co/jobtwine/8d02da75-7eda-4928-9c9d-29bd6dad01d9) (Hyderabad) — posted 2026-10-06
+- **JobTwine** — [Kiran Kombo SDE-III Oct 06](https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e) (Hyderabad) — posted 2026-10-06
+- **JobTwine** — [SDE -3 Frontend K](https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c) (Hyderabad) — posted 2026-10-08
+- **Okta** — [Senior Fullstack Engineer (Java Heavy)](https://www.okta.com/company/careers/opportunity/8239244?gh_jid=8239244) (Bengaluru, India) — posted 2026-10-13
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000155459130) (Hyderabad) — posted 2026-10-14
