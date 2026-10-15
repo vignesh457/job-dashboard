@@ -634,3 +634,13 @@
 - **JobTwine** — [SDE -3 Frontend K](https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c) (Hyderabad) — posted 2026-10-08
 - **Okta** — [Senior Fullstack Engineer (Java Heavy)](https://www.okta.com/company/careers/opportunity/8239244?gh_jid=8239244) (Bengaluru, India) — posted 2026-10-13
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000155459130) (Hyderabad) — posted 2026-10-14
+
+## 2026-10-15 10:09 UTC — 7 new matching roles
+
+- **ixigo** — [Senior Software Engineer - Android](https://jobs.smartrecruiters.com/ixigo/744000155667589) (Gurugram) — posted 2026-10-15
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417) (Bengaluru, India) — posted 2026-10-15
+- **Okta** — [Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/8284518?gh_jid=8284518) (Bengaluru, India) — posted 2026-10-15
+- **Okta** — [Senior Software Engineer (Java & DSA)](https://www.okta.com/company/careers/opportunity/8239247?gh_jid=8239247) (Bengaluru, India) — posted 2026-10-14
+- **ServiceNow** — [Senior Infrastructure Developer](https://jobs.smartrecruiters.com/servicenow/744000155663370) (Hyderabad) — posted 2026-10-15
+- **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-10-14
+- **Zscaler** — [Software Development Engineer - Java + Distributed Systems](https://job-boards.greenhouse.io/zscaler/jobs/5261571007) (Hyderabad, IND) — posted 2026-10-14
