@@ -644,3 +644,15 @@
 - **ServiceNow** — [Senior Infrastructure Developer](https://jobs.smartrecruiters.com/servicenow/744000155663370) (Hyderabad) — posted 2026-10-15
 - **Toast** — [Senior Software  Engineer – (Java Full Stack)](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-10-14
 - **Zscaler** — [Software Development Engineer - Java + Distributed Systems](https://job-boards.greenhouse.io/zscaler/jobs/5261571007) (Hyderabad, IND) — posted 2026-10-14
+
+## 2026-10-16 10:01 UTC — 9 new matching roles
+
+- **Adyen** — [Senior Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-10-15
+- **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000155940626) (Bangalore) — posted 2026-10-16
+- **Grab** — [Software Engineer, ios](https://jobs.smartrecruiters.com/grab/744000155917439) (Bangalore) — posted 2026-10-16
+- **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000155910704) (Bangalore) — posted 2026-10-16
+- **InMobi Advertising** — [SDE II - AI](https://job-boards.greenhouse.io/inmobi/jobs/8073988) (Bangalore) — posted 2026-10-15
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827) (Bengaluru, India) — posted 2026-10-16
+- **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-10-16
+- **Sutherland** — [Full Stack Developer](https://jobs.smartrecruiters.com/sutherland/744000155748135) (Hyderabad) — posted 2026-10-15
+- **Wise** — [Senior Software Engineer (IC3 - Backend) ](https://jobs.smartrecruiters.com/wise/744000155771274) (Hyderabad) — posted 2026-10-15

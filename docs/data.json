@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-15 10:09 UTC",
+  "generated_at": "2026-10-16 10:01 UTC",
   "jobs": [
+    {
+      "id": "smartrecruiters-grab-744000155940626",
+      "company": "Grab",
+      "title": "Senior Software Engineer, Mobile (Android)",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000155940626",
+      "posted_date": "2026-10-16",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-grab-744000155917439",
+      "company": "Grab",
+      "title": "Software Engineer, ios",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000155917439",
+      "posted_date": "2026-10-16",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-grab-744000155910704",
+      "company": "Grab",
+      "title": "Senior Software Engineer, Mobile (Android)",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000155910704",
+      "posted_date": "2026-10-16",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8263827",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827",
+      "posted_date": "2026-10-16",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-stripe-7618977",
+      "company": "Stripe",
+      "title": "Software Engineer, Core Technology",
+      "location": "Bangalore",
+      "url": "https://stripe.com/jobs/search?gh_jid=7618977",
+      "posted_date": "2026-10-16",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-adyen-8041307",
+      "company": "Adyen",
+      "title": "Senior Backend Engineer (Java) ",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
+      "posted_date": "2026-10-15",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-gravitonresearchcapital-8147013002",
       "company": "Graviton Research Capital",
@@ -12,23 +72,23 @@
       "applied": false
     },
     {
+      "id": "greenhouse-inmobi-8073988",
+      "company": "InMobi Advertising",
+      "title": "SDE II - AI",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8073988",
+      "posted_date": "2026-10-15",
+      "is_new": true,
+      "applied": false
+    },
+    {
       "id": "smartrecruiters-ixigo-744000155667589",
       "company": "ixigo",
       "title": "Senior Software Engineer - Android",
       "location": "Gurugram",
       "url": "https://jobs.smartrecruiters.com/ixigo/744000155667589",
       "posted_date": "2026-10-15",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7840417",
-      "company": "Okta",
-      "title": "Senior Software Engineer in Test",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417",
-      "posted_date": "2026-10-15",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -38,7 +98,27 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8284518?gh_jid=8284518",
       "posted_date": "2026-10-15",
-      "is_new": true,
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7840417",
+      "company": "Okta",
+      "title": "Senior Software Engineer in Test",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7840417?gh_jid=7840417",
+      "posted_date": "2026-10-15",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-pubmatic-5173030008",
+      "company": "PubMatic",
+      "title": "Senior / Software Engineer - Java (Core Platform/Convert)",
+      "location": "Pune, IN",
+      "url": "https://pubmatic.com/job/?gh_jid=5173030008",
+      "posted_date": "2026-10-15",
+      "is_new": false,
       "applied": false
     },
     {
@@ -47,6 +127,26 @@
       "title": "Senior\u00a0Infrastructure Developer",
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155663370",
+      "posted_date": "2026-10-15",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-sutherland-744000155748135",
+      "company": "Sutherland",
+      "title": "Full Stack Developer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/sutherland/744000155748135",
+      "posted_date": "2026-10-15",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-wise-744000155771274",
+      "company": "Wise",
+      "title": "Senior Software Engineer (IC3 - Backend) ",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/wise/744000155771274",
       "posted_date": "2026-10-15",
       "is_new": true,
       "applied": false
@@ -138,7 +238,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8239247?gh_jid=8239247",
       "posted_date": "2026-10-14",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -202,23 +302,13 @@
       "applied": false
     },
     {
-      "id": "greenhouse-rubrik-8256407",
-      "company": "Rubrik",
-      "title": "Software Engineer- SaaS O365",
-      "location": "Bangalore ",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-toast-8022865",
       "company": "Toast",
       "title": "Senior Software  Engineer \u2013 (Java Full Stack)",
       "location": "Chennai",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8022865",
       "posted_date": "2026-10-14",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -228,7 +318,7 @@
       "location": "Hyderabad, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261571007",
       "posted_date": "2026-10-14",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -422,16 +512,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-quince-5426781008",
-      "company": "Quince",
-      "title": "Software Development Engineer II (Mobile)",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/quince/jobs/5426781008",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-roku-8048097",
       "company": "Roku",
       "title": "Senior Software Engineer - Kubernetes & Service Mesh",
@@ -552,21 +632,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8213981002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
-      "posted_date": "2026-10-07",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8226018002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
+      "posted_date": "2026-10-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8822475002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
@@ -582,11 +662,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8822475002",
+      "id": "greenhouse-zoominfo-8213981002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
@@ -638,16 +718,6 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7902410?gh_jid=7902410",
       "posted_date": "2026-10-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-adyen-8098671",
-      "company": "Adyen",
-      "title": "Senior Software Engineer (Android - Kotlin Expert)",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8098671",
-      "posted_date": "2026-10-05",
       "is_new": false,
       "applied": false
     },
@@ -1182,16 +1252,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-pubmatic-5173030008",
-      "company": "PubMatic",
-      "title": "Senior/Software Engineer - Java (Core Platform/Convert)",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5173030008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-pubmatic-5372535008",
       "company": "PubMatic",
       "title": "Senior/Software Engineer - Mobile Monetization (Data Analytics)",
@@ -1218,46 +1278,6 @@
       "location": "Pune, IN",
       "url": "https://pubmatic.com/job/?gh_jid=5147028008",
       "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-apolloio-6116404004",
-      "company": "Apollo.io",
-      "title": "Senior Software Engineer",
-      "location": "Hybrid, Bangalore",
-      "url": "https://job-boards.greenhouse.io/apolloio/jobs/6116404004",
-      "posted_date": "2026-09-15",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-apolloio-6130765004",
-      "company": "Apollo.io",
-      "title": "Senior Software Engineer II",
-      "location": "Hybrid, Bangalore",
-      "url": "https://job-boards.greenhouse.io/apolloio/jobs/6130765004",
-      "posted_date": "2026-09-15",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-stockx-8790338002",
-      "company": "StockX",
-      "title": "Software Development Engineer in Test",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8790338002",
-      "posted_date": "2026-09-15",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-stockx-8790339002",
-      "company": "StockX",
-      "title": "Software Development Engineer in Test",
-      "location": "Bangalore, India",
-      "url": "https://job-boards.greenhouse.io/stockx/jobs/8790339002",
-      "posted_date": "2026-09-15",
       "is_new": false,
       "applied": false
     }
