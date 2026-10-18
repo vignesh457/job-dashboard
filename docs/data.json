@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-17 09:33 UTC",
+  "generated_at": "2026-10-18 09:45 UTC",
   "jobs": [
+    {
+      "id": "smartrecruiters-grab-744000156181749",
+      "company": "Grab",
+      "title": "Software Engineer, ios",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000156181749",
+      "posted_date": "2026-10-18",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-databricks-6709301002",
       "company": "Databricks",
@@ -62,6 +72,16 @@
       "applied": false
     },
     {
+      "id": "greenhouse-rubrik-8256407",
+      "company": "Rubrik",
+      "title": "Software Engineer- SaaS O365",
+      "location": "Bangalore ",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+      "posted_date": "2026-10-17",
+      "is_new": true,
+      "applied": false
+    },
+    {
       "id": "greenhouse-coursera-6145774004",
       "company": "Coursera",
       "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -87,16 +107,6 @@
       "title": "Senior Software Engineer, Mobile (Android)",
       "location": "Bangalore",
       "url": "https://jobs.smartrecruiters.com/grab/744000155940626",
-      "posted_date": "2026-10-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-grab-744000155917439",
-      "company": "Grab",
-      "title": "Software Engineer, ios",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000155917439",
       "posted_date": "2026-10-16",
       "is_new": false,
       "applied": false
@@ -1168,86 +1178,6 @@
       "location": "Bangalore",
       "url": "https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c",
       "posted_date": "2026-09-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-aristanetworks-744000150058443",
-      "company": "Arista Networks",
-      "title": "Software Engineer-Kernel/Driver",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/aristanetworks/744000150058443",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5250558008",
-      "company": "PubMatic",
-      "title": "Senior/Software Engineer (AI-Powered Advertising Agents)",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5250558008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5148540008",
-      "company": "PubMatic",
-      "title": "Senior Software Engineer - C/C++, Linux/ Unix, Cloud",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5148540008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5146913008",
-      "company": "PubMatic",
-      "title": "Senior/Software Engineer - Data Analytics ",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5146913008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5404529008",
-      "company": "PubMatic",
-      "title": "Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5404529008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5368771008",
-      "company": "PubMatic",
-      "title": "Senior Software Engineer - Java API developer",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5368771008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5372535008",
-      "company": "PubMatic",
-      "title": "Senior/Software Engineer - Mobile Monetization (Data Analytics)",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5372535008",
-      "posted_date": "2026-09-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-pubmatic-5147001008",
-      "company": "PubMatic",
-      "title": " Senior Software Engineer - UI",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5147001008",
-      "posted_date": "2026-09-17",
       "is_new": false,
       "applied": false
     }

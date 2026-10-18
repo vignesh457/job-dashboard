@@ -1,9 +1,11 @@
 # Job Application Board
 
-_Last updated: 2026-10-17 09:33 UTC — 125 open matching roles_
+_Last updated: 2026-10-18 09:45 UTC — 118 open matching roles_
 
 Tick a box after you apply — your progress is preserved across daily runs.
 
+- [ ] **Grab** — [Software Engineer, ios](https://jobs.smartrecruiters.com/grab/744000156181749) · Bangalore · posted 2026-10-18 <!-- id:smartrecruiters-grab-744000156181749 -->
+- [ ] **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) · Bangalore  · posted 2026-10-17 <!-- id:greenhouse-rubrik-8256407 -->
 - [ ] **Databricks** — [Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) · Bengaluru, India · posted 2026-10-17 <!-- id:greenhouse-databricks-6709301002 -->
 - [ ] **Databricks** — [Senior Software Engineer - Data + AI Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002) · Bengaluru, India · posted 2026-10-17 <!-- id:greenhouse-databricks-7897431002 -->
 - [ ] **Databricks** — [Senior Software Engineer (Infra)](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002) · Bengaluru, India · posted 2026-10-17 <!-- id:greenhouse-databricks-7619810002 -->
@@ -13,7 +15,6 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) · Bangalore · posted 2026-10-16 <!-- id:greenhouse-stripe-7618977 -->
 - [ ] **PubMatic** — [Senior / Software Engineer - Java (Core Platform/Commerce Media)](https://pubmatic.com/job/?gh_jid=5173030008) · Pune, IN · posted 2026-10-16 <!-- id:greenhouse-pubmatic-5173030008 -->
 - [ ] **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000155940626) · Bangalore · posted 2026-10-16 <!-- id:smartrecruiters-grab-744000155940626 -->
-- [ ] **Grab** — [Software Engineer, ios](https://jobs.smartrecruiters.com/grab/744000155917439) · Bangalore · posted 2026-10-16 <!-- id:smartrecruiters-grab-744000155917439 -->
 - [ ] **Grab** — [Senior Software Engineer, Mobile (Android)](https://jobs.smartrecruiters.com/grab/744000155910704) · Bangalore · posted 2026-10-16 <!-- id:smartrecruiters-grab-744000155910704 -->
 - [ ] **Coursera** — [Senior Software Engineer, Applied AI and Customer Solutions](https://job-boards.greenhouse.io/coursera/jobs/6145774004) · India · posted 2026-10-16 <!-- id:greenhouse-coursera-6145774004 -->
 - [ ] **Coursera** — [Senior Software Engineer, Backend & Infrastructure](https://job-boards.greenhouse.io/coursera/jobs/6126490004) · India · posted 2026-10-16 <!-- id:greenhouse-coursera-6126490004 -->
@@ -121,11 +122,3 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **Databricks** — [Sr Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002) · Bengaluru, India · posted 2026-09-21 <!-- id:greenhouse-databricks-7955601002 -->
 - [ ] **JobTwine** — [18th September Kiran SDE-1](https://jobs.lever.co/jobtwine/48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c) · Bangalore · posted 2026-09-18 <!-- id:lever-jobtwine-48711a58-5ebd-4b3c-b7ee-e0f9bb7a030c -->
 - [ ] **Arista Networks** — [Software Developer(SRE) - CloudVision as a Service (CVaaS)](https://jobs.smartrecruiters.com/aristanetworks/744000150304670) · Bengaluru · posted 2026-09-18 <!-- id:smartrecruiters-aristanetworks-744000150304670 -->
-- [ ] **PubMatic** — [Senior/Software Engineer (AI-Powered Advertising Agents)](https://pubmatic.com/job/?gh_jid=5250558008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5250558008 -->
-- [ ] **PubMatic** — [Senior Software Engineer - C/C++, Linux/ Unix, Cloud](https://pubmatic.com/job/?gh_jid=5148540008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5148540008 -->
-- [ ] **PubMatic** — [Senior/Software Engineer - Data Analytics ](https://pubmatic.com/job/?gh_jid=5146913008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5146913008 -->
-- [ ] **PubMatic** — [Senior Software Engineer (Golang, Linux/Unix, Cloud, Agile Development)](https://pubmatic.com/job/?gh_jid=5404529008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5404529008 -->
-- [ ] **PubMatic** — [Senior Software Engineer - Java API developer](https://pubmatic.com/job/?gh_jid=5368771008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5368771008 -->
-- [ ] **PubMatic** — [Senior/Software Engineer - Mobile Monetization (Data Analytics)](https://pubmatic.com/job/?gh_jid=5372535008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5372535008 -->
-- [ ] **PubMatic** — [ Senior Software Engineer - UI](https://pubmatic.com/job/?gh_jid=5147001008) · Pune, IN · posted 2026-09-17 <!-- id:greenhouse-pubmatic-5147001008 -->
-- [ ] **Arista Networks** — [Software Engineer-Kernel/Driver](https://jobs.smartrecruiters.com/aristanetworks/744000150058443) · Bengaluru · posted 2026-09-17 <!-- id:smartrecruiters-aristanetworks-744000150058443 -->

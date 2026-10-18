@@ -656,3 +656,8 @@
 - **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-10-16
 - **Sutherland** — [Full Stack Developer](https://jobs.smartrecruiters.com/sutherland/744000155748135) (Hyderabad) — posted 2026-10-15
 - **Wise** — [Senior Software Engineer (IC3 - Backend) ](https://jobs.smartrecruiters.com/wise/744000155771274) (Hyderabad) — posted 2026-10-15
+
+## 2026-10-18 09:45 UTC — 2 new matching roles
+
+- **Grab** — [Software Engineer, ios](https://jobs.smartrecruiters.com/grab/744000156181749) (Bangalore) — posted 2026-10-18
+- **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) (Bangalore ) — posted 2026-10-17
