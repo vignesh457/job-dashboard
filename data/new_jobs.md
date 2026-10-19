@@ -661,3 +661,7 @@
 
 - **Grab** — [Software Engineer, ios](https://jobs.smartrecruiters.com/grab/744000156181749) (Bangalore) — posted 2026-10-18
 - **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) (Bangalore ) — posted 2026-10-17
+
+## 2026-10-19 11:02 UTC — 1 new matching roles
+
+- **ixigo** — [Senior Software Developer - Backend](https://jobs.smartrecruiters.com/ixigo/744000156277867) (Gurugram) — posted 2026-10-19
