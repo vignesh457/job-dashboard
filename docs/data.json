@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-19 11:02 UTC",
+  "generated_at": "2026-10-20 10:15 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-stripe-8185012",
+      "company": "Stripe",
+      "title": "Software Engineer, Payin",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+      "posted_date": "2026-10-20",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-ixigo-744000156277867",
       "company": "ixigo",
@@ -8,7 +18,7 @@
       "location": "Gurugram",
       "url": "https://jobs.smartrecruiters.com/ixigo/744000156277867",
       "posted_date": "2026-10-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -162,16 +172,6 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-grab-744000155940626",
-      "company": "Grab",
-      "title": "Senior Software Engineer, Mobile (Android)",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000155940626",
-      "posted_date": "2026-10-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-grab-744000155910704",
       "company": "Grab",
       "title": "Senior Software Engineer, Mobile (Android)",
@@ -188,26 +188,6 @@
       "location": "Pune, IN",
       "url": "https://pubmatic.com/job/?gh_jid=5173030008",
       "posted_date": "2026-10-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-stripe-7618977",
-      "company": "Stripe",
-      "title": "Software Engineer, Core Technology",
-      "location": "Bangalore",
-      "url": "https://stripe.com/jobs/search?gh_jid=7618977",
-      "posted_date": "2026-10-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-adyen-8041307",
-      "company": "Adyen",
-      "title": "Senior Backend Engineer (Java) ",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
-      "posted_date": "2026-10-15",
       "is_new": false,
       "applied": false
     },
@@ -522,16 +502,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-adyen-8111703",
-      "company": "Adyen",
-      "title": "Senior Software Engineer (Java)",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8111703",
-      "posted_date": "2026-10-09",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "lever-jobtwine-dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
       "company": "JobTwine",
       "title": "SDE -3 Frontend K",
@@ -642,21 +612,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8649164002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8649164002",
-      "posted_date": "2026-10-07",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8822475002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "posted_date": "2026-10-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8213981002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
@@ -672,11 +642,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8213981002",
+      "id": "greenhouse-zoominfo-8649164002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8213981002",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8649164002",
       "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false

@@ -665,3 +665,7 @@
 ## 2026-10-19 11:02 UTC — 1 new matching roles
 
 - **ixigo** — [Senior Software Developer - Backend](https://jobs.smartrecruiters.com/ixigo/744000156277867) (Gurugram) — posted 2026-10-19
+
+## 2026-10-20 10:15 UTC — 1 new matching roles
+
+- **Stripe** — [Software Engineer, Payin](https://stripe.com/jobs/search?gh_jid=8185012) (Bengaluru) — posted 2026-10-20
