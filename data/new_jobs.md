@@ -669,3 +669,9 @@
 ## 2026-10-20 10:15 UTC — 1 new matching roles
 
 - **Stripe** — [Software Engineer, Payin](https://stripe.com/jobs/search?gh_jid=8185012) (Bengaluru) — posted 2026-10-20
+
+## 2026-10-21 10:24 UTC — 3 new matching roles
+
+- **New Relic** — [Software Engineer 1](https://job-boards.greenhouse.io/newrelic/jobs/5444781008) (Bangalore, India) — posted 2026-10-21
+- **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-10-21
+- **Sauce Labs** — [Senior Software Engineer (Python/Go, Infrastructure)](https://job-boards.greenhouse.io/saucelabs/jobs/8303361) (Gurgaon, India) — posted 2026-10-20
