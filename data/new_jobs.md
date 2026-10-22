@@ -675,3 +675,10 @@
 - **New Relic** — [Software Engineer 1](https://job-boards.greenhouse.io/newrelic/jobs/5444781008) (Bangalore, India) — posted 2026-10-21
 - **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-10-21
 - **Sauce Labs** — [Senior Software Engineer (Python/Go, Infrastructure)](https://job-boards.greenhouse.io/saucelabs/jobs/8303361) (Gurgaon, India) — posted 2026-10-20
+
+## 2026-10-22 10:23 UTC — 4 new matching roles
+
+- **Arista Networks** — [Software Engineer ](https://jobs.smartrecruiters.com/aristanetworks/744000157069639) (Bengaluru) — posted 2026-10-22
+- **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/8305423?gh_jid=8305423) (Bengaluru, India) — posted 2026-10-21
+- **Okta** — [Senior Software Engineer - Java](https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376) (Bengaluru, India) — posted 2026-10-22
+- **Toast** — [Software Engineer II](https://careers.toasttab.com/jobs?gh_jid=8302717) (Bengaluru, Karnataka, India) — posted 2026-10-22
