@@ -682,3 +682,12 @@
 - **Okta** — [Senior Software Engineer (Core Frontier)](https://www.okta.com/company/careers/opportunity/8305423?gh_jid=8305423) (Bengaluru, India) — posted 2026-10-21
 - **Okta** — [Senior Software Engineer - Java](https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376) (Bengaluru, India) — posted 2026-10-22
 - **Toast** — [Software Engineer II](https://careers.toasttab.com/jobs?gh_jid=8302717) (Bengaluru, Karnataka, India) — posted 2026-10-22
+
+## 2026-10-23 10:20 UTC — 6 new matching roles
+
+- **Paytm** — [Senior Software Engineer – Backend (Travel)](https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9) (Bangalore, Karnataka) — posted 2026-10-12
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157433334) (Bangalore) — posted 2026-10-23
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157408989) (Hyderabad) — posted 2026-10-23
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157402489) (Hyderabad) — posted 2026-10-23
+- **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-10-22
+- **Zscaler** — [Senior Technical Courseware Developer](https://job-boards.greenhouse.io/zscaler/jobs/5267167007) (Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND) — posted 2026-10-22

@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-22 10:23 UTC",
+  "generated_at": "2026-10-23 10:20 UTC",
   "jobs": [
+    {
+      "id": "smartrecruiters-servicenow-744000157433334",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157433334",
+      "posted_date": "2026-10-23",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000157408989",
+      "company": "ServiceNow",
+      "title": "Sr Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157408989",
+      "posted_date": "2026-10-23",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000157402489",
+      "company": "ServiceNow",
+      "title": "Sr Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157402489",
+      "posted_date": "2026-10-23",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-stripe-7543868",
+      "company": "Stripe",
+      "title": "Software Engineer, Financial Business Insights",
+      "location": "Bengaluru, India",
+      "url": "https://stripe.com/jobs/search?gh_jid=7543868",
+      "posted_date": "2026-10-23",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8822475002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "posted_date": "2026-10-23",
+      "is_new": false,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-aristanetworks-744000157069639",
       "company": "Arista Networks",
@@ -8,27 +58,47 @@
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000157069639",
       "posted_date": "2026-10-22",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
-      "id": "greenhouse-okta-7780376",
-      "company": "Okta",
-      "title": "Senior Software Engineer - Java",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7780376?gh_jid=7780376",
+      "id": "greenhouse-rubrik-8273699",
+      "company": "Rubrik",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "location": "Bangalore",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
       "posted_date": "2026-10-22",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
-      "id": "greenhouse-toast-8302717",
+      "id": "greenhouse-toast-8311990",
       "company": "Toast",
-      "title": "Software Engineer II",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8302717",
+      "title": "Senior Software Engineer ",
+      "location": "Bangalore , Karnataka",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8311990",
       "posted_date": "2026-10-22",
       "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zscaler-5267167007",
+      "company": "Zscaler",
+      "title": "Senior Technical Courseware Developer",
+      "location": "Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267167007",
+      "posted_date": "2026-10-22",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zscaler-5261571007",
+      "company": "Zscaler",
+      "title": "Software Development Engineer - Java + Distributed Systems",
+      "location": "Hyderabad, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261571007",
+      "posted_date": "2026-10-22",
+      "is_new": false,
       "applied": false
     },
     {
@@ -38,7 +108,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8305423?gh_jid=8305423",
       "posted_date": "2026-10-21",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -67,16 +137,6 @@
       "title": "Software Engineer, Intern",
       "location": "Bengaluru",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-      "posted_date": "2026-10-21",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-stripe-7543868",
-      "company": "Stripe",
-      "title": "Software Engineer, Internal Systems",
-      "location": "Bengaluru, India",
-      "url": "https://stripe.com/jobs/search?gh_jid=7543868",
       "posted_date": "2026-10-21",
       "is_new": false,
       "applied": false
@@ -372,16 +432,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-rubrik-8273699",
-      "company": "Rubrik",
-      "title": "Senior Software Engineer - Enterprise AI",
-      "location": "Bangalore",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-rubrik-8258200",
       "company": "Rubrik",
       "title": "Software Engineer - Cloud: Azure",
@@ -407,16 +457,6 @@
       "title": "Senior Software  Engineer \u2013 (Java Full Stack)",
       "location": "Chennai",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8022865",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-zscaler-5261571007",
-      "company": "Zscaler",
-      "title": "Software Development Engineer - Java + Distributed Systems",
-      "location": "Hyderabad, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5261571007",
       "posted_date": "2026-10-14",
       "is_new": false,
       "applied": false
@@ -492,22 +532,22 @@
       "applied": false
     },
     {
+      "id": "lever-paytm-105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "company": "Paytm",
+      "title": "Senior Software Engineer \u2013 Backend (Travel)",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "posted_date": "2026-10-12",
+      "is_new": true,
+      "applied": false
+    },
+    {
       "id": "greenhouse-databricks-8294304002",
       "company": "Databricks",
       "title": "Senior Software Engineer (App-Framework)",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
       "posted_date": "2026-10-11",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8159014",
-      "company": "Okta",
-      "title": "Senior Java Engineer (Design & DSA)",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8159014?gh_jid=8159014",
-      "posted_date": "2026-10-10",
       "is_new": false,
       "applied": false
     },
@@ -592,16 +632,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8822475002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
-      "posted_date": "2026-10-07",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "lever-jobtwine-8d02da75-7eda-4928-9c9d-29bd6dad01d9",
       "company": "JobTwine",
       "title": "Frontend Engineer Ravi",
@@ -617,16 +647,6 @@
       "title": "Kiran Kombo SDE-III Oct 06",
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e",
-      "posted_date": "2026-10-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8258817",
-      "company": "Okta",
-      "title": "Senior  Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817",
       "posted_date": "2026-10-06",
       "is_new": false,
       "applied": false
@@ -682,16 +702,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8236753",
-      "company": "Okta",
-      "title": "Senior Software Engineer in Test (SET) \u2014 Access Essentials",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8236753?gh_jid=8236753",
-      "posted_date": "2026-09-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-truefoundry-4807827008",
       "company": "TrueFoundry",
       "title": "Senior Software Engineer \u2013 Core Team",
@@ -732,21 +742,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-glance-8054886",
-      "company": "Glance",
-      "title": "SDE III - Data Engineering",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8054886",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-glance-8054888",
       "company": "Glance",
       "title": "SDE III - Data Engineering",
       "location": "Bangalore",
       "url": "https://job-boards.greenhouse.io/glance/jobs/8054888",
+      "posted_date": "2026-09-24",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-glance-8054886",
+      "company": "Glance",
+      "title": "SDE III - Data Engineering",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/8054886",
       "posted_date": "2026-09-24",
       "is_new": false,
       "applied": false
@@ -818,16 +828,6 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169",
       "posted_date": "2026-09-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8222464",
-      "company": "Okta",
-      "title": "Senior Software Engineer, Lifecycle Management",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8222464?gh_jid=8222464",
-      "posted_date": "2026-09-22",
       "is_new": false,
       "applied": false
     }
