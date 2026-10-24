@@ -691,3 +691,9 @@
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157402489) (Hyderabad) — posted 2026-10-23
 - **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-10-22
 - **Zscaler** — [Senior Technical Courseware Developer](https://job-boards.greenhouse.io/zscaler/jobs/5267167007) (Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND) — posted 2026-10-22
+
+## 2026-10-24 09:42 UTC — 3 new matching roles
+
+- **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-10-23
+- **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-24
+- **JobTwine** — [23rd Oct SDE-2](https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7) (Bangalore) — posted 2026-10-23
