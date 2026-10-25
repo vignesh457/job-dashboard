@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 09:42 UTC",
+  "generated_at": "2026-10-25 09:59 UTC",
   "jobs": [
     {
       "id": "greenhouse-databricks-8679980002",
@@ -48,7 +48,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
       "posted_date": "2026-10-24",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -68,7 +68,7 @@
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8098671",
       "posted_date": "2026-10-23",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -78,7 +78,7 @@
       "location": "Bangalore",
       "url": "https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7",
       "posted_date": "2026-10-23",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -718,56 +718,6 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817",
       "posted_date": "2026-09-25",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-glance-8054888",
-      "company": "Glance",
-      "title": "SDE III - Data Engineering",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8054888",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-glance-8054886",
-      "company": "Glance",
-      "title": "SDE III - Data Engineering",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8054886",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-glance-7999722",
-      "company": "Glance",
-      "title": "SDE IV - Backend",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/7999722",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-glance-7213752",
-      "company": "Glance",
-      "title": "SDE IV - GPU Engineer",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/7213752",
-      "posted_date": "2026-09-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-inmobi-7393433",
-      "company": "InMobi Advertising",
-      "title": "SDE III - Devops",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433",
-      "posted_date": "2026-09-24",
       "is_new": false,
       "applied": false
     }

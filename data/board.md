@@ -1,6 +1,6 @@
 # Job Application Board
 
-_Last updated: 2026-10-24 09:42 UTC — 77 open matching roles_
+_Last updated: 2026-10-25 09:59 UTC — 72 open matching roles_
 
 Tick a box after you apply — your progress is preserved across daily runs.
 
@@ -76,8 +76,3 @@ Tick a box after you apply — your progress is preserved across daily runs.
 - [ ] **TrueFoundry** — [Senior Software Engineer Frontend ](https://app.careerpuck.com/job-board/truefoundry/job/4884465008?gh_jid=4884465008) · Bengaluru, KA · posted 2026-09-28 <!-- id:greenhouse-truefoundry-4884465008 -->
 - [ ] **Okta** — [Senior Software Engineer Salesforce](https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817) · Bengaluru, India · posted 2026-09-25 <!-- id:greenhouse-okta-8223817 -->
 - [ ] **Matillion** — [Senior Software Engineer - Full Stack](https://jobs.lever.co/matillion/5bd28bbf-4c5f-464e-8949-0d8a775ddf57) · Hyderabad · posted 2026-09-25 <!-- id:lever-matillion-5bd28bbf-4c5f-464e-8949-0d8a775ddf57 -->
-- [ ] **InMobi Advertising** — [SDE III - Devops](https://job-boards.greenhouse.io/inmobi/jobs/7393433) · Bangalore · posted 2026-09-24 <!-- id:greenhouse-inmobi-7393433 -->
-- [ ] **Glance** — [SDE III - Data Engineering](https://job-boards.greenhouse.io/glance/jobs/8054888) · Bangalore · posted 2026-09-24 <!-- id:greenhouse-glance-8054888 -->
-- [ ] **Glance** — [SDE III - Data Engineering](https://job-boards.greenhouse.io/glance/jobs/8054886) · Bangalore · posted 2026-09-24 <!-- id:greenhouse-glance-8054886 -->
-- [ ] **Glance** — [SDE IV - Backend](https://job-boards.greenhouse.io/glance/jobs/7999722) · Bangalore · posted 2026-09-24 <!-- id:greenhouse-glance-7999722 -->
-- [ ] **Glance** — [SDE IV - GPU Engineer](https://job-boards.greenhouse.io/glance/jobs/7213752) · Bangalore · posted 2026-09-24 <!-- id:greenhouse-glance-7213752 -->
