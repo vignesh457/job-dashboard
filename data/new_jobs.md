@@ -697,3 +697,16 @@
 - **Adyen** — [Senior Software Engineer (Android - Kotlin Expert)](https://job-boards.greenhouse.io/adyen/jobs/8098671) (Bengaluru) — posted 2026-10-23
 - **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-10-24
 - **JobTwine** — [23rd Oct SDE-2](https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7) (Bangalore) — posted 2026-10-23
+
+## 2026-10-26 11:21 UTC — 10 new matching roles
+
+- **New Relic** — [Senior Software Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5459398008) (Hyderabad, India) — posted 2026-10-26
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157740014) (Hyderabad) — posted 2026-10-26
+- **ServiceNow** — [Senior Software Engineer- Full Stack](https://jobs.smartrecruiters.com/servicenow/744000157729739) (Hyderabad) — posted 2026-10-26
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000157722179) (Hyderabad) — posted 2026-10-26
+- **Tide** — [Engineer, Backend - 4 (Java)](https://job-boards.greenhouse.io/tide/jobs/8044322003) (India, Delhi NCR) — posted 2026-10-26
+- **Tide** — [Engineer, Backend - 4 (Java)](https://job-boards.greenhouse.io/tide/jobs/7798509003) (India, Hyderabad) — posted 2026-10-26
+- **Tide** — [Engineer, Backend - 4 (Java)](https://job-boards.greenhouse.io/tide/jobs/8044321003) (India, Bengaluru) — posted 2026-10-26
+- **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-10-25
+- **Toast** — [Senior Software Engineer, Full Stack](https://careers.toasttab.com/jobs?gh_jid=8317320) (Chennai) — posted 2026-10-26
+- **Turvo** — [Senior Software Engineer - UI](https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d) (Hyderabad) — posted 2026-10-26

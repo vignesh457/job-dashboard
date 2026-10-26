@@ -1,6 +1,176 @@
 {
-  "generated_at": "2026-10-25 09:59 UTC",
+  "generated_at": "2026-10-26 11:21 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-glance-7846609",
+      "company": "Glance",
+      "title": "SDE II - Gen AI",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/7846609",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-glance-8054888",
+      "company": "Glance",
+      "title": "SDE III - Data Engineering",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/8054888",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-glance-7999722",
+      "company": "Glance",
+      "title": "SDE IV - Backend",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/7999722",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-glance-7213752",
+      "company": "Glance",
+      "title": "SDE IV - GPU Engineer",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/glance/jobs/7213752",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-inmobi-8073988",
+      "company": "InMobi Advertising",
+      "title": "SDE II - AI",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8073988",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-inmobi-7393433",
+      "company": "InMobi Advertising",
+      "title": "SDE III - Devops",
+      "location": "Bangalore",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/7393433",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-newrelic-5459398008",
+      "company": "New Relic",
+      "title": "Senior Software Engineer",
+      "location": "Hyderabad, India",
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5459398008",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-pubmatic-5173030008",
+      "company": "PubMatic",
+      "title": "Senior / Software Engineer - Java (Core Platform, Commerce Media & AQ)",
+      "location": "Pune, IN",
+      "url": "https://pubmatic.com/job/?gh_jid=5173030008",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000157740014",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157740014",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000157729739",
+      "company": "ServiceNow",
+      "title": "Senior Software Engineer- Full Stack",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157729739",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000157722179",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000157722179",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-8044322003",
+      "company": "Tide",
+      "title": "Engineer, Backend - 4 (Java)",
+      "location": "India, Delhi NCR",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8044322003",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-7798509003",
+      "company": "Tide",
+      "title": "Engineer, Backend - 4 (Java)",
+      "location": "India, Hyderabad",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7798509003",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-tide-8044321003",
+      "company": "Tide",
+      "title": "Engineer, Backend - 4 (Java)",
+      "location": "India, Bengaluru",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8044321003",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8317320",
+      "company": "Toast",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "Chennai",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8317320",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-turvo-30276020-e65d-4757-a08f-edb5dfb9a04d",
+      "company": "Turvo",
+      "title": "Senior Software Engineer - UI",
+      "location": "Hyderabad",
+      "url": "https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d",
+      "posted_date": "2026-10-26",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8311990",
+      "company": "Toast",
+      "title": "Senior Software Engineer ",
+      "location": "Bangalore , Karnataka",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8311990",
+      "posted_date": "2026-10-25",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-databricks-8679980002",
       "company": "Databricks",
@@ -97,16 +267,6 @@
       "title": "Software Development Engineer III (Mobile)",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/quince/jobs/5417828008",
-      "posted_date": "2026-10-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000157408989",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000157408989",
       "posted_date": "2026-10-23",
       "is_new": false,
       "applied": false
@@ -342,31 +502,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-pubmatic-5173030008",
-      "company": "PubMatic",
-      "title": "Senior / Software Engineer - Java (Core Platform/Commerce Media)",
-      "location": "Pune, IN",
-      "url": "https://pubmatic.com/job/?gh_jid=5173030008",
-      "posted_date": "2026-10-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-gravitonresearchcapital-8147013002",
       "company": "Graviton Research Capital",
       "title": "Software Engineer- Python",
       "location": "Gurugram, Haryana, India",
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8147013002",
-      "posted_date": "2026-10-15",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-inmobi-8073988",
-      "company": "InMobi Advertising",
-      "title": "SDE II - AI",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/inmobi/jobs/8073988",
       "posted_date": "2026-10-15",
       "is_new": false,
       "applied": false
@@ -427,16 +567,6 @@
       "title": "Software Engineer III",
       "location": "Hyderabad, Telangana, India",
       "url": "https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8239247",
-      "company": "Okta",
-      "title": "Senior Software Engineer (Java & DSA)",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8239247?gh_jid=8239247",
       "posted_date": "2026-10-14",
       "is_new": false,
       "applied": false
@@ -602,16 +732,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-glance-7846609",
-      "company": "Glance",
-      "title": "SDE II - Gen AI",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/7846609",
-      "posted_date": "2026-10-07",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8213981002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
@@ -698,26 +818,6 @@
       "location": "Bengaluru, KA",
       "url": "https://app.careerpuck.com/job-board/truefoundry/job/4884465008?gh_jid=4884465008",
       "posted_date": "2026-09-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-matillion-5bd28bbf-4c5f-464e-8949-0d8a775ddf57",
-      "company": "Matillion",
-      "title": "Senior Software Engineer - Full Stack",
-      "location": "Hyderabad",
-      "url": "https://jobs.lever.co/matillion/5bd28bbf-4c5f-464e-8949-0d8a775ddf57",
-      "posted_date": "2026-09-25",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8223817",
-      "company": "Okta",
-      "title": "Senior Software Engineer Salesforce",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8223817?gh_jid=8223817",
-      "posted_date": "2026-09-25",
       "is_new": false,
       "applied": false
     }
