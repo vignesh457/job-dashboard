@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 11:21 UTC",
+  "generated_at": "2026-10-27 10:45 UTC",
   "jobs": [
     {
       "id": "greenhouse-glance-7846609",
@@ -68,15 +68,35 @@
       "location": "Hyderabad, India",
       "url": "https://job-boards.greenhouse.io/newrelic/jobs/5459398008",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
       "id": "greenhouse-pubmatic-5173030008",
       "company": "PubMatic",
-      "title": "Senior / Software Engineer - Java (Core Platform, Commerce Media & AQ)",
+      "title": "Senior/Software Engineer - Java (Core Platform, Commerce Media & AQ)",
       "location": "Pune, IN",
       "url": "https://pubmatic.com/job/?gh_jid=5173030008",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-roku-8048097",
+      "company": "Roku",
+      "title": "Senior Software Engineer - Kubernetes & Service Mesh",
+      "location": "Bengaluru, India",
+      "url": "https://www.weareroku.com/jobs/8048097?gh_jid=8048097",
+      "posted_date": "2026-10-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-roku-8095705",
+      "company": "Roku",
+      "title": "Senior Software Engineer, Platform Engineering",
+      "location": "Bengaluru, India",
+      "url": "https://www.weareroku.com/jobs/8095705?gh_jid=8095705",
       "posted_date": "2026-10-26",
       "is_new": false,
       "applied": false
@@ -88,7 +108,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000157740014",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -98,7 +118,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000157729739",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -108,35 +128,15 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000157722179",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
-      "id": "greenhouse-tide-8044322003",
-      "company": "Tide",
-      "title": "Engineer, Backend - 4 (Java)",
-      "location": "India, Delhi NCR",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8044322003",
-      "posted_date": "2026-10-26",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-tide-7798509003",
-      "company": "Tide",
-      "title": "Engineer, Backend - 4 (Java)",
-      "location": "India, Hyderabad",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7798509003",
-      "posted_date": "2026-10-26",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-tide-8044321003",
-      "company": "Tide",
-      "title": "Engineer, Backend - 4 (Java)",
-      "location": "India, Bengaluru",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8044321003",
+      "id": "greenhouse-toast-8184675",
+      "company": "Toast",
+      "title": "Senior Software Engineer, Care Automation",
+      "location": "Bangalore",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8184675",
       "posted_date": "2026-10-26",
       "is_new": true,
       "applied": false
@@ -148,7 +148,7 @@
       "location": "Chennai",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8317320",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -158,7 +158,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d",
       "posted_date": "2026-10-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -168,7 +168,7 @@
       "location": "Bangalore , Karnataka",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8311990",
       "posted_date": "2026-10-25",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -472,16 +472,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7955594002",
-      "company": "Databricks",
-      "title": "Software Engineer (Backend - SDE 2)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002",
-      "posted_date": "2026-10-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-coursera-6145774004",
       "company": "Coursera",
       "title": "Senior Software Engineer, Applied AI and Customer Solutions",
@@ -687,26 +677,6 @@
       "title": "SDE -3 Frontend K",
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-roku-8048097",
-      "company": "Roku",
-      "title": "Senior Software Engineer - Kubernetes & Service Mesh",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/8048097?gh_jid=8048097",
-      "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-roku-8095705",
-      "company": "Roku",
-      "title": "Senior Software Engineer, Platform Engineering",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/8095705?gh_jid=8095705",
       "posted_date": "2026-10-08",
       "is_new": false,
       "applied": false

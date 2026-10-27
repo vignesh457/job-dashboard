@@ -710,3 +710,7 @@
 - **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-10-25
 - **Toast** — [Senior Software Engineer, Full Stack](https://careers.toasttab.com/jobs?gh_jid=8317320) (Chennai) — posted 2026-10-26
 - **Turvo** — [Senior Software Engineer - UI](https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d) (Hyderabad) — posted 2026-10-26
+
+## 2026-10-27 10:45 UTC — 1 new matching roles
+
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-10-26
