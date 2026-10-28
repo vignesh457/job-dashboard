@@ -714,3 +714,15 @@
 ## 2026-10-27 10:45 UTC — 1 new matching roles
 
 - **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-10-26
+
+## 2026-10-28 11:28 UTC — 9 new matching roles
+
+- **Arista Networks** — [Software Developer(SRE) - CloudVision as a Service (CVaaS)](https://jobs.smartrecruiters.com/aristanetworks/744000158051849) (Bengaluru) — posted 2026-10-27
+- **Arista Networks** — [Software Engineer (Platform/EOS/Networking)](https://jobs.smartrecruiters.com/aristanetworks/744000157964409) (Bengaluru) — posted 2026-10-27
+- **Coinbase** — [Senior Software Engineer - Data Platform](https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213) (Remote - India) — posted 2026-10-27
+- **Greenlight** — [Senior Software Engineer- Full Stack](https://jobs.lever.co/greenlight/6aec918e-83f3-4ec2-a946-e577811530e7) (Bengaluru, Karnataka) — posted 2026-10-01
+- **New Relic** — [Software Engineer](https://job-boards.greenhouse.io/newrelic/jobs/5459401008) (Bangalore, India) — posted 2026-10-27
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827) (Bengaluru, India) — posted 2026-10-28
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158209450) (Hyderabad) — posted 2026-10-28
+- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) (Bangalore) — posted 2026-10-28
+- **Sutherland** — [Senior C# Developer](https://jobs.smartrecruiters.com/sutherland/744000157788430) (Bengaluru) — posted 2026-10-26
