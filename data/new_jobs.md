@@ -726,3 +726,20 @@
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158209450) (Hyderabad) — posted 2026-10-28
 - **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) (Bangalore) — posted 2026-10-28
 - **Sutherland** — [Senior C# Developer](https://jobs.smartrecruiters.com/sutherland/744000157788430) (Bengaluru) — posted 2026-10-26
+
+## 2026-10-29 11:39 UTC — 14 new matching roles
+
+- **Commvault** — [Software Engineer (Python)](https://job-boards.greenhouse.io/commvault/jobs/5440365008) (Bangalore, India; Hyderbad, India; Pune, India) — posted 2026-10-29
+- **DigiCert** — [Senior Software Development Engineer in Test](https://www.digicert.com/careers/?gh_jid=8907074002) (India, Bangalore) — posted 2026-10-28
+- **Grab** — [Platform Developer, Commercial Systems - Salesforce](https://jobs.smartrecruiters.com/grab/744000158286669) (Bangalore) — posted 2026-10-28
+- **JobTwine** — [23rd Oct SDE-2](https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7) (Bangalore) — posted 2026-10-23
+- **JobTwine** — [Frontend Engineer Ravi](https://jobs.lever.co/jobtwine/8d02da75-7eda-4928-9c9d-29bd6dad01d9) (Hyderabad) — posted 2026-10-06
+- **JobTwine** — [Kiran Kombo SDE-III Oct 06](https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e) (Hyderabad) — posted 2026-10-06
+- **JobTwine** — [SDE -3 Frontend K](https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c) (Hyderabad) — posted 2026-10-08
+- **Liberis** — [Senior Software Engineer](https://job-boards.greenhouse.io/liberis/jobs/7300207) (Mumbai) — posted 2026-10-28
+- **Okta** — [Senior Software Engineer - Android](https://www.okta.com/company/careers/opportunity/8333118?gh_jid=8333118) (Bengaluru, India) — posted 2026-10-29
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158494199) (Hyderabad) — posted 2026-10-29
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158459419) (Hyderabad) — posted 2026-10-29
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158321252) (Hyderabad) — posted 2026-10-28
+- **Sutherland** — [Software Full stack Developer](https://jobs.smartrecruiters.com/sutherland/744000158477608) (Bengaluru) — posted 2026-10-29
+- **Swiggy** — [Software Development Engineer III](https://jobs.smartrecruiters.com/swiggy/6000000001532843) (Bengaluru) — posted 2026-10-29
