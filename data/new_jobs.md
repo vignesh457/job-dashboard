@@ -743,3 +743,13 @@
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000158321252) (Hyderabad) — posted 2026-10-28
 - **Sutherland** — [Software Full stack Developer](https://jobs.smartrecruiters.com/sutherland/744000158477608) (Bengaluru) — posted 2026-10-29
 - **Swiggy** — [Software Development Engineer III](https://jobs.smartrecruiters.com/swiggy/6000000001532843) (Bengaluru) — posted 2026-10-29
+
+## 2026-10-30 11:30 UTC — 7 new matching roles
+
+- **Grab** — [Senior software engineer Test](https://jobs.smartrecruiters.com/grab/744000158686599) (Bangalore) — posted 2026-10-30
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823) (Bengaluru, India) — posted 2026-10-29
+- **Okta** — [Senior Software Engineer - Full Stack](https://www.okta.com/company/careers/opportunity/8317731?gh_jid=8317731) (Bengaluru, India) — posted 2026-10-30
+- **Okta** — [Senior Software Engineer - Java Developer](https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446) (Bengaluru, India) — posted 2026-10-30
+- **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-10-30
+- **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) (Bangalore ) — posted 2026-10-30
+- **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-10-29
