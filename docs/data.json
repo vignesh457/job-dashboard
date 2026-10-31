@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-10-30 11:30 UTC",
+  "generated_at": "2026-10-31 11:02 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-coinbase-8325213",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer - Data Platform",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-commvault-5440365008",
+      "company": "Commvault",
+      "title": "Software Engineer (Python)",
+      "location": "Bangalore, India; Hyderbad, India; Pune, India",
+      "url": "https://job-boards.greenhouse.io/commvault/jobs/5440365008",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-coupang-8275808",
+      "company": "Coupang",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275808",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-coupang-8255590",
+      "company": "Coupang",
+      "title": "Senior Software Engineer [L5]",
+      "location": "Bengaluru",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8255590",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-grab-744000158686599",
       "company": "Grab",
       "title": "Senior software engineer Test",
       "location": "Bangalore",
       "url": "https://jobs.smartrecruiters.com/grab/744000158686599",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8258817",
+      "company": "Okta",
+      "title": "Senior  Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817",
       "posted_date": "2026-10-30",
       "is_new": true,
       "applied": false
@@ -18,7 +68,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8317731?gh_jid=8317731",
       "posted_date": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -28,17 +78,27 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446",
       "posted_date": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
-      "id": "greenhouse-rubrik-8282005",
-      "company": "Rubrik",
-      "title": "Software Engineer Product Infra: Core Services",
-      "location": "Bengaluru",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "id": "greenhouse-okta-7727730",
+      "company": "Okta",
+      "title": "ServiceNow Developer SAM",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
       "posted_date": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-quince-5417828008",
+      "company": "Quince",
+      "title": "Software Development Engineer III (Mobile)",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/quince/jobs/5417828008",
+      "posted_date": "2026-10-30",
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,7 +108,47 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
       "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-saucelabs-8303361",
+      "company": "Sauce Labs",
+      "title": "Software Engineer (Python/Go, Infrastructure)",
+      "location": "Gurgaon, India",
+      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8184675",
+      "company": "Toast",
+      "title": "Senior Software Engineer, Care Automation",
+      "location": "Bangalore",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8184675",
+      "posted_date": "2026-10-30",
       "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8822475002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8226018002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
+      "posted_date": "2026-10-30",
+      "is_new": false,
       "applied": false
     },
     {
@@ -58,26 +158,6 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8833505002",
       "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-commvault-5440365008",
-      "company": "Commvault",
-      "title": "Software Engineer (Python)",
-      "location": "Bangalore, India; Hyderbad, India; Pune, India",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5440365008",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-coupang-8255590",
-      "company": "Coupang",
-      "title": "Senior Software Engineer [L5]",
-      "location": "Bengaluru",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8255590",
-      "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
     },
@@ -138,7 +218,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823",
       "posted_date": "2026-10-29",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -147,16 +227,6 @@
       "title": "Senior Software Engineer - Android",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8333118?gh_jid=8333118",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-saucelabs-8303361",
-      "company": "Sauce Labs",
-      "title": "Software Engineer (Python/Go, Infrastructure)",
-      "location": "Gurgaon, India",
-      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
       "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
@@ -188,7 +258,7 @@
       "location": "Bangalore",
       "url": "https://stripe.com/jobs/search?gh_jid=7618977",
       "posted_date": "2026-10-29",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -367,16 +437,6 @@
       "title": "Software Engineer (Platform/EOS/Networking)",
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000157964409",
-      "posted_date": "2026-10-27",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-coinbase-8325213",
-      "company": "Coinbase",
-      "title": "Senior Software Engineer - Data Platform",
-      "location": "Remote - India",
-      "url": "https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213",
       "posted_date": "2026-10-27",
       "is_new": false,
       "applied": false
@@ -582,26 +642,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-quince-5417828008",
-      "company": "Quince",
-      "title": "Software Development Engineer III (Mobile)",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/quince/jobs/5417828008",
-      "posted_date": "2026-10-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-zoominfo-8822475002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
-      "posted_date": "2026-10-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-aristanetworks-744000157069639",
       "company": "Arista Networks",
       "title": "Software Engineer ",
@@ -802,16 +842,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-coupang-8275808",
-      "company": "Coupang",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru",
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275808",
-      "posted_date": "2026-10-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-7770733",
       "company": "Okta",
       "title": "Developer Support Engineer",
@@ -858,16 +888,6 @@
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
       "posted_date": "2026-10-08",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-zoominfo-8226018002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
-      "posted_date": "2026-10-07",
       "is_new": false,
       "applied": false
     },

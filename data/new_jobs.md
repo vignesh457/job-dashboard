@@ -753,3 +753,8 @@
 - **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-10-30
 - **Rubrik** — [Software Engineer- SaaS O365](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) (Bangalore ) — posted 2026-10-30
 - **Stripe** — [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=7618977) (Bangalore) — posted 2026-10-29
+
+## 2026-10-31 11:02 UTC — 2 new matching roles
+
+- **Okta** — [Senior  Software Engineer](https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817) (Bengaluru, India) — posted 2026-10-30
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-10-30
