@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 11:02 UTC",
+  "generated_at": "2026-11-01 11:56 UTC",
   "jobs": [
     {
       "id": "greenhouse-coinbase-8325213",
@@ -42,23 +42,13 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-grab-744000158686599",
-      "company": "Grab",
-      "title": "Senior software engineer Test",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000158686599",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-8258817",
       "company": "Okta",
       "title": "Senior  Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817",
       "posted_date": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -128,7 +118,7 @@
       "location": "Bangalore",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8184675",
       "posted_date": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -322,16 +312,6 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-swiggy-6000000001532843",
-      "company": "Swiggy",
-      "title": "Software Development Engineer III",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001532843",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zscaler-5261571007",
       "company": "Zscaler",
       "title": "Software Development Engineer - Java + Distributed Systems",
@@ -377,16 +357,6 @@
       "title": "Software Engineer",
       "location": "Bangalore, India",
       "url": "https://www.digicert.com/careers/?gh_jid=8605361002",
-      "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-grab-744000158286669",
-      "company": "Grab",
-      "title": "Platform Developer, Commercial Systems - Salesforce",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000158286669",
       "posted_date": "2026-10-28",
       "is_new": false,
       "applied": false
@@ -702,16 +672,6 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-grab-744000156181749",
-      "company": "Grab",
-      "title": "Software Engineer, ios",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000156181749",
-      "posted_date": "2026-10-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-7619810002",
       "company": "Databricks",
       "title": "Senior Software Engineer (Infra)",
@@ -807,16 +767,6 @@
       "title": "Senior Software Engineer - CPD (IAM)",
       "location": "Bengaluru",
       "url": "https://www.rubrik.com/company/careers/departments/job.7956920?gh_jid=7956920",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-8258200",
-      "company": "Rubrik",
-      "title": "Software Engineer - Cloud: Azure",
-      "location": "Bangalore ",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
       "posted_date": "2026-10-14",
       "is_new": false,
       "applied": false
@@ -928,26 +878,6 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
       "posted_date": "2026-10-03",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-greenlight-6aec918e-83f3-4ec2-a946-e577811530e7",
-      "company": "Greenlight",
-      "title": "Senior Software Engineer- Full Stack",
-      "location": "Bengaluru, Karnataka",
-      "url": "https://jobs.lever.co/greenlight/6aec918e-83f3-4ec2-a946-e577811530e7",
-      "posted_date": "2026-10-01",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8039085",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8039085?gh_jid=8039085",
-      "posted_date": "2026-10-01",
       "is_new": false,
       "applied": false
     }
