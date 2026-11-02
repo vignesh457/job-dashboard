@@ -1,22 +1,82 @@
 {
-  "generated_at": "2026-11-01 11:56 UTC",
+  "generated_at": "2026-11-02 13:42 UTC",
   "jobs": [
+    {
+      "id": "smartrecruiters-aristanetworks-744000159085630",
+      "company": "Arista Networks",
+      "title": "Software Engineer (Routing Protocols/ Systems)",
+      "location": "Pune",
+      "url": "https://jobs.smartrecruiters.com/aristanetworks/744000159085630",
+      "posted_date": "2026-11-02",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-digicert-8907074002",
+      "company": "DigiCert",
+      "title": "Senior Software Development Engineer in Test",
+      "location": "India, Bangalore",
+      "url": "https://www.digicert.com/careers/?gh_jid=8907074002",
+      "posted_date": "2026-11-02",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-digicert-8605361002",
+      "company": "DigiCert",
+      "title": "Software Engineer",
+      "location": "Bangalore, India",
+      "url": "https://www.digicert.com/careers/?gh_jid=8605361002",
+      "posted_date": "2026-11-02",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-inmobi-6898755",
+      "company": "InMobi Advertising",
+      "title": "Machine Learning Engineer II - Backend",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/inmobi/jobs/6898755",
+      "posted_date": "2026-11-02",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8258200",
+      "company": "Rubrik",
+      "title": "Software Engineer - Cloud: Azure",
+      "location": "Bangalore ",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
+      "posted_date": "2026-11-02",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000159096479",
+      "company": "ServiceNow",
+      "title": "Sr Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000159096479",
+      "posted_date": "2026-11-02",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-twilio-8319386",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+      "posted_date": "2026-11-02",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-coinbase-8325213",
       "company": "Coinbase",
       "title": "Senior Software Engineer - Data Platform",
       "location": "Remote - India",
       "url": "https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-commvault-5440365008",
-      "company": "Commvault",
-      "title": "Software Engineer (Python)",
-      "location": "Bangalore, India; Hyderbad, India; Pune, India",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5440365008",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -172,16 +232,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-gravitonresearchcapital-8764240002",
-      "company": "Graviton Research Capital",
-      "title": "Software Engineer (2027 Graduate)",
-      "location": "Gurugram, Haryana, India",
-      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-gravitonresearchcapital-4004920002",
       "company": "Graviton Research Capital",
       "title": "Software Engineer (C++)",
@@ -227,16 +277,6 @@
       "title": "Sr Software Engineer",
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000158494199",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000158459419",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000158459419",
       "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
@@ -342,26 +382,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-digicert-8907074002",
-      "company": "DigiCert",
-      "title": "Senior Software Development Engineer in Test",
-      "location": "India, Bangalore",
-      "url": "https://www.digicert.com/careers/?gh_jid=8907074002",
-      "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-digicert-8605361002",
-      "company": "DigiCert",
-      "title": "Software Engineer",
-      "location": "Bangalore, India",
-      "url": "https://www.digicert.com/careers/?gh_jid=8605361002",
-      "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-liberis-7300207",
       "company": "Liberis",
       "title": "Senior Software Engineer",
@@ -377,16 +397,6 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827",
-      "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000158321252",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000158321252",
       "posted_date": "2026-10-28",
       "is_new": false,
       "applied": false

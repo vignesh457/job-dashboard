@@ -758,3 +758,11 @@
 
 - **Okta** — [Senior  Software Engineer](https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817) (Bengaluru, India) — posted 2026-10-30
 - **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-10-30
+
+## 2026-11-02 13:42 UTC — 5 new matching roles
+
+- **Arista Networks** — [Software Engineer (Routing Protocols/ Systems)](https://jobs.smartrecruiters.com/aristanetworks/744000159085630) (Pune) — posted 2026-11-02
+- **InMobi Advertising** — [Machine Learning Engineer II - Backend](https://job-boards.greenhouse.io/inmobi/jobs/6898755) (Bengaluru) — posted 2026-11-02
+- **Rubrik** — [Software Engineer - Cloud: Azure](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200) (Bangalore ) — posted 2026-11-02
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159096479) (Hyderabad) — posted 2026-11-02
+- **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8319386) (Remote - India) — posted 2026-11-02
