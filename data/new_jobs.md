@@ -766,3 +766,15 @@
 - **Rubrik** — [Software Engineer - Cloud: Azure](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200) (Bangalore ) — posted 2026-11-02
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159096479) (Hyderabad) — posted 2026-11-02
 - **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8319386) (Remote - India) — posted 2026-11-02
+
+## 2026-11-03 12:55 UTC — 9 new matching roles
+
+- **Commvault** — [Software Engineer – Automation & ServiceNow](https://job-boards.greenhouse.io/commvault/jobs/5275524008) (Bangalore, India; Hyderbad, India) — posted 2026-11-02
+- **Rubrik** — [Software Engineer (CPD) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) (Bangalore) — posted 2026-11-02
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159360269) (Hyderabad) — posted 2026-11-03
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159305059) (Hyderabad) — posted 2026-11-03
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159295769) (Hyderabad) — posted 2026-11-03
+- **Sutherland** — [Senior Oracle Applications Developer - Order Management](https://jobs.smartrecruiters.com/sutherland/744000159330900) (Hyderabad) — posted 2026-11-03
+- **Sutherland** — [Senior Oracle Applications Developer - Finance & Accounting](https://jobs.smartrecruiters.com/sutherland/744000159333139) (Hyderabad) — posted 2026-11-03
+- **Toast** — [Senior Software Engineer – Java Full Stack](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-11-02
+- **Zscaler** — [Senior Software Engineer, Salesforce](https://job-boards.greenhouse.io/zscaler/jobs/5281159007) (Bangalore, IND) — posted 2026-11-02
