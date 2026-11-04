@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-11-03 12:55 UTC",
+  "generated_at": "2026-11-04 13:09 UTC",
   "jobs": [
     {
-      "id": "greenhouse-rubrik-8256407",
+      "id": "smartrecruiters-experian-744000159572324",
+      "company": "Experian",
+      "title": "Senior Web Engineer (AI Fluent), Front End Products",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/experian/744000159572324",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-grab-744000159598119",
+      "company": "Grab",
+      "title": "Senior Software Engineer, Mobile (iOS)",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000159598119",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8266566",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-sumologic-8352350",
+      "company": "Sumo Logic",
+      "title": "Senior Software Engineer I",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352350",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-sumologic-8352364",
+      "company": "Sumo Logic",
+      "title": "Senior Software Engineer II",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352364",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-sumologic-8352378",
+      "company": "Sumo Logic",
+      "title": "Software Engineer II",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352378",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-commvault-5275524008",
+      "company": "Commvault",
+      "title": "Software Engineer \u2013 Automation & ServiceNow",
+      "location": "Bangalore, India; Hyderbad, India",
+      "url": "https://job-boards.greenhouse.io/commvault/jobs/5275524008",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7897431002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7647369002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-7744555",
+      "company": "Okta",
+      "title": " Senior Software Engineer in Test",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555",
+      "posted_date": "2026-11-03",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8263916",
+      "company": "Okta",
+      "title": "Senior Software Engineer - SRE",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-7956920",
       "company": "Rubrik",
-      "title": "Software Engineer- SaaS O365",
+      "title": "Senior Software Engineer - CPD (IAM)",
+      "location": "Bengaluru",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7956920?gh_jid=7956920",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8273699",
+      "company": "Rubrik",
+      "title": "Senior Software Engineer - Enterprise AI",
+      "location": "Bangalore",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8258200",
+      "company": "Rubrik",
+      "title": "Software Engineer - Cloud: Azure",
       "location": "Bangalore ",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8166537",
+      "company": "Rubrik",
+      "title": "Software Engineer (CPD) - Winter Intern",
+      "location": "Bangalore",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+      "posted_date": "2026-11-03",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-7956918",
+      "company": "Rubrik",
+      "title": "Software Engineer - IAM",
+      "location": "Pune",
+      "url": "https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918",
       "posted_date": "2026-11-03",
       "is_new": false,
       "applied": false
@@ -18,27 +168,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000159360269",
       "posted_date": "2026-11-03",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000159305059",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000159305059",
-      "posted_date": "2026-11-03",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000159295769",
-      "company": "ServiceNow",
-      "title": "Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000159295769",
-      "posted_date": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,7 +178,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/sutherland/744000159330900",
       "posted_date": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -58,7 +188,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/sutherland/744000159333139",
       "posted_date": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -69,16 +199,6 @@
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000159085630",
       "posted_date": "2026-11-02",
       "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-commvault-5275524008",
-      "company": "Commvault",
-      "title": "Software Engineer \u2013 Automation & ServiceNow",
-      "location": "Bangalore, India; Hyderbad, India",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5275524008",
-      "posted_date": "2026-11-02",
-      "is_new": true,
       "applied": false
     },
     {
@@ -107,16 +227,6 @@
       "title": "Senior Software Engineer -Backend/Full Stack",
       "location": "Hyderabad, Telangana, India",
       "url": "https://boards.greenhouse.io/crunchyroll/jobs/6696809?gh_jid=6696809",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-crunchyroll-6696781",
-      "company": "Crunchyroll",
-      "title": "Software Engineer",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/crunchyroll/jobs/6696781?gh_jid=6696781",
       "posted_date": "2026-11-02",
       "is_new": false,
       "applied": false
@@ -162,26 +272,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-rubrik-8258200",
-      "company": "Rubrik",
-      "title": "Software Engineer - Cloud: Azure",
-      "location": "Bangalore ",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-8166537",
-      "company": "Rubrik",
-      "title": "Software Engineer (CPD) - Winter Intern",
-      "location": "Bangalore",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-      "posted_date": "2026-11-02",
-      "is_new": true,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-servicenow-744000159096479",
       "company": "ServiceNow",
       "title": "Sr Software Engineer",
@@ -198,7 +288,7 @@
       "location": "Chennai",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8022865",
       "posted_date": "2026-11-02",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -208,7 +298,7 @@
       "location": "Bangalore, IND",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5281159007",
       "posted_date": "2026-11-02",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -237,16 +327,6 @@
       "title": "Senior Software Engineer [L5]",
       "location": "Bengaluru",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8255590",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8258817",
-      "company": "Okta",
-      "title": "Senior  Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8258817?gh_jid=8258817",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -312,21 +392,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8226018002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8822475002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8226018002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -522,16 +602,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8263827",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8263827?gh_jid=8263827",
-      "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-aristanetworks-744000158051849",
       "company": "Arista Networks",
       "title": "Software Developer(SRE) - CloudVision as a Service (CVaaS)",
@@ -692,16 +762,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7897431002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_date": "2026-10-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8829029002",
       "company": "Databricks",
       "title": "Software Engineer, Infrastructure",
@@ -732,31 +792,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8263918",
-      "company": "Okta",
-      "title": "Senior Software Engineer - SRE",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8263918?gh_jid=8263918",
-      "posted_date": "2026-10-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-aristanetworks-744000157069639",
       "company": "Arista Networks",
       "title": "Software Engineer ",
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000157069639",
-      "posted_date": "2026-10-22",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-8273699",
-      "company": "Rubrik",
-      "title": "Senior Software Engineer - Enterprise AI",
-      "location": "Bangalore",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
       "posted_date": "2026-10-22",
       "is_new": false,
       "applied": false
@@ -828,36 +868,6 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
       "posted_date": "2026-10-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8263916",
-      "company": "Okta",
-      "title": "Senior Software Engineer - SRE",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8263916?gh_jid=8263916",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-7956920",
-      "company": "Rubrik",
-      "title": "Senior Software Engineer - CPD (IAM)",
-      "location": "Bengaluru",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7956920?gh_jid=7956920",
-      "posted_date": "2026-10-14",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-7956918",
-      "company": "Rubrik",
-      "title": "Software Engineer - IAM",
-      "location": "Pune",
-      "url": "https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918",
-      "posted_date": "2026-10-14",
       "is_new": false,
       "applied": false
     },
@@ -938,16 +948,6 @@
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/jobtwine/338036c5-3cff-4579-af15-da8395ff791e",
       "posted_date": "2026-10-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8242557",
-      "company": "Okta",
-      "title": "Senior Software engineer - Advanced Threat Protection",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557",
-      "posted_date": "2026-10-04",
       "is_new": false,
       "applied": false
     }

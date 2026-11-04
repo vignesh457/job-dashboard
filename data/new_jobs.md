@@ -778,3 +778,13 @@
 - **Sutherland** — [Senior Oracle Applications Developer - Finance & Accounting](https://jobs.smartrecruiters.com/sutherland/744000159333139) (Hyderabad) — posted 2026-11-03
 - **Toast** — [Senior Software Engineer – Java Full Stack](https://careers.toasttab.com/jobs?gh_jid=8022865) (Chennai) — posted 2026-11-02
 - **Zscaler** — [Senior Software Engineer, Salesforce](https://job-boards.greenhouse.io/zscaler/jobs/5281159007) (Bangalore, IND) — posted 2026-11-02
+
+## 2026-11-04 13:09 UTC — 7 new matching roles
+
+- **Experian** — [Senior Web Engineer (AI Fluent), Front End Products](https://jobs.smartrecruiters.com/experian/744000159572324) (Hyderabad) — posted 2026-11-04
+- **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000159598119) (Bangalore) — posted 2026-11-04
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566) (Bengaluru, India) — posted 2026-11-04
+- **Okta** — [ Senior Software Engineer in Test](https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555) (Bengaluru, India) — posted 2026-11-03
+- **Sumo Logic** — [Senior Software Engineer I](https://job-boards.greenhouse.io/sumologic/jobs/8352350) (Noida, Uttar Pradesh, India) — posted 2026-11-04
+- **Sumo Logic** — [Senior Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8352364) (Noida, Uttar Pradesh, India) — posted 2026-11-04
+- **Sumo Logic** — [Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8352378) (Noida, Uttar Pradesh, India) — posted 2026-11-04
