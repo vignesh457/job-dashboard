@@ -1,6 +1,126 @@
 {
-  "generated_at": "2026-11-04 13:09 UTC",
+  "generated_at": "2026-11-05 13:24 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-commerceiq-8045822003",
+      "company": "CommerceIQ",
+      "title": "Software Development Engineer - III",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-commerceiq-8045817003",
+      "company": "CommerceIQ",
+      "title": "Software Development Engineer - III",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045817003",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-crunchyroll-7990735",
+      "company": "Crunchyroll",
+      "title": "Software Engineer III",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735",
+      "posted_date": "2026-11-05",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-digicert-8629070002",
+      "company": "DigiCert",
+      "title": "Software Engineer - Fullstack",
+      "location": "Bangalore",
+      "url": "https://www.digicert.com/careers/?gh_jid=8629070002",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8311990",
+      "company": "Toast",
+      "title": "Senior Software Engineer ",
+      "location": "Bangalore , Karnataka",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8311990",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-truefoundry-5126892008",
+      "company": "TrueFoundry",
+      "title": "Backend Interns",
+      "location": "India",
+      "url": "https://app.careerpuck.com/job-board/truefoundry/job/5126892008?gh_jid=5126892008",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-truefoundry-5127144008",
+      "company": "TrueFoundry",
+      "title": "Frontend Intern",
+      "location": "Bengaluru",
+      "url": "https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008",
+      "posted_date": "2026-11-05",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-coursera-6145774004",
+      "company": "Coursera",
+      "title": "Senior Software Engineer, Applied AI and Customer Solutions",
+      "location": "Mumbai, India",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6145774004",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-crunchyroll-8168540",
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8168540?gh_jid=8168540",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-crunchyroll-8026531",
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer - Android, Partner Engineering",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8026531?gh_jid=8026531",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-crunchyroll-6696809",
+      "company": "Crunchyroll",
+      "title": "Senior Software Engineer -Backend/Full Stack",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://boards.greenhouse.io/crunchyroll/jobs/6696809?gh_jid=6696809",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-digicert-8907140002",
+      "company": "DigiCert",
+      "title": "Senior Frontend Developer - AI Trust",
+      "location": "India, Bangalore",
+      "url": "https://www.digicert.com/careers/?gh_jid=8907140002",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-experian-744000159572324",
       "company": "Experian",
@@ -8,7 +128,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000159572324",
       "posted_date": "2026-11-04",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -18,7 +138,7 @@
       "location": "Bangalore",
       "url": "https://jobs.smartrecruiters.com/grab/744000159598119",
       "posted_date": "2026-11-04",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -27,6 +147,56 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8239282",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-saucelabs-8185664",
+      "company": "Sauce Labs",
+      "title": "Software Engineer ",
+      "location": "Gurgaon, India",
+      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8185664",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-saucelabs-8303361",
+      "company": "Sauce Labs",
+      "title": "Software Engineer (Python/Go, Infrastructure)",
+      "location": "Gurgaon, India",
+      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000159716299",
+      "company": "ServiceNow",
+      "title": "Sr Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000159716299",
+      "posted_date": "2026-11-04",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000159715439",
+      "company": "ServiceNow",
+      "title": "Sr Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000159715439",
       "posted_date": "2026-11-04",
       "is_new": true,
       "applied": false
@@ -38,7 +208,7 @@
       "location": "Noida, Uttar Pradesh, India",
       "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352350",
       "posted_date": "2026-11-04",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,26 +218,6 @@
       "location": "Noida, Uttar Pradesh, India",
       "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352364",
       "posted_date": "2026-11-04",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-sumologic-8352378",
-      "company": "Sumo Logic",
-      "title": "Software Engineer II",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8352378",
-      "posted_date": "2026-11-04",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-commvault-5275524008",
-      "company": "Commvault",
-      "title": "Software Engineer \u2013 Automation & ServiceNow",
-      "location": "Bangalore, India; Hyderbad, India",
-      "url": "https://job-boards.greenhouse.io/commvault/jobs/5275524008",
-      "posted_date": "2026-11-03",
       "is_new": false,
       "applied": false
     },
@@ -98,7 +248,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555",
       "posted_date": "2026-11-03",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -127,16 +277,6 @@
       "title": "Senior Software Engineer - Enterprise AI",
       "location": "Bangalore",
       "url": "https://www.rubrik.com/company/careers/departments/job.8273699?gh_jid=8273699",
-      "posted_date": "2026-11-03",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-rubrik-8258200",
-      "company": "Rubrik",
-      "title": "Software Engineer - Cloud: Azure",
-      "location": "Bangalore ",
-      "url": "https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200",
       "posted_date": "2026-11-03",
       "is_new": false,
       "applied": false
@@ -202,46 +342,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-crunchyroll-8168540",
-      "company": "Crunchyroll",
-      "title": "Senior Software Engineer",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8168540?gh_jid=8168540",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-crunchyroll-8026531",
-      "company": "Crunchyroll",
-      "title": "Senior Software Engineer - Android, Partner Engineering",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/crunchyroll/jobs/8026531?gh_jid=8026531",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-crunchyroll-6696809",
-      "company": "Crunchyroll",
-      "title": "Senior Software Engineer -Backend/Full Stack",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/crunchyroll/jobs/6696809?gh_jid=6696809",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-crunchyroll-7990735",
-      "company": "Crunchyroll",
-      "title": "Software Engineer III",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://boards.greenhouse.io/crunchyroll/jobs/7990735?gh_jid=7990735",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-digicert-8907074002",
       "company": "DigiCert",
       "title": "Senior Software Development Engineer in Test",
@@ -267,16 +367,6 @@
       "title": "Machine Learning Engineer II - Backend",
       "location": "Bengaluru",
       "url": "https://job-boards.greenhouse.io/inmobi/jobs/6898755",
-      "posted_date": "2026-11-02",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000159096479",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000159096479",
       "posted_date": "2026-11-02",
       "is_new": false,
       "applied": false
@@ -372,16 +462,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-saucelabs-8303361",
-      "company": "Sauce Labs",
-      "title": "Software Engineer (Python/Go, Infrastructure)",
-      "location": "Gurgaon, India",
-      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-toast-8184675",
       "company": "Toast",
       "title": "Senior Software Engineer, Care Automation",
@@ -418,16 +498,6 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8833505002",
       "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-coursera-6145774004",
-      "company": "Coursera",
-      "title": "Senior Software Engineer, Applied AI and Customer Solutions",
-      "location": "India",
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6145774004",
-      "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
     },
@@ -477,16 +547,6 @@
       "title": "Senior Software Engineer - Android",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8333118?gh_jid=8333118",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000158494199",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000158494199",
       "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
@@ -547,16 +607,6 @@
       "title": "Software Engineer, Stripe Data Pipeline",
       "location": "Bangalore",
       "url": "https://stripe.com/jobs/search?gh_jid=8209970",
-      "posted_date": "2026-10-29",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-sutherland-744000158477608",
-      "company": "Sutherland",
-      "title": "Software Full stack Developer",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/sutherland/744000158477608",
       "posted_date": "2026-10-29",
       "is_new": false,
       "applied": false
@@ -897,16 +947,6 @@
       "title": "Senior Software Engineer (NetSuite Developer)",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916",
-      "posted_date": "2026-10-12",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-paytm-105a0d9e-94e9-4026-9105-5bea558ab3d9",
-      "company": "Paytm",
-      "title": "Senior Software Engineer \u2013 Backend (Travel)",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
       "posted_date": "2026-10-12",
       "is_new": false,
       "applied": false

@@ -788,3 +788,16 @@
 - **Sumo Logic** — [Senior Software Engineer I](https://job-boards.greenhouse.io/sumologic/jobs/8352350) (Noida, Uttar Pradesh, India) — posted 2026-11-04
 - **Sumo Logic** — [Senior Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8352364) (Noida, Uttar Pradesh, India) — posted 2026-11-04
 - **Sumo Logic** — [Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8352378) (Noida, Uttar Pradesh, India) — posted 2026-11-04
+
+## 2026-11-05 13:24 UTC — 10 new matching roles
+
+- **CommerceIQ** — [Software Development Engineer - III](https://job-boards.greenhouse.io/commerceiq/jobs/8045822003) (Bengaluru, Karnataka, India) — posted 2026-11-05
+- **CommerceIQ** — [Software Development Engineer - III](https://job-boards.greenhouse.io/commerceiq/jobs/8045817003) (Bengaluru, Karnataka, India) — posted 2026-11-05
+- **DigiCert** — [Senior Frontend Developer - AI Trust](https://www.digicert.com/careers/?gh_jid=8907140002) (India, Bangalore) — posted 2026-11-04
+- **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8629070002) (Bangalore) — posted 2026-11-05
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282) (Bengaluru, India) — posted 2026-11-04
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159716299) (Hyderabad) — posted 2026-11-04
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000159715439) (Hyderabad) — posted 2026-11-04
+- **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-11-05
+- **TrueFoundry** — [Backend Interns](https://app.careerpuck.com/job-board/truefoundry/job/5126892008?gh_jid=5126892008) (India) — posted 2026-11-05
+- **TrueFoundry** — [Frontend Intern](https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008) (Bengaluru) — posted 2026-11-05
