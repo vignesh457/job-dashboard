@@ -801,3 +801,14 @@
 - **Toast** — [Senior Software Engineer ](https://careers.toasttab.com/jobs?gh_jid=8311990) (Bangalore , Karnataka) — posted 2026-11-05
 - **TrueFoundry** — [Backend Interns](https://app.careerpuck.com/job-board/truefoundry/job/5126892008?gh_jid=5126892008) (India) — posted 2026-11-05
 - **TrueFoundry** — [Frontend Intern](https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008) (Bengaluru) — posted 2026-11-05
+
+## 2026-11-06 13:06 UTC — 8 new matching roles
+
+- **Arista Networks** — [Software Engineer - Test Automation](https://jobs.smartrecruiters.com/aristanetworks/744000160116794) (Bengaluru) — posted 2026-11-06
+- **DigiCert** — [Software Engineer - Fullstack](https://www.digicert.com/careers/?gh_jid=8929241002) (India, Bangalore) — posted 2026-11-06
+- **Experian** — [Senior Software Engineer - (.Net Full Stack & Azure)](https://jobs.smartrecruiters.com/experian/744000159875087) (Hyderabad) — posted 2026-11-05
+- **ServiceNow** — [Software Engineer - Backend](https://jobs.smartrecruiters.com/servicenow/744000160193550) (Hyderabad) — posted 2026-11-06
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000160184480) (Hyderabad) — posted 2026-11-06
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000160121839) (Hyderabad) — posted 2026-11-06
+- **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8345741) (Bangalore) — posted 2026-11-06
+- **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8319386) (Remote - India) — posted 2026-11-06
