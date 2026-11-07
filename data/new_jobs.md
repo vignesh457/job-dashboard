@@ -812,3 +812,8 @@
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000160121839) (Hyderabad) — posted 2026-11-06
 - **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8345741) (Bangalore) — posted 2026-11-06
 - **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8319386) (Remote - India) — posted 2026-11-06
+
+## 2026-11-07 11:51 UTC — 2 new matching roles
+
+- **Databricks** — [Senior Software Engineer - Backend Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002) (Bengaluru, India) — posted 2026-11-07
+- **Paytm** — [Senior Software Engineer – Backend (Travel)](https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9) (Bangalore, Karnataka) — posted 2026-10-12

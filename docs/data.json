@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-11-06 13:06 UTC",
+  "generated_at": "2026-11-07 11:51 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-databricks-8210383002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
+      "posted_date": "2026-11-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-6709301002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
+      "posted_date": "2026-11-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7647294002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Backend Infrastructure",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002",
+      "posted_date": "2026-11-07",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7619810002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_date": "2026-11-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7654347002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Money)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002",
+      "posted_date": "2026-11-07",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7647353002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer- Networking",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002",
+      "posted_date": "2026-11-07",
+      "is_new": false,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-aristanetworks-744000160116794",
       "company": "Arista Networks",
@@ -8,7 +68,7 @@
       "location": "Bengaluru",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000160116794",
       "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,17 +108,7 @@
       "location": "India, Bangalore",
       "url": "https://www.digicert.com/careers/?gh_jid=8929241002",
       "posted_date": "2026-11-06",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000160193550",
-      "company": "ServiceNow",
-      "title": "Software Engineer - Backend",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000160193550",
-      "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -68,7 +118,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160184480",
       "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -78,7 +128,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160121839",
       "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -88,7 +138,7 @@
       "location": "Bangalore",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8345741",
       "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -118,7 +168,7 @@
       "location": "Remote - India",
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
       "posted_date": "2026-11-06",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -238,7 +288,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000159875087",
       "posted_date": "2026-11-05",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -292,21 +342,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8266566",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
-      "posted_date": "2026-11-04",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-8239282",
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282",
+      "posted_date": "2026-11-04",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8266566",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
       "posted_date": "2026-11-04",
       "is_new": false,
       "applied": false
@@ -552,21 +602,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8822475002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8226018002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8822475002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -852,26 +902,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8210383002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
-      "posted_date": "2026-10-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-6709301002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Backend)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
-      "posted_date": "2026-10-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8829029002",
       "company": "Databricks",
       "title": "Software Engineer, Infrastructure",
@@ -942,16 +972,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7619810002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Infra)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
-      "posted_date": "2026-10-17",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-7770733",
       "company": "Okta",
       "title": "Developer Support Engineer",
@@ -969,6 +989,16 @@
       "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916",
       "posted_date": "2026-10-12",
       "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "lever-paytm-105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "company": "Paytm",
+      "title": "Senior Software Engineer \u2013 Backend (Travel)",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
+      "posted_date": "2026-10-12",
+      "is_new": true,
       "applied": false
     },
     {
