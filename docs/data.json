@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 11:51 UTC",
+  "generated_at": "2026-11-08 12:03 UTC",
   "jobs": [
     {
       "id": "greenhouse-databricks-8210383002",
@@ -7,7 +7,17 @@
       "title": "Senior Software Engineer (App-Framework)",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
-      "posted_date": "2026-11-07",
+      "posted_date": "2026-11-08",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7619810002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_date": "2026-11-08",
       "is_new": false,
       "applied": false
     },
@@ -27,16 +37,6 @@
       "title": "Senior Software Engineer - Backend Infrastructure",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002",
-      "posted_date": "2026-11-07",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7619810002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Infra)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
       "posted_date": "2026-11-07",
       "is_new": false,
       "applied": false
@@ -998,7 +998,7 @@
       "location": "Bangalore, Karnataka",
       "url": "https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9",
       "posted_date": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -1008,16 +1008,6 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
       "posted_date": "2026-10-11",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-jobtwine-dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
-      "company": "JobTwine",
-      "title": "SDE -3 Frontend K",
-      "location": "Hyderabad",
-      "url": "https://jobs.lever.co/jobtwine/dd96de7e-0184-4fcf-a19c-77c12f7cd70c",
-      "posted_date": "2026-10-08",
       "is_new": false,
       "applied": false
     }
