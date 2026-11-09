@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-08 12:03 UTC",
+  "generated_at": "2026-11-09 14:09 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-jazzx-ai-5476595008",
+      "company": "JazzX AI",
+      "title": "Senior Software Engineer - Agentic AI Platform",
+      "location": "Bengaluru, Karnataka",
+      "url": "https://job-boards.greenhouse.io/jazzx-ai/jobs/5476595008",
+      "posted_date": "2026-11-09",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-quince-5183986008",
+      "company": "Quince",
+      "title": "Software Development Engineer - 3 (Backend)",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/quince/jobs/5183986008",
+      "posted_date": "2026-11-09",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-databricks-8210383002",
       "company": "Databricks",
@@ -112,31 +132,11 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-servicenow-744000160184480",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000160184480",
-      "posted_date": "2026-11-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-servicenow-744000160121839",
       "company": "ServiceNow",
       "title": "Sr Software Engineer",
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160121839",
-      "posted_date": "2026-11-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-toast-8345741",
-      "company": "Toast",
-      "title": "Senior Software Engineer",
-      "location": "Bangalore",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8345741",
       "posted_date": "2026-11-06",
       "is_new": false,
       "applied": false
@@ -332,11 +332,11 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-grab-744000159598119",
-      "company": "Grab",
-      "title": "Senior Software Engineer, Mobile (iOS)",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000159598119",
+      "id": "greenhouse-okta-8266566",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
       "posted_date": "2026-11-04",
       "is_new": false,
       "applied": false
@@ -347,16 +347,6 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282",
-      "posted_date": "2026-11-04",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8266566",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8266566?gh_jid=8266566",
       "posted_date": "2026-11-04",
       "is_new": false,
       "applied": false
@@ -867,16 +857,6 @@
       "title": "Senior Software Engineer - Kubernetes & Service Mesh",
       "location": "Bengaluru, India",
       "url": "https://www.weareroku.com/jobs/8048097?gh_jid=8048097",
-      "posted_date": "2026-10-26",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-sutherland-744000157788430",
-      "company": "Sutherland",
-      "title": "Senior C# Developer",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/sutherland/744000157788430",
       "posted_date": "2026-10-26",
       "is_new": false,
       "applied": false

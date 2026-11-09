@@ -817,3 +817,8 @@
 
 - **Databricks** — [Senior Software Engineer - Backend Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002) (Bengaluru, India) — posted 2026-11-07
 - **Paytm** — [Senior Software Engineer – Backend (Travel)](https://jobs.lever.co/paytm/105a0d9e-94e9-4026-9105-5bea558ab3d9) (Bangalore, Karnataka) — posted 2026-10-12
+
+## 2026-11-09 14:09 UTC — 2 new matching roles
+
+- **JazzX AI** — [Senior Software Engineer - Agentic AI Platform](https://job-boards.greenhouse.io/jazzx-ai/jobs/5476595008) (Bengaluru, Karnataka) — posted 2026-11-09
+- **Quince** — [Software Development Engineer - 3 (Backend)](https://job-boards.greenhouse.io/quince/jobs/5183986008) (Bengaluru, Karnataka, India) — posted 2026-11-09
