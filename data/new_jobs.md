@@ -822,3 +822,8 @@
 
 - **JazzX AI** — [Senior Software Engineer - Agentic AI Platform](https://job-boards.greenhouse.io/jazzx-ai/jobs/5476595008) (Bengaluru, Karnataka) — posted 2026-11-09
 - **Quince** — [Software Development Engineer - 3 (Backend)](https://job-boards.greenhouse.io/quince/jobs/5183986008) (Bengaluru, Karnataka, India) — posted 2026-11-09
+
+## 2026-11-10 13:40 UTC — 2 new matching roles
+
+- **Toast** — [Senior Software Engineer, Applied AI](https://careers.toasttab.com/jobs?gh_jid=8345741) (Bangalore) — posted 2026-11-10
+- **Toast** — [Senior Software Engineer - BE](https://careers.toasttab.com/jobs?gh_jid=7455101) (Chennai) — posted 2026-11-09

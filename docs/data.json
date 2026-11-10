@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-11-09 14:09 UTC",
+  "generated_at": "2026-11-10 13:40 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-toast-8345741",
+      "company": "Toast",
+      "title": "Senior Software Engineer, Applied AI",
+      "location": "Bangalore",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8345741",
+      "posted_date": "2026-11-10",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-jazzx-ai-5476595008",
       "company": "JazzX AI",
@@ -8,7 +18,7 @@
       "location": "Bengaluru, Karnataka",
       "url": "https://job-boards.greenhouse.io/jazzx-ai/jobs/5476595008",
       "posted_date": "2026-11-09",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -18,7 +28,57 @@
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/quince/jobs/5183986008",
       "posted_date": "2026-11-09",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-roku-8048097",
+      "company": "Roku",
+      "title": "Senior Software Engineer - Kubernetes & Service Mesh",
+      "location": "Bengaluru, India",
+      "url": "https://www.weareroku.com/jobs/8048097?gh_jid=8048097",
+      "posted_date": "2026-11-09",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-saucelabs-8185664",
+      "company": "Sauce Labs",
+      "title": "Software Engineer ",
+      "location": "Gurgaon, India",
+      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8185664",
+      "posted_date": "2026-11-09",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-saucelabs-8303361",
+      "company": "Sauce Labs",
+      "title": "Software Engineer (Python/Go, Infrastructure)",
+      "location": "Gurgaon, India",
+      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
+      "posted_date": "2026-11-09",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-7455101",
+      "company": "Toast",
+      "title": "Senior Software Engineer - BE",
+      "location": "Chennai",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=7455101",
+      "posted_date": "2026-11-09",
       "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-twilio-8319386",
+      "company": "Twilio",
+      "title": "Software Engineer (L3)",
+      "location": "Remote - India",
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
+      "posted_date": "2026-11-09",
+      "is_new": false,
       "applied": false
     },
     {
@@ -157,16 +217,6 @@
       "title": "Frontend Intern",
       "location": "Bengaluru",
       "url": "https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008",
-      "posted_date": "2026-11-06",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-twilio-8319386",
-      "company": "Twilio",
-      "title": "Software Engineer (L3)",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386",
       "posted_date": "2026-11-06",
       "is_new": false,
       "applied": false
@@ -347,26 +397,6 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8239282?gh_jid=8239282",
-      "posted_date": "2026-11-04",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-saucelabs-8185664",
-      "company": "Sauce Labs",
-      "title": "Software Engineer ",
-      "location": "Gurgaon, India",
-      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8185664",
-      "posted_date": "2026-11-04",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-saucelabs-8303361",
-      "company": "Sauce Labs",
-      "title": "Software Engineer (Python/Go, Infrastructure)",
-      "location": "Gurgaon, India",
-      "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8303361",
       "posted_date": "2026-11-04",
       "is_new": false,
       "applied": false
@@ -567,26 +597,6 @@
       "title": "Senior Software Engineer - Java Developer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7529446?gh_jid=7529446",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7727730",
-      "company": "Okta",
-      "title": "ServiceNow Developer SAM",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-toast-8184675",
-      "company": "Toast",
-      "title": "Senior Software Engineer, Care Automation",
-      "location": "Bangalore",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8184675",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -852,16 +862,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-roku-8048097",
-      "company": "Roku",
-      "title": "Senior Software Engineer - Kubernetes & Service Mesh",
-      "location": "Bengaluru, India",
-      "url": "https://www.weareroku.com/jobs/8048097?gh_jid=8048097",
-      "posted_date": "2026-10-26",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "lever-turvo-30276020-e65d-4757-a08f-edb5dfb9a04d",
       "company": "Turvo",
       "title": "Senior Software Engineer - UI",
@@ -898,16 +898,6 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
       "posted_date": "2026-10-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-jobtwine-4edce10a-324d-4f25-bac9-c6dfaa223ea7",
-      "company": "JobTwine",
-      "title": "23rd Oct SDE-2",
-      "location": "Bangalore",
-      "url": "https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7",
-      "posted_date": "2026-10-23",
       "is_new": false,
       "applied": false
     },
