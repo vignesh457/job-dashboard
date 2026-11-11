@@ -2,8 +2,8 @@ name: Job Tracker
 
 on:
   schedule:
-    # 05:30 UTC = 11:00 AM IST (India has no daylight saving, always UTC+5:30)
-    - cron: "30 5 * * *"
+    # 04:30 UTC = 10:00 AM IST
+    - cron: "30 4 * * *"
   workflow_dispatch:
 
 permissions:
