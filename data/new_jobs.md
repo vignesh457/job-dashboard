@@ -827,3 +827,17 @@
 
 - **Toast** — [Senior Software Engineer, Applied AI](https://careers.toasttab.com/jobs?gh_jid=8345741) (Bangalore) — posted 2026-11-10
 - **Toast** — [Senior Software Engineer - BE](https://careers.toasttab.com/jobs?gh_jid=7455101) (Chennai) — posted 2026-11-09
+
+## 2026-11-11 12:51 UTC — 11 new matching roles
+
+- **Experian** — [Senior Software Development Engineer in Test](https://jobs.smartrecruiters.com/experian/744000161072217) (Hyderabad) — posted 2026-11-11
+- **Experian** — [Senior Software Engineer - (.Net Full Stack & Azure)](https://jobs.smartrecruiters.com/experian/744000161071070) (Hyderabad) — posted 2026-11-11
+- **Experian** — [BI Developer (Oracle Apex)](https://jobs.smartrecruiters.com/experian/744000161059610) (Hyderabad) — posted 2026-11-11
+- **JobTwine** — [23rd Oct SDE-2](https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7) (Bangalore) — posted 2026-10-23
+- **Okta** — [Senior Software Engineer](https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577) (Bengaluru, India) — posted 2026-11-11
+- **Okta** — [Senior Software Engineer - Full Stack Developer](https://www.okta.com/company/careers/opportunity/8358353?gh_jid=8358353) (Bengaluru, India) — posted 2026-11-11
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161069589) (Hyderabad) — posted 2026-11-11
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161035481) (Hyderabad) — posted 2026-11-11
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161036601) (Hyderabad) — posted 2026-11-11
+- **Toast** — [Senior Software Engineer, Full Stack](https://careers.toasttab.com/jobs?gh_jid=8317320) (Chennai) — posted 2026-11-11
+- **ZoomInfo** — [Senio Software Engineer](https://www.zoominfo.com/careers?gh_jid=8883897002) (Chennai, Tamil Nadu, India) — posted 2026-11-11
