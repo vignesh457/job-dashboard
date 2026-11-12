@@ -841,3 +841,13 @@
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161036601) (Hyderabad) — posted 2026-11-11
 - **Toast** — [Senior Software Engineer, Full Stack](https://careers.toasttab.com/jobs?gh_jid=8317320) (Chennai) — posted 2026-11-11
 - **ZoomInfo** — [Senio Software Engineer](https://www.zoominfo.com/careers?gh_jid=8883897002) (Chennai, Tamil Nadu, India) — posted 2026-11-11
+
+## 2026-11-12 13:03 UTC — 7 new matching roles
+
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000161237189) (Hyderabad) — posted 2026-11-12
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000161223484) (Hyderabad) — posted 2026-11-12
+- **Rubrik** — [Software Engineer - Cloud: Azure](https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201) (Bangalore ) — posted 2026-11-11
+- **Rubrik** — [Software Engineer - Cloud Native Protection](https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940) (Bangalore ) — posted 2026-11-11
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161292240) (Hyderabad) — posted 2026-11-12
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161222109) (Hyderabad) — posted 2026-11-12
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161221879) (Hyderabad) — posted 2026-11-12
