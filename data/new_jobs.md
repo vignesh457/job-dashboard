@@ -851,3 +851,14 @@
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161292240) (Hyderabad) — posted 2026-11-12
 - **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161222109) (Hyderabad) — posted 2026-11-12
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161221879) (Hyderabad) — posted 2026-11-12
+
+## 2026-11-13 12:29 UTC — 8 new matching roles
+
+- **Adyen** — [Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-11-13
+- **JobTwine** — [Frontend Engineer-2 (131126)](https://jobs.lever.co/jobtwine/e3f4de6b-e370-4358-be2e-e2528bd2fa58) (Hyderabad) — posted 2026-11-13
+- **Rubrik** — [ Software Engineer - UI Test](https://www.rubrik.com/company/careers/departments/job.8377184?gh_jid=8377184) (Bangalore, India) — posted 2026-11-12
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161432929) (Bangalore) — posted 2026-11-13
+- **Toast** — [Senior Software Engineer, Care Automation](https://careers.toasttab.com/jobs?gh_jid=8184675) (Bangalore) — posted 2026-11-13
+- **Turvo** — [Senior Software Engineer](https://jobs.lever.co/turvo/5e981703-698d-46e1-bf1a-177ba8d055ea) (Hyderabad) — posted 2026-11-13
+- **Turvo** — [Software Engineer](https://jobs.lever.co/turvo/d0717ecd-1b7c-4233-be83-c2c700646a07) (Hyderabad) — posted 2026-11-13
+- **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5278559007) (Bangalore, IND) — posted 2026-11-12

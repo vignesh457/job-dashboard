@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-11-12 13:03 UTC",
+  "generated_at": "2026-11-13 12:29 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-adyen-8041307",
+      "company": "Adyen",
+      "title": "Backend Engineer (Java) ",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-jobtwine-e3f4de6b-e370-4358-be2e-e2528bd2fa58",
+      "company": "JobTwine",
+      "title": "Frontend Engineer-2 (131126)",
+      "location": "Hyderabad",
+      "url": "https://jobs.lever.co/jobtwine/e3f4de6b-e370-4358-be2e-e2528bd2fa58",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-servicenow-744000161432929",
+      "company": "ServiceNow",
+      "title": "Software Engineer",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000161432929",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8184675",
+      "company": "Toast",
+      "title": "Senior Software Engineer, Care Automation",
+      "location": "Bangalore",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8184675",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-turvo-5e981703-698d-46e1-bf1a-177ba8d055ea",
+      "company": "Turvo",
+      "title": "Senior Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.lever.co/turvo/5e981703-698d-46e1-bf1a-177ba8d055ea",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-turvo-d0717ecd-1b7c-4233-be83-c2c700646a07",
+      "company": "Turvo",
+      "title": "Software Engineer",
+      "location": "Hyderabad",
+      "url": "https://jobs.lever.co/turvo/d0717ecd-1b7c-4233-be83-c2c700646a07",
+      "posted_date": "2026-11-13",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "smartrecruiters-experian-744000161237189",
       "company": "Experian",
@@ -8,7 +68,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000161237189",
       "posted_date": "2026-11-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -18,15 +78,15 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000161223484",
       "posted_date": "2026-11-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
-      "id": "smartrecruiters-servicenow-744000161292240",
-      "company": "ServiceNow",
-      "title": "Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161292240",
+      "id": "greenhouse-rubrik-8377184",
+      "company": "Rubrik",
+      "title": " Software Engineer - UI Test",
+      "location": "Bangalore, India",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8377184?gh_jid=8377184",
       "posted_date": "2026-11-12",
       "is_new": true,
       "applied": false
@@ -38,7 +98,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161222109",
       "posted_date": "2026-11-12",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -47,6 +107,26 @@
       "title": "Software Engineer",
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000161221879",
+      "posted_date": "2026-11-12",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8883897002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8883897002",
+      "posted_date": "2026-11-12",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zscaler-5278559007",
+      "company": "Zscaler",
+      "title": "Senior Software Development Engineer",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5278559007",
       "posted_date": "2026-11-12",
       "is_new": true,
       "applied": false
@@ -118,7 +198,7 @@
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201",
       "posted_date": "2026-11-11",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -127,26 +207,6 @@
       "title": "Software Engineer - Cloud Native Protection",
       "location": "Bangalore ",
       "url": "https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940",
-      "posted_date": "2026-11-11",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000161069589",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161069589",
-      "posted_date": "2026-11-11",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-servicenow-744000161036601",
-      "company": "ServiceNow",
-      "title": "Sr Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000161036601",
       "posted_date": "2026-11-11",
       "is_new": false,
       "applied": false
@@ -177,16 +237,6 @@
       "title": "Senior Software Engineer, Full Stack",
       "location": "Chennai",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8317320",
-      "posted_date": "2026-11-11",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-zoominfo-8883897002",
-      "company": "ZoomInfo",
-      "title": "Senio Software Engineer",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8883897002",
       "posted_date": "2026-11-11",
       "is_new": false,
       "applied": false
@@ -862,16 +912,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-glance-7846609",
-      "company": "Glance",
-      "title": "SDE II - Gen AI",
-      "location": "Bangalore",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/7846609",
-      "posted_date": "2026-10-26",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-glance-8054888",
       "company": "Glance",
       "title": "SDE III - Data Engineering",
@@ -952,16 +992,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8829029002",
-      "company": "Databricks",
-      "title": "Software Engineer, Infrastructure",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
-      "posted_date": "2026-10-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8679982002",
       "company": "Databricks",
       "title": "Sr Software Engineer - Agentic Applications (Full Stack)",
@@ -1018,16 +1048,6 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002",
       "posted_date": "2026-10-18",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7770733",
-      "company": "Okta",
-      "title": "Developer Support Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
-      "posted_date": "2026-10-13",
       "is_new": false,
       "applied": false
     }
