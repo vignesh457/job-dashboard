@@ -862,3 +862,7 @@
 - **Turvo** — [Senior Software Engineer](https://jobs.lever.co/turvo/5e981703-698d-46e1-bf1a-177ba8d055ea) (Hyderabad) — posted 2026-11-13
 - **Turvo** — [Software Engineer](https://jobs.lever.co/turvo/d0717ecd-1b7c-4233-be83-c2c700646a07) (Hyderabad) — posted 2026-11-13
 - **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5278559007) (Bangalore, IND) — posted 2026-11-12
+
+## 2026-11-14 11:40 UTC — 1 new matching roles
+
+- **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-11-13
