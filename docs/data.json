@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-11-14 11:40 UTC",
+  "generated_at": "2026-11-15 12:08 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-databricks-8294304002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-8210383002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-6709301002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Backend)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7897431002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7647369002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Data Platform)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7619810002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (Infra)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8883897002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8883897002",
+      "posted_date": "2026-11-14",
+      "is_new": false,
+      "applied": false
+    },
     {
       "id": "greenhouse-adyen-8041307",
       "company": "Adyen",
@@ -22,26 +92,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8294304002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-8210383002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8320183002",
       "company": "Databricks",
       "title": "Senior Software Engineer - Backend",
@@ -52,51 +102,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-6709301002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Backend)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-7647294002",
       "company": "Databricks",
       "title": "Senior Software Engineer - Backend Infrastructure",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7897431002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7647369002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Data Platform)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7619810002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Infra)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
       "posted_date": "2026-11-13",
       "is_new": false,
       "applied": false
@@ -158,7 +168,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
       "posted_date": "2026-11-13",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -202,6 +212,16 @@
       "applied": false
     },
     {
+      "id": "greenhouse-okta-8345577",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577",
+      "posted_date": "2026-11-13",
+      "is_new": false,
+      "applied": false
+    },
+    {
       "id": "greenhouse-okta-8039085",
       "company": "Okta",
       "title": "Senior Software Engineer",
@@ -217,16 +237,6 @@
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312",
-      "posted_date": "2026-11-13",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8345577",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577",
       "posted_date": "2026-11-13",
       "is_new": false,
       "applied": false
@@ -462,16 +472,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8883897002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8883897002",
-      "posted_date": "2026-11-12",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zscaler-5278559007",
       "company": "Zscaler",
       "title": "Senior Software Development Engineer",
@@ -692,21 +692,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-commerceiq-8045822003",
-      "company": "CommerceIQ",
-      "title": "Software Development Engineer - III",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
-      "posted_date": "2026-11-05",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-commerceiq-8045817003",
       "company": "CommerceIQ",
       "title": "Software Development Engineer - III",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045817003",
+      "posted_date": "2026-11-05",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-commerceiq-8045822003",
+      "company": "CommerceIQ",
+      "title": "Software Development Engineer - III",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
       "posted_date": "2026-11-05",
       "is_new": false,
       "applied": false
