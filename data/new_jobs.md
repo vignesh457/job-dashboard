@@ -866,3 +866,10 @@
 ## 2026-11-14 11:40 UTC — 1 new matching roles
 
 - **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-11-13
+
+## 2026-11-16 13:02 UTC — 4 new matching roles
+
+- **Commvault** — [Software Engineer (Python)- Product Development & Automation](https://job-boards.greenhouse.io/commvault/jobs/5459809008) (Bangalore, India; Hyderbad, India) — posted 2026-11-16
+- **Okta** — [Demo Engineering Developer](https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182) (Bengaluru, India) — posted 2026-11-16
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161760969) (Hyderabad) — posted 2026-11-16
+- **Twilio** — [Software Engineer (L1)](https://job-boards.greenhouse.io/twilio/jobs/8319442) (Remote - India) — posted 2026-11-16
