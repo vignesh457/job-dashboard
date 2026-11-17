@@ -873,3 +873,13 @@
 - **Okta** — [Demo Engineering Developer](https://www.okta.com/company/careers/opportunity/8377182?gh_jid=8377182) (Bengaluru, India) — posted 2026-11-16
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000161760969) (Hyderabad) — posted 2026-11-16
 - **Twilio** — [Software Engineer (L1)](https://job-boards.greenhouse.io/twilio/jobs/8319442) (Remote - India) — posted 2026-11-16
+
+## 2026-11-17 13:43 UTC — 7 new matching roles
+
+- **Adyen** — [Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-11-17
+- **ixigo** — [Senior Software Engineer - Android](https://jobs.smartrecruiters.com/ixigo/744000161996199) (Gurugram) — posted 2026-11-17
+- **Rubrik** — [Senior Software Engineer - CPD ](https://www.rubrik.com/company/careers/departments/job.8349850?gh_jid=8349850) (Bengaluru) — posted 2026-11-16
+- **Rubrik** — [Software Engineer ](https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847) (bangalore) — posted 2026-11-16
+- **Sutherland** — [Software Full stack Developer](https://jobs.smartrecruiters.com/sutherland/744000161998729) (Bengaluru) — posted 2026-11-17
+- **Toast** — [Senior Software Engineer - Java Backend ](https://careers.toasttab.com/jobs?gh_jid=8392339) (Chennai) — posted 2026-11-17
+- **Zscaler** — [Senior Technical Courseware Developer](https://job-boards.greenhouse.io/zscaler/jobs/5267167007) (Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND) — posted 2026-11-16
