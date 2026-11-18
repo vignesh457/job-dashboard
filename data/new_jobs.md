@@ -883,3 +883,9 @@
 - **Sutherland** — [Software Full stack Developer](https://jobs.smartrecruiters.com/sutherland/744000161998729) (Bengaluru) — posted 2026-11-17
 - **Toast** — [Senior Software Engineer - Java Backend ](https://careers.toasttab.com/jobs?gh_jid=8392339) (Chennai) — posted 2026-11-17
 - **Zscaler** — [Senior Technical Courseware Developer](https://job-boards.greenhouse.io/zscaler/jobs/5267167007) (Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND) — posted 2026-11-16
+
+## 2026-11-18 13:18 UTC — 3 new matching roles
+
+- **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-11-17
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000162226349) (Hyderabad) — posted 2026-11-18
+- **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5291924007) (Bangalore, IND) — posted 2026-11-18
