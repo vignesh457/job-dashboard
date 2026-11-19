@@ -889,3 +889,15 @@
 - **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-11-17
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000162226349) (Hyderabad) — posted 2026-11-18
 - **Zscaler** — [Senior Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5291924007) (Bangalore, IND) — posted 2026-11-18
+
+## 2026-11-19 13:42 UTC — 9 new matching roles
+
+- **HighRadius** — [Technical Consultant - Java L3 Support](https://www.highradius.com/about/careers-list/?gh_jid=8033180003) (Hyderabad, Telangana, India) — posted 2026-11-19
+- **Paytm** — [Backend - Intern ( SEA & Europe)](https://jobs.lever.co/paytm/0a6e7022-caaf-4bc3-b6e9-d5dd90c44cf8) (Noida, Uttar Pradesh) — posted 2026-11-19
+- **ServiceNow** — [Sr Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000162445019) (Hyderabad) — posted 2026-11-19
+- **Stripe** — [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) (Bangalore) — posted 2026-11-19
+- **Sutherland** — [Web application developer](https://jobs.smartrecruiters.com/sutherland/744000162477999) (Chennai) — posted 2026-11-19
+- **Toast** — [Senior Software Engineer - Java Backend ](https://careers.toasttab.com/jobs?gh_jid=8392339) (Chennai) — posted 2026-11-19
+- **Turvo** — [Senior Software Engineer](https://jobs.lever.co/turvo/5e981703-698d-46e1-bf1a-177ba8d055ea) (Hyderabad) — posted 2026-11-13
+- **Turvo** — [Senior Software Engineer - UI](https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d) (Hyderabad) — posted 2026-10-26
+- **Turvo** — [Software Engineer](https://jobs.lever.co/turvo/d0717ecd-1b7c-4233-be83-c2c700646a07) (Hyderabad) — posted 2026-11-13
