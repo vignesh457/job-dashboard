@@ -901,3 +901,19 @@
 - **Turvo** — [Senior Software Engineer](https://jobs.lever.co/turvo/5e981703-698d-46e1-bf1a-177ba8d055ea) (Hyderabad) — posted 2026-11-13
 - **Turvo** — [Senior Software Engineer - UI](https://jobs.lever.co/turvo/30276020-e65d-4757-a08f-edb5dfb9a04d) (Hyderabad) — posted 2026-10-26
 - **Turvo** — [Software Engineer](https://jobs.lever.co/turvo/d0717ecd-1b7c-4233-be83-c2c700646a07) (Hyderabad) — posted 2026-11-13
+
+## 2026-11-20 13:24 UTC — 13 new matching roles
+
+- **Agoda** — [Software Engineer Internship 2027 (6 months) - India-based, Gurgaon office](https://job-boards.greenhouse.io/agoda/jobs/6323041) (Gurgaon) — posted 2026-11-20
+- **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-11-19
+- **JobTwine** — [23rd Oct SDE-2](https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7) (Bangalore) — posted 2026-10-23
+- **JobTwine** — [Frontend Eng testing nov19](https://jobs.lever.co/jobtwine/aec2ab92-cf0d-4b49-a29f-417c992fb2e0) (Bangalore) — posted 2026-11-19
+- **JobTwine** — [Frontend Engineer-2 (131126)](https://jobs.lever.co/jobtwine/e3f4de6b-e370-4358-be2e-e2528bd2fa58) (Hyderabad) — posted 2026-11-13
+- **Okta** — [Senior Software Engineer - Advanced Threat Protection](https://www.okta.com/company/careers/opportunity/8242443?gh_jid=8242443) (Bengaluru, India) — posted 2026-11-20
+- **Okta** — [Senior Software Engineer - (Java & DSA)](https://www.okta.com/company/careers/opportunity/8102363?gh_jid=8102363) (Bengaluru, India) — posted 2026-11-19
+- **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-11-20
+- **Rubrik** — [Software Engineer - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) (Bangalore) — posted 2026-11-19
+- **Sauce Labs** — [Web Developer](https://job-boards.greenhouse.io/saucelabs/jobs/8402700) (Gurgaon, India) — posted 2026-11-19
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000162697254) (Hyderabad) — posted 2026-11-20
+- **Sumo Logic** — [Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8402011) (Noida , Uttar Pradesh , India) — posted 2026-11-19
+- **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8284256) (Bangalore, India) — posted 2026-11-20
