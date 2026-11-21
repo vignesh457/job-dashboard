@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20 13:24 UTC",
+  "generated_at": "2026-11-21 12:53 UTC",
   "jobs": [
     {
       "id": "greenhouse-agoda-6323041",
@@ -8,7 +8,7 @@
       "location": "Gurgaon",
       "url": "https://job-boards.greenhouse.io/agoda/jobs/6323041",
       "posted_date": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -48,7 +48,7 @@
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8242443?gh_jid=8242443",
       "posted_date": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -58,7 +58,7 @@
       "location": "Bengaluru",
       "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
       "posted_date": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -72,23 +72,13 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-servicenow-744000162697254",
-      "company": "ServiceNow",
-      "title": "Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000162697254",
-      "posted_date": "2026-11-20",
-      "is_new": true,
-      "applied": false
-    },
-    {
       "id": "greenhouse-toast-8284256",
       "company": "Toast",
       "title": "Senior Software Engineer",
       "location": "Bangalore, India",
       "url": "https://careers.toasttab.com/jobs?gh_jid=8284256",
       "posted_date": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -218,7 +208,7 @@
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
       "posted_date": "2026-11-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -298,7 +288,7 @@
       "location": "Bangalore",
       "url": "https://jobs.lever.co/jobtwine/aec2ab92-cf0d-4b49-a29f-417c992fb2e0",
       "posted_date": "2026-11-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -332,16 +322,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8102363",
-      "company": "Okta",
-      "title": "Senior Software Engineer - (Java & DSA)",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8102363?gh_jid=8102363",
-      "posted_date": "2026-11-19",
-      "is_new": true,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-8223817",
       "company": "Okta",
       "title": "Senior Software Engineer Salesforce",
@@ -358,7 +338,7 @@
       "location": "Bangalore",
       "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
       "posted_date": "2026-11-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -368,7 +348,7 @@
       "location": "Gurgaon, India",
       "url": "https://job-boards.greenhouse.io/saucelabs/jobs/8402700",
       "posted_date": "2026-11-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -438,7 +418,7 @@
       "location": "Noida , Uttar Pradesh , India",
       "url": "https://job-boards.greenhouse.io/sumologic/jobs/8402011",
       "posted_date": "2026-11-19",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -748,7 +728,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.lever.co/jobtwine/e3f4de6b-e370-4358-be2e-e2528bd2fa58",
       "posted_date": "2026-11-13",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -1062,21 +1042,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zoominfo-8226018002",
-      "company": "ZoomInfo",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
-      "posted_date": "2026-10-30",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zoominfo-8822475002",
       "company": "ZoomInfo",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://www.zoominfo.com/careers?gh_jid=8822475002",
+      "posted_date": "2026-10-30",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-zoominfo-8226018002",
+      "company": "ZoomInfo",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8226018002",
       "posted_date": "2026-10-30",
       "is_new": false,
       "applied": false
@@ -1178,7 +1158,7 @@
       "location": "Bangalore",
       "url": "https://jobs.lever.co/jobtwine/4edce10a-324d-4f25-bac9-c6dfaa223ea7",
       "posted_date": "2026-10-23",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     }
   ]
