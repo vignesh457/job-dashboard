@@ -917,3 +917,7 @@
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000162697254) (Hyderabad) — posted 2026-11-20
 - **Sumo Logic** — [Software Engineer II](https://job-boards.greenhouse.io/sumologic/jobs/8402011) (Noida , Uttar Pradesh , India) — posted 2026-11-19
 - **Toast** — [Senior Software Engineer](https://careers.toasttab.com/jobs?gh_jid=8284256) (Bangalore, India) — posted 2026-11-20
+
+## 2026-11-22 12:45 UTC — 1 new matching roles
+
+- **HighRadius** — [Technical Consultant - Java ](https://www.highradius.com/about/careers-list/?gh_jid=8033172003) (Hyderabad, Telangana, India) — posted 2026-11-21

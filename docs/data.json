@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-21 12:53 UTC",
+  "generated_at": "2026-11-22 12:45 UTC",
   "jobs": [
+    {
+      "id": "greenhouse-zscaler-5291924007",
+      "company": "Zscaler",
+      "title": "Senior Software Development Engineer- (Rust/C++/Go) + Networking",
+      "location": "Bangalore, IND",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5291924007",
+      "posted_date": "2026-11-22",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-highradius-8033172003",
+      "company": "HighRadius",
+      "title": "Technical Consultant - Java ",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://www.highradius.com/about/careers-list/?gh_jid=8033172003",
+      "posted_date": "2026-11-21",
+      "is_new": true,
+      "applied": false
+    },
     {
       "id": "greenhouse-agoda-6323041",
       "company": "Agoda",
@@ -92,21 +112,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8294304002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8210383002",
       "company": "Databricks",
       "title": "Senior Software Engineer (App-Framework)",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
+      "posted_date": "2026-11-19",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-8294304002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer (App-Framework)",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
       "posted_date": "2026-11-19",
       "is_new": false,
       "applied": false
@@ -452,16 +472,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-zscaler-5291924007",
-      "company": "Zscaler",
-      "title": "Senior Software Development Engineer",
-      "location": "Bangalore, IND",
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5291924007",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-zscaler-5278559007",
       "company": "Zscaler",
       "title": "Senior Software Development Engineer",
@@ -542,21 +552,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-okta-8263823",
-      "company": "Okta",
-      "title": "Senior Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823",
-      "posted_date": "2026-11-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-okta-8345577",
       "company": "Okta",
       "title": "Senior Software Engineer",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8345577?gh_jid=8345577",
+      "posted_date": "2026-11-16",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8263823",
+      "company": "Okta",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.okta.com/company/careers/opportunity/8263823?gh_jid=8263823",
       "posted_date": "2026-11-16",
       "is_new": false,
       "applied": false
