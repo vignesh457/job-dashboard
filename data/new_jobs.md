@@ -921,3 +921,15 @@
 ## 2026-11-22 12:45 UTC — 1 new matching roles
 
 - **HighRadius** — [Technical Consultant - Java ](https://www.highradius.com/about/careers-list/?gh_jid=8033172003) (Hyderabad, Telangana, India) — posted 2026-11-21
+
+## 2026-11-23 15:08 UTC — 9 new matching roles
+
+- **Adyen** — [Backend Engineer (Java) ](https://job-boards.greenhouse.io/adyen/jobs/8041307) (Bengaluru) — posted 2026-11-23
+- **Arista Networks** — [Software Engineer (Routing Protocols/ Systems)](https://jobs.smartrecruiters.com/aristanetworks/744000163144459) (Pune) — posted 2026-11-23
+- **Commvault** — [Software Engineer (AI with Gen AI)](https://job-boards.greenhouse.io/commvault/jobs/5425593008) (Bangalore, India; Hyderbad, India; Pune, India) — posted 2026-11-23
+- **HighRadius** — [Senior Web Developer](https://www.highradius.com/about/careers-list/?gh_jid=8200225003) (Hyderabad, Telangana, India) — posted 2026-11-23
+- **LinkedIn** — [Software Engineer Screening Question Posting BLR](https://jobs.lever.co/linkedin/70699364-2cf3-4a2d-be57-411b6660388e) (Bangalore) — posted 2026-11-23
+- **New Relic** — [Software Engineer 1](https://job-boards.greenhouse.io/newrelic/jobs/5467941008) (Hyderabad, India) — posted 2026-11-23
+- **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000163151029) (Hyderabad) — posted 2026-11-23
+- **ServiceNow** — [Software Engineer (Go & Kubernetes)](https://jobs.smartrecruiters.com/servicenow/744000163146999) (Hyderabad) — posted 2026-11-23
+- **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8065032) (Remote - India) — posted 2026-11-23
