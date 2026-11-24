@@ -933,3 +933,9 @@
 - **ServiceNow** — [Software Engineer](https://jobs.smartrecruiters.com/servicenow/744000163151029) (Hyderabad) — posted 2026-11-23
 - **ServiceNow** — [Software Engineer (Go & Kubernetes)](https://jobs.smartrecruiters.com/servicenow/744000163146999) (Hyderabad) — posted 2026-11-23
 - **Twilio** — [Software Engineer (L3)](https://job-boards.greenhouse.io/twilio/jobs/8065032) (Remote - India) — posted 2026-11-23
+
+## 2026-11-24 15:05 UTC — 3 new matching roles
+
+- **Mindtickle** — [SDE-III](https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21) (Pune, Maharashtra) — posted 2026-11-24
+- **Okta** — [Senior Software Engineer (Java & System design)](https://www.okta.com/company/careers/opportunity/8411579?gh_jid=8411579) (Bengaluru) — posted 2026-11-24
+- **Toast** — [Software Engineer-I](https://careers.toasttab.com/jobs?gh_jid=8370624) (Bengaluru,Karnataka,India) — posted 2026-11-24
