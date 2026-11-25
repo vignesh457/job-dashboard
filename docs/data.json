@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-11-24 15:05 UTC",
+  "generated_at": "2026-11-25 14:45 UTC",
   "jobs": [
     {
-      "id": "greenhouse-databricks-8294304002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002",
+      "id": "smartrecruiters-grab-744000163671019",
+      "company": "Grab",
+      "title": "Senior Software Engineer, Backend",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000163671019",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "smartrecruiters-grab-744000163621319",
+      "company": "Grab",
+      "title": "Senior Software Engineer, Mobile (iOS)",
+      "location": "Bangalore",
+      "url": "https://jobs.smartrecruiters.com/grab/744000163621319",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-rubrik-8282005",
+      "company": "Rubrik",
+      "title": "Software Engineer Product Infra: Core Services",
+      "location": "Bengaluru",
+      "url": "https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-samsara-7266569",
+      "company": "Samsara",
+      "title": "Senior Software Engineer II ",
+      "location": "Bengaluru - BLR1",
+      "url": "https://www.samsara.com/company/careers/roles/7266569?gh_jid=7266569",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-toast-8230535",
+      "company": "Toast",
+      "title": "Senior Software Engineer, AI Agent & Experience Team",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8230535",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-truefoundry-5484575008",
+      "company": "TrueFoundry",
+      "title": "Developer Relations Engineer",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://app.careerpuck.com/job-board/truefoundry/job/5484575008?gh_jid=5484575008",
+      "posted_date": "2026-11-25",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-adyen-8041307",
+      "company": "Adyen",
+      "title": "Backend Engineer (Java) ",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
       "posted_date": "2026-11-24",
       "is_new": false,
       "applied": false
@@ -17,6 +77,16 @@
       "title": "Senior Software Engineer - Backend Infrastructure",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002",
+      "posted_date": "2026-11-24",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-databricks-7897431002",
+      "company": "Databricks",
+      "title": "Senior Software Engineer - Data + AI Observability",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
       "posted_date": "2026-11-24",
       "is_new": false,
       "applied": false
@@ -42,62 +112,12 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7647353002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer- Networking",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002",
-      "posted_date": "2026-11-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "lever-mindtickle-2f32712f-bc84-4485-b2fb-99e167f54e21",
       "company": "Mindtickle",
       "title": "SDE-III",
       "location": "Pune, Maharashtra",
       "url": "https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21",
       "posted_date": "2026-11-24",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7770733",
-      "company": "Okta",
-      "title": "Developer Support Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7770733?gh_jid=7770733",
-      "posted_date": "2026-11-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-8411579",
-      "company": "Okta",
-      "title": "Senior Software Engineer (Java & System design)",
-      "location": "Bengaluru",
-      "url": "https://www.okta.com/company/careers/opportunity/8411579?gh_jid=8411579",
-      "posted_date": "2026-11-24",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-toast-8370624",
-      "company": "Toast",
-      "title": "Software Engineer-I",
-      "location": "Bengaluru,Karnataka,India",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8370624",
-      "posted_date": "2026-11-24",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-adyen-8041307",
-      "company": "Adyen",
-      "title": "Backend Engineer (Java) ",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8041307",
-      "posted_date": "2026-11-23",
       "is_new": false,
       "applied": false
     },
@@ -107,16 +127,6 @@
       "title": "Software Engineer (Routing Protocols/ Systems)",
       "location": "Pune",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000163144459",
-      "posted_date": "2026-11-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7647369002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Data Platform)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
       "posted_date": "2026-11-23",
       "is_new": false,
       "applied": false
@@ -192,31 +202,11 @@
       "applied": false
     },
     {
-      "id": "smartrecruiters-servicenow-744000163151029",
-      "company": "ServiceNow",
-      "title": "Software Engineer",
-      "location": "Hyderabad",
-      "url": "https://jobs.smartrecruiters.com/servicenow/744000163151029",
-      "posted_date": "2026-11-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "smartrecruiters-servicenow-744000163146999",
       "company": "ServiceNow",
       "title": "Software Engineer (Go & Kubernetes)",
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000163146999",
-      "posted_date": "2026-11-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-twilio-8065032",
-      "company": "Twilio",
-      "title": "Software Engineer (L3)",
-      "location": "Remote - India",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8065032",
       "posted_date": "2026-11-23",
       "is_new": false,
       "applied": false
@@ -282,71 +272,11 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-8210383002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (App-Framework)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-8320183002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Backend",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-6709301002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Backend)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7897431002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Data + AI Observability",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7619810002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer (Infra)",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-databricks-8679982002",
       "company": "Databricks",
       "title": "Sr Software Engineer - Agentic Applications (Full Stack)",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-7955601002",
-      "company": "Databricks",
-      "title": "Sr Software Engineer - Backend",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002",
       "posted_date": "2026-11-19",
       "is_new": false,
       "applied": false
@@ -507,26 +437,6 @@
       "title": "Software Engineer \u2013 Full Stack (US Shift)",
       "location": "Hyderabad, India",
       "url": "https://job-boards.greenhouse.io/sureify/jobs/5435996008",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-sutherland-744000162477999",
-      "company": "Sutherland",
-      "title": "Web application developer",
-      "location": "Chennai",
-      "url": "https://jobs.smartrecruiters.com/sutherland/744000162477999",
-      "posted_date": "2026-11-19",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-toast-8392339",
-      "company": "Toast",
-      "title": "Senior Software Engineer - Java Backend ",
-      "location": "Chennai",
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8392339",
       "posted_date": "2026-11-19",
       "is_new": false,
       "applied": false

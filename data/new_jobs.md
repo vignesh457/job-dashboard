@@ -939,3 +939,12 @@
 - **Mindtickle** — [SDE-III](https://jobs.lever.co/mindtickle/2f32712f-bc84-4485-b2fb-99e167f54e21) (Pune, Maharashtra) — posted 2026-11-24
 - **Okta** — [Senior Software Engineer (Java & System design)](https://www.okta.com/company/careers/opportunity/8411579?gh_jid=8411579) (Bengaluru) — posted 2026-11-24
 - **Toast** — [Software Engineer-I](https://careers.toasttab.com/jobs?gh_jid=8370624) (Bengaluru,Karnataka,India) — posted 2026-11-24
+
+## 2026-11-25 14:45 UTC — 6 new matching roles
+
+- **Grab** — [Senior Software Engineer, Backend](https://jobs.smartrecruiters.com/grab/744000163671019) (Bangalore) — posted 2026-11-25
+- **Grab** — [Senior Software Engineer, Mobile (iOS)](https://jobs.smartrecruiters.com/grab/744000163621319) (Bangalore) — posted 2026-11-25
+- **Rubrik** — [Software Engineer Product Infra: Core Services](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) (Bengaluru) — posted 2026-11-25
+- **Samsara** — [Senior Software Engineer II ](https://www.samsara.com/company/careers/roles/7266569?gh_jid=7266569) (Bengaluru - BLR1) — posted 2026-11-25
+- **Toast** — [Senior Software Engineer, AI Agent & Experience Team](https://careers.toasttab.com/jobs?gh_jid=8230535) (Bengaluru, Karnataka, India) — posted 2026-11-25
+- **TrueFoundry** — [Developer Relations Engineer](https://app.careerpuck.com/job-board/truefoundry/job/5484575008?gh_jid=5484575008) (Bengaluru, Karnataka, India) — posted 2026-11-25
