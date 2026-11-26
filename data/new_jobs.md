@@ -948,3 +948,11 @@
 - **Samsara** — [Senior Software Engineer II ](https://www.samsara.com/company/careers/roles/7266569?gh_jid=7266569) (Bengaluru - BLR1) — posted 2026-11-25
 - **Toast** — [Senior Software Engineer, AI Agent & Experience Team](https://careers.toasttab.com/jobs?gh_jid=8230535) (Bengaluru, Karnataka, India) — posted 2026-11-25
 - **TrueFoundry** — [Developer Relations Engineer](https://app.careerpuck.com/job-board/truefoundry/job/5484575008?gh_jid=5484575008) (Bengaluru, Karnataka, India) — posted 2026-11-25
+
+## 2026-11-26 14:09 UTC — 5 new matching roles
+
+- **CommerceIQ** — [SDE - Intern ( UI )](https://job-boards.greenhouse.io/commerceiq/jobs/8217481003) (Bengaluru, Karnataka, India) — posted 2026-11-26
+- **Databricks** — [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002) (Bengaluru, India) — posted 2026-11-25
+- **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000163862789) (Hyderabad) — posted 2026-11-26
+- **Grab** — [Senior Software Engineer, Backend - Lending](https://jobs.smartrecruiters.com/grab/744000163804409) (Bangalore) — posted 2026-11-26
+- **Rubrik** — [Software Engineer (UI) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157) (Bangalore) — posted 2026-11-26
