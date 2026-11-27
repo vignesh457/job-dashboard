@@ -956,3 +956,10 @@
 - **Experian** — [Senior Software Engineer](https://jobs.smartrecruiters.com/experian/744000163862789) (Hyderabad) — posted 2026-11-26
 - **Grab** — [Senior Software Engineer, Backend - Lending](https://jobs.smartrecruiters.com/grab/744000163804409) (Bangalore) — posted 2026-11-26
 - **Rubrik** — [Software Engineer (UI) - Winter Intern](https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157) (Bangalore) — posted 2026-11-26
+
+## 2026-11-27 14:08 UTC — 4 new matching roles
+
+- **Meesho** — [Senior Software Engineer - Backend (Kirana Club)](https://jobs.lever.co/meesho/1d628f96-a365-441f-967d-11e647d2f587) (Bangalore, Karnataka) — posted 2026-11-27
+- **Meesho** — [Software Engineer I - Backend  (Kirana Club)](https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702) (Bangalore, Karnataka) — posted 2026-11-18
+- **Meesho** — [Software Engineer II — Backend (Kirana Club)](https://jobs.lever.co/meesho/9ae5ca62-3b5f-4bc4-9986-5c475f597223) (Bangalore, Karnataka) — posted 2026-11-18
+- **Okta** — [Senior Fullstack Engineer (Java Heavy + Front End)](https://www.okta.com/company/careers/opportunity/8239244?gh_jid=8239244) (Bengaluru) — posted 2026-11-27

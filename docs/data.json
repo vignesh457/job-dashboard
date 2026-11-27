@@ -1,13 +1,23 @@
 {
-  "generated_at": "2026-11-26 14:09 UTC",
+  "generated_at": "2026-11-27 14:08 UTC",
   "jobs": [
     {
-      "id": "greenhouse-commerceiq-8217481003",
-      "company": "CommerceIQ",
-      "title": "SDE - Intern ( UI )",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8217481003",
-      "posted_date": "2026-11-26",
+      "id": "lever-meesho-1d628f96-a365-441f-967d-11e647d2f587",
+      "company": "Meesho",
+      "title": "Senior Software Engineer - Backend (Kirana Club)",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/1d628f96-a365-441f-967d-11e647d2f587",
+      "posted_date": "2026-11-27",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-okta-8239244",
+      "company": "Okta",
+      "title": "Senior Fullstack Engineer (Java Heavy + Front End)",
+      "location": "Bengaluru",
+      "url": "https://www.okta.com/company/careers/opportunity/8239244?gh_jid=8239244",
+      "posted_date": "2026-11-27",
       "is_new": true,
       "applied": false
     },
@@ -18,17 +28,7 @@
       "location": "Hyderabad",
       "url": "https://jobs.smartrecruiters.com/experian/744000163862789",
       "posted_date": "2026-11-26",
-      "is_new": true,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-grab-744000163804409",
-      "company": "Grab",
-      "title": "Senior Software Engineer, Backend - Lending",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000163804409",
-      "posted_date": "2026-11-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -82,13 +82,23 @@
       "applied": false
     },
     {
+      "id": "greenhouse-okta-7765038",
+      "company": "Okta",
+      "title": "Senior Software Engineer \u2013 Tooling & Platform (Terraform)",
+      "location": "Bengaluru",
+      "url": "https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038",
+      "posted_date": "2026-11-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
       "id": "greenhouse-rubrik-8413157",
       "company": "Rubrik",
       "title": "Software Engineer (UI) - Winter Intern",
       "location": "Bangalore",
       "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
       "posted_date": "2026-11-26",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -102,13 +112,23 @@
       "applied": false
     },
     {
+      "id": "greenhouse-stockx-8603944002",
+      "company": "StockX",
+      "title": "Software Development Engineer in Test",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8603944002",
+      "posted_date": "2026-11-26",
+      "is_new": false,
+      "applied": false
+    },
+    {
       "id": "greenhouse-databricks-8829029002",
       "company": "Databricks",
       "title": "Software Engineer, Infrastructure",
       "location": "Bengaluru, India",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002",
       "posted_date": "2026-11-25",
-      "is_new": true,
+      "is_new": false,
       "applied": false
     },
     {
@@ -137,16 +157,6 @@
       "title": "Software Engineer - Fullstack",
       "location": "India, Bangalore",
       "url": "https://www.digicert.com/careers/?gh_jid=8929241002",
-      "posted_date": "2026-11-25",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-grab-744000163671019",
-      "company": "Grab",
-      "title": "Senior Software Engineer, Backend",
-      "location": "Bangalore",
-      "url": "https://jobs.smartrecruiters.com/grab/744000163671019",
       "posted_date": "2026-11-25",
       "is_new": false,
       "applied": false
@@ -272,26 +282,6 @@
       "applied": false
     },
     {
-      "id": "greenhouse-databricks-7934782002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Ingestion",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002",
-      "posted_date": "2026-11-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-databricks-8602402002",
-      "company": "Databricks",
-      "title": "Senior Software Engineer - Multi Cloud Efficiency",
-      "location": "Bengaluru, India",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002",
-      "posted_date": "2026-11-24",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "lever-mindtickle-2f32712f-bc84-4485-b2fb-99e167f54e21",
       "company": "Mindtickle",
       "title": "SDE-III",
@@ -307,16 +297,6 @@
       "title": "Software Engineer (Routing Protocols/ Systems)",
       "location": "Pune",
       "url": "https://jobs.smartrecruiters.com/aristanetworks/744000163144459",
-      "posted_date": "2026-11-23",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "lever-linkedin-70699364-2cf3-4a2d-be57-411b6660388e",
-      "company": "LinkedIn",
-      "title": "Software Engineer Screening Question Posting BLR",
-      "location": "Bangalore",
-      "url": "https://jobs.lever.co/linkedin/70699364-2cf3-4a2d-be57-411b6660388e",
       "posted_date": "2026-11-23",
       "is_new": false,
       "applied": false
@@ -512,6 +492,26 @@
       "applied": false
     },
     {
+      "id": "lever-meesho-73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "company": "Meesho",
+      "title": "Software Engineer I - Backend  (Kirana Club)",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702",
+      "posted_date": "2026-11-18",
+      "is_new": true,
+      "applied": false
+    },
+    {
+      "id": "lever-meesho-9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "company": "Meesho",
+      "title": "Software Engineer II \u2014 Backend (Kirana Club)",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/9ae5ca62-3b5f-4bc4-9986-5c475f597223",
+      "posted_date": "2026-11-18",
+      "is_new": true,
+      "applied": false
+    },
+    {
       "id": "greenhouse-okta-8377182",
       "company": "Okta",
       "title": "Demo Engineering Developer",
@@ -657,16 +657,6 @@
       "title": "Senior Software Engineer (NetSuite Developer)",
       "location": "Bengaluru, India",
       "url": "https://www.okta.com/company/careers/opportunity/8154916?gh_jid=8154916",
-      "posted_date": "2026-11-16",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "greenhouse-okta-7765038",
-      "company": "Okta",
-      "title": "Senior Software Engineer \u2013 Tooling & Platform (Terraform)",
-      "location": "Bengaluru, India",
-      "url": "https://www.okta.com/company/careers/opportunity/7765038?gh_jid=7765038",
       "posted_date": "2026-11-16",
       "is_new": false,
       "applied": false
@@ -842,21 +832,21 @@
       "applied": false
     },
     {
-      "id": "greenhouse-commerceiq-8045822003",
-      "company": "CommerceIQ",
-      "title": "Software Development Engineer - III",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
-      "posted_date": "2026-11-05",
-      "is_new": false,
-      "applied": false
-    },
-    {
       "id": "greenhouse-commerceiq-8045817003",
       "company": "CommerceIQ",
       "title": "Software Development Engineer - III",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045817003",
+      "posted_date": "2026-11-05",
+      "is_new": false,
+      "applied": false
+    },
+    {
+      "id": "greenhouse-commerceiq-8045822003",
+      "company": "CommerceIQ",
+      "title": "Software Development Engineer - III",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8045822003",
       "posted_date": "2026-11-05",
       "is_new": false,
       "applied": false
@@ -958,26 +948,6 @@
       "location": "Hybrid, Bangalore",
       "url": "https://job-boards.greenhouse.io/apolloio/jobs/6130765004",
       "posted_date": "2026-10-28",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-aristanetworks-744000158051849",
-      "company": "Arista Networks",
-      "title": "Software Developer(SRE) - CloudVision as a Service (CVaaS)",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/aristanetworks/744000158051849",
-      "posted_date": "2026-10-27",
-      "is_new": false,
-      "applied": false
-    },
-    {
-      "id": "smartrecruiters-aristanetworks-744000157964409",
-      "company": "Arista Networks",
-      "title": "Software Engineer (Platform/EOS/Networking)",
-      "location": "Bengaluru",
-      "url": "https://jobs.smartrecruiters.com/aristanetworks/744000157964409",
-      "posted_date": "2026-10-27",
       "is_new": false,
       "applied": false
     }
